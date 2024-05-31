@@ -1,0 +1,43 @@
+Pav
+Ultra Moon v1.2 Doubles
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Fake Out
+- Return
+- Low Kick
+- Sucker Punch
+
+Kommo-o-Totem @ Kommonium Z
+Ability: Overcoat
+EVs: 4 HP / 252 SpA / 252 Spe
+Rash Nature
+- Clanging Scales
+- Close Combat
+- Flamethrower
+- Protect
+
+Aegislash @ Weakness Policy
+Ability: Stance Change
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 0 Spe
+Quiet Nature
+- Shadow Ball
+- Flash Cannon
+- Wide Guard
+- King's Shield
+
+Arcanine @ Sitrus Berry
+Ability: Intimidate
+EVs: 228 HP / 156 Def / 36 SpA / 20 SpD / 68 Spe
+Modest Nature
+- Burn Up
+- Helping Hand
+- Protect
+- Toxic
+
+
+7NHG-WWWW-WWWD-4TCZ
+Battle 352 (Loss) vs. Punk Guy Etta [Rotom-Fan-3, Gyarados-3, Arcanine-4, Tauros-3]

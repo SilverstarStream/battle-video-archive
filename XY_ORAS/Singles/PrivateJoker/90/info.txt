@@ -1,0 +1,34 @@
+Joker
+Omega Ruby Singles
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 252 Atk / 4 Def / 252 Spe
+Adamant Nature
+- Return
+- Sucker Punch
+- Earthquake
+- Power-Up Punch
+
+Durant @ Choice Scarf
+Ability: Truant
+EVs: 172 HP / 108 Def / 228 Spe
+IVs: 30 SpA
+Jolly Nature
+- Entrainment
+- Iron Head
+- X-Scissor
+- Aerial Ace
+
+Volcarona @ Focus Sash
+Ability: Flame Body
+EVs: 72 HP / 252 SpA / 184 Spe
+Timid Nature
+- Flamethrower
+- Quiver Dance
+- Giga Drain
+- Protect
+
+
+P8UG-WWWW-WW3L-KXYG
+Battle 91 vs. Hiker Rand [Tyranitar-4, Golem-4, Probopass-4]

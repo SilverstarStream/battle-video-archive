@@ -1,0 +1,53 @@
+Jorm
+Sun v1.2 Multi (with AI partner)
+
+Tapu Koko @ Choice Specs
+Ability: Electric Surge
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Thunderbolt
+- Dazzling Gleam
+- Grass Knot
+- Volt Switch
+
+Salamence @ Salamencite
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 4 Def / 12 SpD / 236 Spe
+Jolly Nature
+- Double-Edge
+- Earthquake
+- Flamethrower
+- Protect
+
+Pokémon Trainer Colress
+
+Porygon2-4 @ Eviolite
+Ability: Download
+EVs: 252 HP / 252 SpA
+Modest Nature
+- Tri Attack
+- Thunder Wave
+- Shadow Ball
+- Ice Beam
+
+Metagross-4 @ Metagrossite
+Ability: Clear Body
+EVs: 252 Atk / 252 Spe
+Jolly Nature
+- Zen Headbutt
+- Meteor Mash
+- Brick Break
+- Bullet Punch
+
+
+57HG-WWWW-WWW8-2SQZ
+Battle 100 (Loss) vs. Captain Kiawe [Kangaskhan-3, Talonflame-3] & Golfer Moe [Espeon-3, Umbreon-4]
+
+FU3G-WWWW-WWW8-2SQL
+Battle 95 vs. Ace Trainer Granville [Weavile-3, Electrode-4] & Preschooler Victor [Uxie-4, Latios-4]
+
+GKLG-WWWW-WWW8-2SQ2
+Battle 79 vs. Dancer Variel [Ludicolo-4, Politoed-3] & Preschooler Naya [Dragonite-3, Azelf-4]
+
+5FUG-WWWW-WWW8-2SPQ
+Battle 47 vs. Police Officer Benji [Gigalith-4, Tyranitar-2] & Veteran Placido [Entei-1, Latias-1]

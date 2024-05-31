@@ -1,0 +1,33 @@
+Rojie
+Omega Ruby Singles
+
+Salamence @ Salamencite
+Ability: Intimidate
+EVs: 8 HP / 252 Atk / 12 SpD / 236 Spe
+Jolly Nature
+- Return
+- Roost
+- Dragon Dance
+- Substitute
+
+Chansey @ Eviolite
+Ability: Natural Cure
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Toxic
+- Soft-Boiled
+- Minimize
+- Seismic Toss
+
+Aegislash @ Leftovers
+Ability: Stance Change
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+- King's Shield
+- Shadow Sneak
+- Sacred Sword
+- Swords Dance
+
+
+86RW-WWWW-WW67-CTKR
+Battle 633 vs. Tourist Geneva [Wailord-4, Salamence-4, Bouffalant-4]

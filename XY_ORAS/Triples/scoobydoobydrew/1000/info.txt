@@ -1,0 +1,180 @@
+Charlie
+Alpha Sapphire Triples
+
+Charizard @ Charizardite Y
+Ability: Blaze
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Tailwind
+- Flamethrower
+- Air Slash
+- Solar Beam
+
+Probopass @ Rocky Helmet
+Ability: Sturdy
+Level: 2
+Relaxed Nature
+- Wide Guard
+- Pain Split
+- Stealth Rock
+- Thunder Wave
+
+Torkoal @ Mental Herb
+Ability: Shell Armor
+EVs: 56 HP / 252 SpA / 200 Spe
+Modest Nature
+- Shell Smash
+- Eruption
+- Solar Beam
+- Earth Power
+
+Pikachu @ Light Ball
+Ability: Lightning Rod
+EVs: 100 HP / 252 SpA / 156 Spe
+Modest Nature
+- Thunderbolt
+- Grass Knot
+- Disarming Voice
+- Nasty Plot
+
+Flareon @ Ganlon Berry
+Ability: Guts
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature
+- Flare Blitz
+- Superpower
+- Natural Gift
+- Helping Hand
+
+Talonflame @ Life Orb
+Ability: Gale Wings
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+- Brave Bird
+- Flare Blitz
+- Tailwind
+- Sunny Day
+
+
+25EG-WWWW-WW2Q-NNM9
+Battle 1000 vs. Ace Trainer Sigurd [Cryogonal-4, Latios-2, Empoleon-4, Lanturn-4, Samurott-4, Sceptile-4]
+
+5RRG-WWWW-WW2Q-NNLR
+Battle 994 vs. Veteran Isabella [Virizion-4, Suicune-2, Landorus-1, Articuno-3, Cobalion-2, Thundurus-4]
+
+WBQW-WWWW-WW2Q-NNL7
+Battle 991 vs. Punk Guy Quinton [Ninetales-4, Honchkrow-4, Absol-4, Drapion-4, Charizard-4, Emboar-4]
+
+Greninja @ Focus Sash
+Ability: Protean
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Grass Knot
+- Dark Pulse
+- Ice Beam
+- Water Pledge
+
+Ninetales @ Heat Rock
+Ability: Drought
+Level: 1
+Relaxed Nature
+- Incinerate
+- Pain Split
+- Safeguard
+- Quick Attack
+
+Venusaur @ Coba Berry
+Ability: Chlorophyll
+EVs: 252 HP / 4 SpA / 252 Spe
+Timid Nature
+- Grass Pledge
+- Sludge Bomb
+- Solar Beam
+- Sunny Day
+
+Camerupt @ Cameruptite
+Ability: Solid Rock
+EVs: 60 HP / 252 SpA / 196 Spe
+Modest Nature
+- Eruption
+- Heat Wave
+- Earth Power
+- Solar Beam
+
+Machamp @ Life Orb
+Ability: No Guard
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+- Dynamic Punch
+- Stone Edge
+- Knock Off
+- Rock Slide
+
+Staraptor @ Choice Scarf
+Ability: Reckless
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Brave Bird
+- Double-Edge
+- Close Combat
+- U-turn
+
+VLLG-WWWW-WW2Q-NNY5
+Battle 750 vs. Pokémon Breeder Gudrun [Archeops-4, Drapion-4, Krookodile-4, Gengar-4, Donphan-4, Yanmega-4]
+
+Greninja @ Focus Sash
+Ability: Protean
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Grass Knot
+- Dark Pulse
+- Protect
+- Water Pledge
+
+Exeggutor @ Black Sludge
+Ability: Chlorophyll
+Level: 1
+Relaxed Nature
+- Endure
+- Reflect
+- Light Screen
+- Hypnosis
+
+Chesnaught @ Coba Berry
+Ability: Bulletproof
+EVs: 252 HP / 252 Atk / 4 Def
+Brave Nature
+- Grass Pledge
+- Feint
+- Drain Punch
+- Wood Hammer
+
+Glalie @ Glalitite
+Ability: Moody
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Explosion
+- Return
+- Earthquake
+- Ice Shard
+
+Heatran @ Choice Specs
+Ability: Flash Fire
+EVs: 252 HP / 4 Def / 252 SpA
+Quiet Nature
+- Eruption
+- Heat Wave
+- Earth Power
+- Dragon Pulse
+
+Staraptor @ Choice Scarf
+Ability: Reckless
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Brave Bird
+- Double-Edge
+- Close Combat
+- U-turn
+
+885W-WWWW-WW2Q-NNHH
+Battle 500 vs. Punk Guy Quinton [Houndoom-4, Talonflame-4, Gengar-4, Absol-4, Darmanitan-4, Scrafty-4]

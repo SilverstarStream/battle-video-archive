@@ -1,0 +1,57 @@
+Serena
+X Multi (with AI partner)
+
+Thundurus @ Life Orb
+Ability: Prankster
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 30 Spe
+Timid Nature
+- Discharge
+- Flash Cannon
+- Dark Pulse
+- Hidden Power
+
+Talonflame @ Choice Band
+Ability: Gale Wings
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Flare Blitz
+- Brave Bird
+- Steel Wing
+- U-turn
+
+Friends List AI Partner
+
+Garchomp-3 @ Choice Scarf
+Ability: Sand Veil
+EVs: 252 Atk / 252 Spe
+Adamant Nature
+- Outrage
+- Earthquake
+- Fire Fang
+- Crunch
+
+Krookodile-3 @ Roseli Berry
+Ability: Intimidate
+EVs: 252 Atk / 252 SpD
+Adamant Nature
+- Earthquake
+- Crunch
+- Stone Edge
+- Dragon Tail
+
+
+4W7G-WWWW-WW52-HTZ9
+Battle 84 vs. Garçon Darcy [Hariyama-4, Emboar-4] & Veteran Jake [Articuno-1, Zapdos-2]
+
+HXLG-WWWW-WW52-FNWC
+Battle 73 vs. Hex Maniac Anastasia [Exeggutor-3, Gengar-4] & Beauty Lucetta [Houndoom-4, Aromatisse-4]
+
+EP3W-WWWW-WW52-HTN7
+Battle 49 vs. Hex Maniac Ciara [Gardevoir-4, Mismagius-4] & Veteran Zenobia [Regice-2, Terrakion-1]
+
+XZVG-WWWW-WW52-HTKK
+Battle 45 vs. Veteran Zenobia [Moltres-2, Heatran-2] & Veteran Dorian [Regice-1, Entei-2]
+
+HF3G-WWWW-WW52-HTJ7
+Battle 41 vs. Pokémon Ranger Cerese [Chesnaught-4, Gourgeist-4] & Veteran Zenobia [Entei-2, Virizion-1]

@@ -1,0 +1,33 @@
+Jeishmina94
+Sun v1.2 Singles
+
+Salamence @ Salamencite
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 16 SpD / 236 Spe
+Jolly Nature
+- Dragon Dance
+- Return
+- Substitute
+- Roost
+
+Type: Null @ Eviolite
+Ability: Battle Armor
+EVs: 252 HP / 204 SpD / 52 Spe
+Careful Nature
+- Swords Dance
+- Return
+- Flame Charge
+- Rest
+
+Aegislash @ Leftovers
+Ability: Stance Change
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+- King's Shield
+- Swords Dance
+- Shadow Sneak
+- Sacred Sword
+
+
+8KRG-WWWW-WWW7-TEJG
+Battle 531 (Loss) vs. Veteran Priya [Suicune-1, Azelf-2, Cobalion-2]

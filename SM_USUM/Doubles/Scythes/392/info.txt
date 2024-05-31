@@ -1,0 +1,47 @@
+Quaint
+Ultra Sun v1.2 Doubles
+
+Pheromosa @ Focus Sash
+Ability: Beast Boost
+EVs: 252 Atk / 12 SpA / 244 Spe
+IVs: 9 HP / 31 Atk / 8 Def / 31 SpA / 9 SpD / 31 Spe
+Lonely Nature
+- Low Kick
+- Lunge
+- Ice Beam
+- Protect
+
+Tapu Lele @ Psychium Z
+Ability: Psychic Surge
+EVs: 252 HP / 180 Def / 4 SpA / 4 SpD / 68 Spe
+Modest Nature
+- Psychic
+- Moonblast
+- Substitute
+- Protect
+
+Aegislash @ Leftovers
+Ability: Stance Change
+EVs: 252 HP / 220 SpA / 36 SpD
+IVs: 0 Spe
+Quiet Nature
+- Shadow Ball
+- Flash Cannon
+- Wide Guard
+- King's Shield
+
+Salamence @ Salamencite
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 4 Def / 12 SpD / 236 Spe
+Jolly Nature
+- Double-Edge
+- Earthquake
+- Substitute
+- Protect
+
+
+2Z7G-WWWW-WWWK-ZV47
+Battle 393 (Loss) vs. Scientist Robyn [Cofagrigus-3, Steelix-3, Slowbro-3, Audino-4]
+
+YBAG-WWWW-WWWK-ZVD6
+Battle 230 vs. Pokémon Trainer Sina [Glaceon-3, Oranguru-4, Sandslash-Alola-2, Lilligant-4]

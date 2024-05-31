@@ -1,0 +1,84 @@
+MisterVen
+Moon v1.1 Doubles
+
+Kangaskhan @ Kangaskhanite
+Ability: Inner Focus
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Power-Up Punch
+- Sucker Punch
+- Double-Edge
+- Fake Out
+
+Tapu Koko @ Life Orb
+Ability: Electric Surge
+EVs: 252 SpA / 4 SpD / 252 Spe
+IVs: 30 Def
+Timid Nature
+- Grass Knot
+- Dazzling Gleam
+- Thunderbolt
+- Protect
+
+Garchomp @ Groundium Z
+Ability: Rough Skin
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Earthquake
+- Dragon Claw
+- Swords Dance
+- Protect
+
+Celesteela @ Wacan Berry
+Ability: Beast Boost
+EVs: 252 HP / 220 SpA / 36 Spe
+Modest Nature
+- Flash Cannon
+- Flamethrower
+- Energy Ball
+- Protect
+
+
+NNZW-WWWW-WWW6-9FM8
+Battle 297 (Loss) vs. Sightseer Ezra [Drampa-4, Chandelure-4, Latios-4, Heatran-3]
+
+Kangaskhan @ Kangaskhanite
+Ability: Inner Focus
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Power-Up Punch
+- Sucker Punch
+- Double-Edge
+- Fake Out
+
+Tapu Koko @ Life Orb
+Ability: Electric Surge
+EVs: 252 SpA / 4 SpD / 252 Spe
+IVs: 30 Def
+Timid Nature
+- Grass Knot
+- Dazzling Gleam
+- Thunderbolt
+- Protect
+
+Latios @ Dragonium Z
+Ability: Levitate
+EVs: 8 HP / 248 SpA / 252 Spe
+IVs: 28 HP / 15 Atk / 30 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Draco Meteor
+- Psyshock
+- Dragon Pulse
+- Protect
+
+Celesteela @ Wacan Berry
+Ability: Beast Boost
+EVs: 252 HP / 220 SpA / 36 Spe
+Modest Nature
+- Flash Cannon
+- Flamethrower
+- Energy Ball
+- Protect
+
+9WZG-WWWW-WWW6-9FMR
+Battle 210 vs. Pokémon Trainer Grimsley [Sharpedo-4, Scrafty-4, Bisharp-3, Houndoom-3]

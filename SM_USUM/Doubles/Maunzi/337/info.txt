@@ -1,0 +1,43 @@
+Stef
+Sun v1.1 Doubles
+
+Tapu Lele @ Choice Scarf
+Ability: Psychic Surge
+EVs: 52 HP / 4 Def / 252 SpA / 4 SpD / 196 Spe
+Timid Nature
+- Psychic
+- Dazzling Gleam
+- Moonblast
+- Energy Ball
+
+Pheromosa @ Focus Sash
+Ability: Beast Boost
+EVs: 252 Atk / 12 SpA / 244 Spe
+IVs: 0 HP / 0 Def / 0 SpD
+Lonely Nature
+- Lunge
+- Ice Beam
+- Low Kick
+- Protect
+
+Salamence @ Salamencite
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 4 Def / 4 SpA / 244 Spe
+Naive Nature
+- Double-Edge
+- Hyper Voice
+- Flamethrower
+- Protect
+
+Aegislash @ Ghostium Z
+Ability: Stance Change
+EVs: 228 HP / 4 Def / 252 SpA / 12 SpD / 12 Spe
+Modest Nature
+- Shadow Ball
+- Flash Cannon
+- Wide Guard
+- King's Shield
+
+
+VZWG-WWWW-WWW6-S6J9
+Battle 338 (Loss) vs. Preschooler Naya [Goodra-4, Heatran-4, Uxie-3, Salamence-4]

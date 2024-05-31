@@ -1,0 +1,42 @@
+I
+Y Rotation
+
+Klefki @ Leftovers
+Ability: Prankster
+EVs: 228 HP / 252 Def / 28 SpD
+Bold Nature
+- Dazzling Gleam
+- Calm Mind
+- Substitute
+- Protect
+
+Gengar @ Focus Sash
+Ability: Levitate
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Shadow Ball
+- Sludge Bomb
+- Destiny Bond
+- Protect
+
+Dragonite @ Lum Berry
+Ability: Multiscale
+EVs: 52 HP / 252 Atk / 12 Def / 4 SpD / 188 Spe
+Adamant Nature
+- Outrage
+- Substitute
+- Roost
+- Dragon Dance
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Double-Edge
+- Earthquake
+- Sucker Punch
+- Fake Out
+
+
+NPJW-WWWW-WWW8-SZ2E
+Battle 529 vs. Beauty Orla [Froslass-4, Quagsire-4, Empoleon-4, Jynx-4]

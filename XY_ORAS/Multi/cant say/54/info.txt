@@ -1,0 +1,45 @@
+Jake
+Y Multi (with AI partner)
+
+Garchomp @ Assault Vest
+Ability: Rough Skin
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Earthquake
+- Dragon Claw
+- Iron Head
+- Rock Slide
+
+Aerodactyl @ Aerodactylite
+Ability: Rock Head
+EVs: 4 HP / 252 Atk / 252 Spe
+IVs: 23 Def
+Adamant Nature
+- Rock Slide
+- Earthquake
+- Ice Fang
+- Aerial Ace
+
+Friends List AI Partner
+
+Charizard-3 @ Choice Scarf
+Ability: Blaze
+EVs: 168 Atk / 168 SpA / 168 Spe
+Mild Nature
+- Heat Wave
+- Rock Slide
+- Air Slash
+- Crunch
+
+Raikou-3 @ Air Balloon
+Ability: Pressure
+EVs: 252 SpA / 252 Spe
+Timid Nature
+- Thunderbolt
+- Volt Switch
+- Shadow Ball
+- Protect
+
+
+LGJW-WWWW-WWW5-SYWZ
+Battle 50 vs. Battle Chatelaine Nita [Thundurus-3, Landorus-2] & Battle Chatelaine Morgan [Latias-1, Virizion-3]

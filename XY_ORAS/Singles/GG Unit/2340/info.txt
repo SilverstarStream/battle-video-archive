@@ -1,0 +1,66 @@
+Based God
+Omega Ruby Singles
+
+Salamence @ Salamencite
+Ability: Intimidate
+EVs: 8 HP / 252 Atk / 12 SpD / 236 Spe
+Jolly Nature
+- Substitute
+- Dragon Dance
+- Roost
+- Return
+
+Chansey @ Eviolite
+Ability: Natural Cure
+EVs: 252 HP / 252 Def / 4 Spe
+Bold Nature
+- Soft-Boiled
+- Substitute
+- Minimize
+- Seismic Toss
+
+Aegislash @ Leftovers
+Ability: Stance Change
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+- King's Shield
+- Swords Dance
+- Shadow Sneak
+- Sacred Sword
+
+
+ZMVG-WWWW-WW2M-MHEV
+Battle 2341 vs. Madame Inga [Chandelure-4, Weavile-4, Jolteon-4]
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature
+- Earthquake
+- Return
+- Sucker Punch
+- Power-Up Punch
+
+Chansey @ Eviolite
+Ability: Natural Cure
+EVs: 252 HP / 252 Def / 4 Spe
+Bold Nature
+- Soft-Boiled
+- Substitute
+- Minimize
+- Seismic Toss
+
+Gliscor @ Toxic Orb
+Ability: Poison Heal
+EVs: 236 HP / 4 Atk / 12 Def / 252 SpD / 4 Spe
+Careful Nature
+- Earthquake
+- Protect
+- Substitute
+- Toxic
+
+X77W-WWWW-WW2K-UC5T
+Battle 1560 vs. Hex Maniac Celia [Spiritomb-4, Mismagius-4, Gallade-4]
+
+GM3W-WWWW-WW2K-URPH
+Battle 1142 vs. Battle Girl Rei [Probopass-4, Infernape-4, Talonflame-4]

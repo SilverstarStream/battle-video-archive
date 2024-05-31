@@ -1,0 +1,46 @@
+Antonio
+Alpha Sapphire Multi (with AI partner)
+
+Sylveon @ Pixie Plate
+Ability: Pixilate
+EVs: 56 HP / 252 SpA / 200 Spe
+IVs: 28 SpD
+Modest Nature
+- Hyper Voice
+- Psyshock
+- Shadow Ball
+- Protect
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+EVs: 4 HP / 252 Atk / 252 Spe
+IVs: 21 HP / 31 Atk / 3 Def / 30 SpA / 11 SpD / 31 Spe
+Jolly Nature
+- Dragon Claw
+- Earthquake
+- Rock Slide
+- Protect
+
+Pokémon Trainer Wally
+
+Gallade @ Galladite
+Ability: Steadfast
+EVs: 252 Atk / 252 Spe
+Adamant Nature
+- Psycho Cut
+- Close Combat
+- Leaf Blade
+- Swords Dance
+
+Magnezone @ Air Balloon
+Ability: Magnet Pull
+EVs: 252 SpA / 252 SpD
+Modest Nature
+- Thunder Wave
+- Thunder
+- Reflect
+- Flash Cannon
+
+
+DKLG-WWWW-WW4D-SZZC
+Battle 61 vs. Veteran Howell [Cobalion-2, Cresselia-1] & Roller Skater Electra [Staraptor-4, Gliscor-4]

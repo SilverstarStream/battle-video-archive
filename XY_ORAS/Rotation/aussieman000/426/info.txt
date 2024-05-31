@@ -1,0 +1,45 @@
+Wally
+Omega Ruby Rotation
+
+Suicune @ Leftovers
+Ability: Pressure
+EVs: 132 HP / 252 Def / 4 SpA / 4 SpD / 116 Spe
+IVs: 21 SpD
+Bold Nature
+- Icy Wind
+- Scald
+- Calm Mind
+- Rest
+
+Charizard @ Charizardite X
+Ability: Blaze
+EVs: 252 HP / 32 Atk / 172 SpD / 52 Spe
+IVs: 30 SpA
+Adamant Nature
+- Dragon Dance
+- Roost
+- Flare Blitz
+- Dragon Claw
+
+Ferrothorn @ Zoom Lens
+Ability: Iron Barbs
+EVs: 252 HP / 20 Atk / 116 Def / 4 SpA / 116 SpD
+IVs: 0 Spe
+Sassy Nature
+- Substitute
+- Protect
+- Leech Seed
+- Power Whip
+
+Gliscor @ Toxic Orb
+Ability: Poison Heal
+EVs: 252 HP / 164 Def / 92 Spe
+Impish Nature
+- Substitute
+- Protect
+- Toxic
+- Earthquake
+
+
+9XPG-WWWW-WWXW-ZQ4R
+Battle 427 vs. Veteran Isabella [Thundurus-4, Landorus-2, Regigigas-2, Suicune-1]

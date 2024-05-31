@@ -1,0 +1,51 @@
+Lolnub
+Sun v1.2 Doubles
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Hurricane
+- Surf
+- Rain Dance
+- Protect
+
+Ludicolo @ Absorb Bulb
+Ability: Swift Swim
+EVs: 252 SpA / 252 Spe
+Modest Nature
+- Fake Out
+- Scald
+- Energy Ball
+- Ice Beam
+
+Swampert @ Swampertite
+Ability: Torrent
+EVs: 12 HP / 252 Atk / 244 Spe
+Adamant Nature
+- Waterfall
+- Earthquake
+- Ice Punch
+- Protect
+
+Celesteela @ Assault Vest
+Ability: Beast Boost
+EVs: 252 HP / 252 Atk / 4 Spe
+Brave Nature
+- Heavy Slam
+- Flamethrower
+- Seed Bomb
+- Earthquake
+
+
+JMBW-WWWW-WWWG-7GKZ
+Battle 598 (Loss) vs. Rising Star Joaquin [Armaldo-3, Kingdra-4, Carracosta-4, Ludicolo-3]
+
+GLXG-WWWW-WWWG-7GUL
+Battle 546 vs. Madame Gracie [Latias-4, Zapdos-2, Uxie-3, Azelf-4]
+
+4DJW-WWWW-WWWG-7H5X
+Battle 500 vs. Pokémon Trainer Sina [Abomasnow-4, Glaceon-3, Drampa-4, Mandibuzz-4]
+
+VAYW-WWWW-WWWG-7H5E
+Battle 300 vs. Pokémon Trainer Sina [Drampa-4, Glaceon-4, Oranguru-3, Abomasnow-4]

@@ -1,0 +1,66 @@
+A
+Sun v1.2 Singles
+
+Salamence @ Salamencite
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 4 Def / 12 SpD / 236 Spe
+Jolly Nature
+- Return
+- Dragon Dance
+- Roost
+- Substitute
+
+Suicune @ Leftovers
+Ability: Pressure
+EVs: 196 HP / 252 Def / 60 Spe
+Bold Nature
+- Calm Mind
+- Icy Wind
+- Rest
+- Scald
+
+Gliscor @ Toxic Orb
+Ability: Poison Heal
+EVs: 236 HP / 4 Atk / 4 Def / 252 SpD / 12 Spe
+Careful Nature
+- Substitute
+- Toxic
+- Protect
+- Earthquake
+
+
+WFTW-WWWW-WWW9-JKFG
+Battle 674 (Loss) vs. Veteran Ignacio [Latias-4, Terrakion-3, Tornadus-4]
+
+Salamence @ Salamencite
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 4 Def / 12 SpD / 236 Spe
+Jolly Nature
+- Return
+- Dragon Dance
+- Roost
+- Substitute
+
+Gliscor @ Toxic Orb
+Ability: Poison Heal
+EVs: 236 HP / 4 Atk / 4 Def / 252 SpD / 12 Spe
+Careful Nature
+- Substitute
+- Toxic
+- Protect
+- Earthquake
+
+Suicune @ Leftovers
+Ability: Pressure
+EVs: 196 HP / 252 Def / 60 Spe
+Bold Nature
+- Calm Mind
+- Icy Wind
+- Rest
+- Scald
+
+JJGG-WWWW-WWW9-BREF
+Battle 356 vs. Golfer Susanna [Salamence-4, Tentacruel-4, Zapdos-4]
+
+YE6W-WWWW-WWW9-BREB
+Battle 349 vs. Office Worker Harding [Metagross-4, Electrode-3, Druddigon-3]

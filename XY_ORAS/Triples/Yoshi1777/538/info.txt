@@ -1,0 +1,65 @@
+Piers Morgan
+Y Triples
+
+Talonflame @ Choice Band
+Ability: Gale Wings
+EVs: 252 HP / 252 Atk / 4 Spe
+IVs: 31 HP / 31 Atk / 9 Def / 17 SpA / 18 SpD / 31 Spe
+Adamant Nature
+- Brave Bird
+- U-turn
+- Flare Blitz
+- Steel Wing
+
+Hitmonlee @ Focus Sash
+Ability: Unburden
+EVs: 4 HP / 252 Atk / 252 Spe
+IVs: 31 HP / 31 Atk / 24 Def / 4 SpA / 22 SpD / 31 Spe
+Adamant Nature
+- Fake Out
+- Helping Hand
+- Close Combat
+- Protect
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Fake Out
+- Crunch
+- Return
+- Brick Break
+
+Garchomp @ Choice Scarf
+Ability: Rough Skin
+EVs: 4 HP / 252 Atk / 252 Spe
+IVs: 31 HP / 31 Atk / 27 Def / 12 SpA / 22 SpD / 31 Spe
+Adamant Nature
+- Dragon Claw
+- Earthquake
+- Crunch
+- Iron Head
+
+Zapdos @ Life Orb
+Ability: Pressure
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 17 HP / 2 Atk / 22 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Thunderbolt
+- Discharge
+- Hidden Power
+- Protect
+
+Greninja @ Expert Belt
+Ability: Protean
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 16 Def / 16 SpD
+Timid Nature
+- Scald
+- Ice Beam
+- Dark Pulse
+- Mat Block
+
+
+TTFG-WWWW-WWW9-XM8H
+Battle 538 vs. Veteran Jake [Moltres-1, Thundurus-2, Regice-1, Tornadus-1, Regirock-1, Terrakion-2]

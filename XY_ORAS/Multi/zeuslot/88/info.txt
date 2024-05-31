@@ -1,0 +1,45 @@
+Late
+Y Multi (with AI partner)
+
+Charizard @ Charizardite Y
+Ability: Blaze
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Air Slash
+- Heat Wave
+- Solar Beam
+- Dragon Pulse
+
+Rotom-Wash @ Leftovers
+Ability: Levitate
+EVs: 232 HP / 56 SpA / 220 Spe
+IVs: 30 Spe
+Modest Nature
+- Discharge
+- Will-O-Wisp
+- Hydro Pump
+- Shadow Ball
+
+Friends List AI Partner
+
+Typhlosion-3 @ Choice Scarf
+Ability: Blaze
+EVs: 252 SpA / 252 Spe
+Modest Nature
+- Eruption
+- Focus Blast
+- Heat Wave
+- Extrasensory
+
+Cobalion-3 @ Lax Incense
+Ability: Justified
+EVs: 252 Atk / 252 Spe
+Jolly Nature
+- Swagger
+- Substitute
+- Psych Up
+- Iron Head
+
+
+MK4G-WWWW-WWW8-49NP
+Battle 89 vs. Roller Skater Ryker [Aerodactyl-3, Electrode-4] & Tourist Geneva [Flygon-4, Donphan-4]

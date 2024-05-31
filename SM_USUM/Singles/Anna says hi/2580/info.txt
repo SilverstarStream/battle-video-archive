@@ -1,0 +1,42 @@
+A
+Ultra Moon v1.2 Singles
+
+Salamence @ Salamencite
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 4 Def / 12 SpD / 236 Spe
+Jolly Nature
+- Return
+- Dragon Dance
+- Roost
+- Substitute
+
+Gliscor @ Toxic Orb
+Ability: Poison Heal
+EVs: 236 HP / 4 Atk / 4 Def / 252 SpD / 12 Spe
+Careful Nature
+- Substitute
+- Toxic
+- Protect
+- Earthquake
+
+Suicune @ Leftovers
+Ability: Pressure
+EVs: 196 HP / 252 Def / 60 Spe
+Bold Nature
+- Calm Mind
+- Icy Wind
+- Rest
+- Scald
+
+
+GE7W-WWWW-WWWG-LH79
+Battle 1000 vs. Pokémon Trainer Kukui [Braviary-4, Incineroar-3, Lycanroc-Midday-2]
+
+LFGG-WWWW-WWWG-DJBQ
+Battle 900 vs. Pokémon Trainer Colress [Muk-Alola-2, Metagross-4, Porygon2-4]
+
+N9YW-WWWW-WWWG-LHNW
+Battle 854 vs. Scientist Tivon [Reuniclus-4, Wishiwashi-4, Trevenant-4]
+
+B3FG-WWWW-WWWF-KESA
+Battle 794 vs. Punk Girl Edda [Rotom-Mow-3, Honchkrow-4, Glalie-3]

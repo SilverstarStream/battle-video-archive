@@ -1,0 +1,43 @@
+Carl
+Y Rotation
+
+Garchomp @ Rocky Helmet
+Ability: Rough Skin
+EVs: 252 HP / 92 Def / 164 Spe
+Jolly Nature
+- Swords Dance
+- Dragon Claw
+- Rock Slide
+- Earthquake
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Return
+- Earthquake
+- Power-Up Punch
+- Sucker Punch
+
+Klefki @ Light Clay
+Ability: Prankster
+EVs: 252 HP / 152 Def / 104 SpD
+Bold Nature
+- Reflect
+- Light Screen
+- Thunder Wave
+- Foul Play
+
+Zapdos @ Leftovers
+Ability: Pressure
+EVs: 248 HP / 240 SpD / 20 Spe
+IVs: 31 HP / 1 Atk / 27 Def / 30 SpA / 31 SpD / 31 Spe
+Calm Nature
+- Toxic
+- Thunderbolt
+- Roost
+- Substitute
+
+
+6QKG-WWWW-WWW8-9PR9
+Battle 444 vs. Garçon Porter [Electivire-4, Gigalith-4, Krookodile-4, Hippowdon-4]

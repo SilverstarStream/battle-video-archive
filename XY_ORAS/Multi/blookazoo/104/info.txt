@@ -1,0 +1,65 @@
+Bloo
+Omega Ruby Multi (with AI partner)
+
+Greninja @ Focus Sash
+Ability: Protean
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Mat Block
+- Grass Knot
+- Ice Beam
+- Scald
+
+Salamence @ Salamencite
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Dragon Dance
+- Earthquake
+- Return
+- Protect
+
+Pokémon Trainer Steven
+
+Metagross @ Metagrossite
+Ability: Clear Body
+EVs: 252 Atk / 252 Def
+Adamant Nature
+- Meteor Mash
+- Bullet Punch
+- Zen Headbutt
+- Hammer Arm
+
+Aerodactyl @ Focus Sash
+Ability: Rock Head
+EVs: 252 Atk / 252 Spe
+Jolly Nature
+- Rock Slide
+- Ice Fang
+- Thunder Fang
+- Fire Fang
+
+
+FKQW-WWWW-WW3C-PS8U
+Battle 105 vs. Roller Skater Raoul [Electrode-4, Gliscor-4] & Tourist Chelsea [Ludicolo-4, Feraligatr-4]
+
+Greninja @ Focus Sash
+Ability: Protean
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Mat Block
+- Grass Knot
+- Ice Beam
+- Dark Pulse
+
+Salamence @ Salamencite
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Dragon Dance
+- Earthquake
+- Return
+- Protect
+
+XC2G-WWWW-WW3C-EBFL
+Battle 95 vs. Veteran Alfie [Heatran-4, Latias-3] & Hiker Rand [Tyranitar-4, Scrafty-4]

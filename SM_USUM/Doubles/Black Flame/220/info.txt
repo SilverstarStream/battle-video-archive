@@ -1,0 +1,42 @@
+Os
+Sun v1.1 Doubles
+
+Tapu Lele @ Choice Scarf
+Ability: Psychic Surge
+EVs: 108 HP / 252 SpA / 148 Spe
+Modest Nature
+- Psychic
+- Moonblast
+- Psyshock
+- Energy Ball
+
+Greninja-Ash @ Waterium Z
+Ability: Battle Bond
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+- Mat Block
+- Hydro Cannon
+- Dark Pulse
+- Ice Beam
+
+Marowak-Alola @ Thick Club
+Ability: Lightning Rod
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+- Flare Blitz
+- Shadow Bone
+- Protect
+- Earthquake
+
+Salamence @ Salamencite
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Thrash
+- Double-Edge
+- Protect
+- Earthquake
+
+
+PSAG-WWWW-WWW5-E5QE
+Battle 221 (Loss) vs. Ace Trainer Granville [Weavile-4, Sceptile-3, Greninja-4, Aerodactyl-4]

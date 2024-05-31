@@ -1,0 +1,231 @@
+May
+Omega Ruby Triples
+
+Lucario @ Lucarionite
+Ability: Inner Focus
+EVs: 112 HP / 144 SpA / 252 Spe
+Timid Nature
+- Aura Sphere
+- Flash Cannon
+- Nasty Plot
+- Dark Pulse
+
+Marowak @ Thick Club
+Ability: Lightning Rod
+EVs: 116 HP / 252 Atk / 140 Spe
+Adamant Nature
+- Earthquake
+- Rock Slide
+- Fire Punch
+- Protect
+
+Greninja @ Focus Sash
+Ability: Protean
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Mat Block
+- Ice Beam
+- Scald
+- Dark Pulse
+
+Talonflame @ Sharp Beak
+Ability: Gale Wings
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+- Brave Bird
+- Flare Blitz
+- Quick Guard
+- Tailwind
+
+Sylveon @ Lum Berry
+Ability: Pixilate
+EVs: 188 HP / 112 Def / 208 SpA
+Bold Nature
+- Hyper Voice
+- Light Screen
+- Heal Bell
+- Protect
+
+Hydreigon @ Choice Scarf
+Ability: Levitate
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Dragon Pulse
+- Dark Pulse
+- Flamethrower
+- Earth Power
+
+
+PS9G-WWWW-WW53-VZQP
+Battle 585 vs. Veteran Sibyl [Registeel-1, Landorus-2, Latios-1, Articuno-1, Virizion-2, Cobalion-2]
+
+Lucario @ Lucarionite
+Ability: Inner Focus
+EVs: 112 HP / 144 SpA / 252 Spe
+Timid Nature
+- Aura Sphere
+- Flash Cannon
+- Nasty Plot
+- Dark Pulse
+
+Marowak @ Thick Club
+Ability: Lightning Rod
+EVs: 116 HP / 252 Atk / 140 Spe
+Adamant Nature
+- Earthquake
+- Rock Slide
+- Fire Punch
+- Protect
+
+Greninja @ Focus Sash
+Ability: Protean
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Mat Block
+- Ice Beam
+- Scald
+- Dark Pulse
+
+Hydreigon @ Choice Scarf
+Ability: Levitate
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Dragon Pulse
+- Dark Pulse
+- Flamethrower
+- Earth Power
+
+Sylveon @ Lum Berry
+Ability: Pixilate
+EVs: 188 HP / 112 Def / 208 SpA
+Bold Nature
+- Hyper Voice
+- Light Screen
+- Heal Bell
+- Protect
+
+Talonflame @ Sharp Beak
+Ability: Gale Wings
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+- Brave Bird
+- Flare Blitz
+- Quick Guard
+- Tailwind
+
+SMWG-WWWW-WW53-VP3S
+Battle 554 vs. Veteran Dorian [Thundurus-1, Landorus-2, Articuno-2, Latias-1, Tornadus-2, Terrakion-1]
+
+Lucario @ Lucarionite
+Ability: Inner Focus
+EVs: 112 HP / 144 SpA / 252 Spe
+Timid Nature
+- Aura Sphere
+- Dark Pulse
+- Flash Cannon
+- Nasty Plot
+
+Marowak @ Thick Club
+Ability: Lightning Rod
+EVs: 116 HP / 252 Atk / 140 Spe
+Adamant Nature
+- Earthquake
+- Rock Slide
+- Fire Punch
+- Protect
+
+Greninja @ Focus Sash
+Ability: Protean
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Scald
+- Ice Beam
+- Dark Pulse
+- Mat Block
+
+Talonflame @ Sharp Beak
+Ability: Gale Wings
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+- Brave Bird
+- Flare Blitz
+- Quick Guard
+- Tailwind
+
+Hydreigon @ Choice Scarf
+Ability: Levitate
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Dragon Pulse
+- Dark Pulse
+- Flamethrower
+- Earth Power
+
+Sylveon @ Lum Berry
+Ability: Pixilate
+EVs: 188 HP / 112 Def / 208 SpA
+Bold Nature
+- Hyper Voice
+- Light Screen
+- Heal Bell
+- Protect
+
+GCHW-WWWW-WW53-VPW7
+Battle 315 vs. Punk Guy Quinton [Krookodile-4, Weavile-4, Victreebel-4, Flareon-4, Chandelure-4, Muk-4]
+
+Lucario @ Lucarionite
+Ability: Inner Focus
+EVs: 112 HP / 144 SpA / 252 Spe
+Timid Nature
+- Aura Sphere
+- Dark Pulse
+- Flash Cannon
+- Nasty Plot
+
+Marowak @ Thick Club
+Ability: Lightning Rod
+EVs: 116 HP / 252 Atk / 140 Spe
+Adamant Nature
+- Earthquake
+- Rock Slide
+- Fire Punch
+- Protect
+
+Greninja @ Focus Sash
+Ability: Protean
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Scald
+- Ice Beam
+- Dark Pulse
+- Mat Block
+
+Hydreigon @ Choice Scarf
+Ability: Levitate
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Dragon Pulse
+- Dark Pulse
+- Flamethrower
+- Earth Power
+
+Sylveon @ Lum Berry
+Ability: Pixilate
+EVs: 188 HP / 112 Def / 208 SpA
+Bold Nature
+- Hyper Voice
+- Light Screen
+- Heal Bell
+- Protect
+
+Talonflame @ Sharp Beak
+Ability: Gale Wings
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+- Brave Bird
+- Flare Blitz
+- Quick Guard
+- Tailwind
+
+464W-WWWW-WW53-VPX8
+Battle 301 vs. Hex Maniac Mara [Carbink-3, Reuniclus-2, Bronzong-4, Slowking-1, Cofagrigus-3, Aromatisse-4]

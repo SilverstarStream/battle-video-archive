@@ -1,0 +1,68 @@
+Zven
+Y Singles
+
+Durant @ Choice Scarf
+Ability: Truant
+EVs: 164 HP / 156 Def / 188 Spe
+Jolly Nature
+- Entrainment
+- Protect
+- Confide
+- X-Scissor
+
+Dragonite @ Leftovers
+Ability: Multiscale
+EVs: 172 HP / 124 Atk / 212 Spe
+Adamant Nature
+- Dragon Dance
+- Protect
+- Dragon Claw
+- Fire Punch
+
+Jolteon @ Focus Sash
+Ability: Volt Absorb
+EVs: 4 Def / 248 SpA / 4 SpD / 252 Spe
+IVs: 30 SpA
+Timid Nature
+- Work Up
+- Protect
+- Shock Wave
+- Shadow Ball
+
+
+3WFG-WWWW-WW3P-L53B
+Battle 292 vs. Black Belt Sebastian [Shuckle-4, Mienshao-4, Conkeldurr-4]
+
+Durant @ Choice Scarf
+Ability: Truant
+EVs: 252 HP / 4 Atk / 252 Spe
+Jolly Nature
+- Entrainment
+- Aerial Ace
+- Confide
+- X-Scissor
+
+Dragonite @ Leftovers
+Ability: Multiscale
+EVs: 172 HP / 124 Atk / 212 Spe
+Adamant Nature
+- Dragon Dance
+- Protect
+- Dragon Claw
+- Fire Punch
+
+Jolteon @ Focus Sash
+Ability: Volt Absorb
+EVs: 4 Def / 248 SpA / 4 SpD / 252 Spe
+IVs: 30 SpA
+Timid Nature
+- Work Up
+- Protect
+- Shock Wave
+- Shadow Ball
+
+F7AG-WWWW-WW3Z-LE3A
+Battle 172 vs. Psychic Haskell [Gourgeist-4, Espeon-4, Slowbro-4]
+
+G7JW-WWWW-WW3Z-KPCY
+Battle 135 vs. Waitress Ilisha [Mienshao-4, Carracosta-4, Jolteon-4]

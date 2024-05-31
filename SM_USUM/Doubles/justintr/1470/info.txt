@@ -1,0 +1,69 @@
+Justin
+Ultra Moon v1.2 Doubles
+
+Hawlucha @ Psychic Seed
+Ability: Unburden
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+- Low Kick
+- Acrobatics
+- Tailwind
+- Protect
+
+Tapu Lele @ Psychium Z
+Ability: Psychic Surge
+EVs: 4 HP / 4 Def / 252 SpA / 4 SpD / 244 Spe
+Modest Nature
+- Psychic
+- Moonblast
+- Taunt
+- Protect
+
+Metagross @ Metagrossite
+Ability: Clear Body
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Iron Head
+- Stomping Tantrum
+- Ice Punch
+- Protect
+
+Hydreigon @ Life Orb
+Ability: Levitate
+EVs: 12 HP / 4 Def / 244 SpA / 4 SpD / 244 Spe
+Modest Nature
+- Dragon Pulse
+- Dark Pulse
+- Flamethrower
+- Protect
+
+
+2RUG-WWWW-WWX3-MQ29
+Battle 1471 (Loss) vs. Scientist Tivon [Rotom-Frost-4, Lickilicky-4, Reuniclus-3, Steelix-4]
+
+7BVW-WWWW-WWX3-MQ2L
+Battle 1448 vs. Backpacker Gwenny [Azelf-2, Mesprit-2, Articuno-1, Cresselia-1]
+
+WP2G-WWWW-WWX3-MQ3K
+Battle 1353 vs. Ace Trainer Raz [Accelgor-4, Crobat-3, Sceptile-3, Alakazam-3]
+
+8YYG-WWWW-WWX3-MQ4W
+Battle 1280 vs. Pokémon Trainer Colress [Muk-Alola-1, Magnezone-4, Metagross-4, Klinklang-3]
+
+PNYW-WWWW-WWX2-H99X
+Battle 1000 vs. Captain Mallow [Tsareena-3, Talonflame-3, Trevenant-4, Toucannon-3]
+
+GT2W-WWWW-WWX2-H9A6
+Battle 989 vs. Office Worker Jana [Carbink-4, Milotic-4, Mimikyu-4, Dugtrio-2]
+
+DL8W-WWWW-WWX2-H9BC
+Battle 983 vs. Ace Trainer Levi [Incineroar-4, Espeon-3, Rotom-Wash-4, Infernape-4]
+
+5QVG-WWWW-WWX2-H9D9
+Battle 779 vs. Sightseer Ezra [Magnezone-3, Heatran-3, Latios-1, Gengar-4]
+
+5YGG-WWWW-WWX2-H9EB
+Battle 760 vs. Pokémon Trainer Kukui [Braviary-4, Primarina-4, Magnezone-3, Ninetales-Alola-1]
+
+RCZG-WWWW-WWX2-H9K4
+Battle 60 vs. Pokémon Trainer Anabel [Raikou-3, Alakazam-4, Latios-1, Lucario-3]

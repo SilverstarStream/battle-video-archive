@@ -1,0 +1,134 @@
+Josh C.
+Alpha Sapphire Triples
+
+Cresselia @ Mental Herb
+Ability: Levitate
+EVs: 252 HP / 76 Def / 180 SpD
+IVs: 0 Spe
+Sassy Nature
+- Trick Room
+- Psychic
+- Helping Hand
+- Moonlight
+
+Camerupt @ Cameruptite
+Ability: Magma Armor
+EVs: 252 HP / 4 Def / 252 SpA
+IVs: 0 Spe
+Quiet Nature
+- Eruption
+- Earth Power
+- Solar Beam
+- Protect
+
+Klefki @ Wide Lens
+Ability: Prankster
+EVs: 252 HP / 252 Def / 4 SpD
+Impish Nature
+- Safeguard
+- Sunny Day
+- Play Rough
+- Swagger
+
+Gastrodon @ Rindo Berry
+Ability: Storm Drain
+EVs: 100 HP / 92 Def / 252 SpA / 64 SpD
+IVs: 0 Spe
+Quiet Nature
+- Scald
+- Earth Power
+- Ice Beam
+- Protect
+
+Conkeldurr @ Assault Vest
+Ability: Iron Fist
+EVs: 108 HP / 252 Atk / 8 Def / 140 SpD
+IVs: 0 Spe
+Brave Nature
+- Drain Punch
+- Knock Off
+- Ice Punch
+- Mach Punch
+
+Bisharp @ Black Glasses
+Ability: Defiant
+EVs: 124 HP / 252 Atk / 4 Def / 4 SpD / 124 Spe
+Adamant Nature
+- Sucker Punch
+- Iron Head
+- Knock Off
+- Protect
+
+
+U33W-WWWW-WW55-NQQA
+Battle 1131 vs. Pokémon Ranger Parker [Tentacruel-4, Kingdra-4, Walrein-4, Gliscor-4, Marowak-4, Steelix-4]
+
+4LKW-WWWW-WW53-MAGZ
+Battle 550 vs. Artist Azure [Scizor-4, Archeops-4, Magnezone-4, Klinklang-4, Lucario-4, Gliscor-4]
+
+Cresselia @ Mental Herb
+Ability: Levitate
+EVs: 252 HP / 76 Def / 180 SpD
+IVs: 0 Spe
+Sassy Nature
+- Trick Room
+- Psychic
+- Helping Hand
+- Moonlight
+
+Camerupt @ Cameruptite
+Ability: Magma Armor
+EVs: 252 HP / 4 Def / 252 SpA
+IVs: 0 Spe
+Quiet Nature
+- Eruption
+- Earth Power
+- Solar Beam
+- Protect
+
+Klefki @ Leftovers
+Ability: Prankster
+EVs: 252 HP / 252 Def / 4 SpD
+Impish Nature
+- Safeguard
+- Sunny Day
+- Play Rough
+- Swagger
+
+Gastrodon @ Rindo Berry
+Ability: Storm Drain
+EVs: 100 HP / 92 Def / 252 SpA / 64 SpD
+IVs: 0 Spe
+Quiet Nature
+- Muddy Water
+- Earth Power
+- Ice Beam
+- Protect
+
+Conkeldurr @ Assault Vest
+Ability: Iron Fist
+EVs: 108 HP / 252 Atk / 8 Def / 140 SpD
+IVs: 0 Spe
+Brave Nature
+- Drain Punch
+- Knock Off
+- Ice Punch
+- Mach Punch
+
+Bisharp @ Black Glasses
+Ability: Defiant
+EVs: 124 HP / 252 Atk / 4 Def / 4 SpD / 124 Spe
+Adamant Nature
+- Sucker Punch
+- Iron Head
+- Knock Off
+- Protect
+
+CPBW-WWWW-WW53-MBSV
+Battle 323 vs. Chef Caesar [Samurott-4, Barbaracle-4, Floatzel-4, Carracosta-4, Walrein-4, Empoleon-4]
+
+FVGG-WWWW-WW53-MEL3
+Battle 268 vs. Battle Girl Kata [Volcarona-4, Carbink-4, Heracross-4, Probopass-4, Cradily-4, Rampardos-4]
+
+887G-WWWW-WW5X-X8XA
+Battle 101 vs. Pokémon Ranger Hunter [Roserade-4, Slowbro-4, Swampert-4, Barbaracle-4, Blastoise-4, Gliscor-4]

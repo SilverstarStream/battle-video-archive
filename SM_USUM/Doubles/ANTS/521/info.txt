@@ -1,0 +1,101 @@
+ANTS
+Ultra Sun v1.2 Doubles
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+EVs: 252 HP / 12 Atk / 4 Def / 12 SpD / 228 Spe
+Adamant Nature
+- Fake Out
+- Flare Blitz
+- Knock Off
+- Earthquake
+
+Salamence @ Salamencite
+Ability: Intimidate
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Hyper Voice
+- Dragon Pulse
+- Double-Edge
+- Tailwind
+
+Ferrothorn @ Zoom Lens
+Ability: Iron Barbs
+EVs: 252 HP / 4 Def / 252 SpD
+IVs: 0 Spe
+Sassy Nature
+- Leech Seed
+- Protect
+- Power Whip
+- Toxic
+
+Tapu Fini @ Leftovers
+Ability: Misty Surge
+EVs: 252 HP / 84 Def / 4 SpA / 12 SpD / 156 Spe
+Bold Nature
+- Calm Mind
+- Scald
+- Moonblast
+- Protect
+
+
+J3LW-WWWW-WWXX-R2XN
+Battle 459 vs. Veteran Priya [Zapdos-1, Regice-2, Regigigas-2, Raikou-2]
+
+QXAW-WWWW-WWXX-R2XY
+Battle 365 vs. Ace Trainer Granville [Weavile-4, Alakazam-3, Crobat-4, Aerodactyl-4]
+
+HNLW-WWWW-WWXX-PEY8
+Battle 349 vs. Veteran Xio [Whimsicott-3, Sylveon-1, Gardevoir-4, Shiinotic-4]
+
+Q3WG-WWWW-WWXX-PDTF
+Battle 328 vs. Madame Donny [Articuno-2, Zapdos-1, Moltres-4, Uxie-4]
+
+MDUW-WWWW-WWXX-PDM2
+Battle 263 vs. Office Worker Jana [Ribombee-4, Milotic-4, Ambipom-3, Comfey-3]
+
+TT3W-WWWW-WWXX-PDHU
+Battle 223 vs. Hiker Stellan [Garchomp-4, Terrakion-3, Sandslash-2, Jellicent-3]
+
+D7GW-WWWW-WWXX-PDDW
+Battle 200 vs. Pokémon Trainer Sina [Sandslash-Alola-2, Drampa-3, Oranguru-4, Abomasnow-3]
+
+Salamence @ Salamencite
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Double-Edge
+- Earthquake
+- Hyper Voice
+- Protect
+
+Tapu Fini @ Leftovers
+Ability: Misty Surge
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Calm Mind
+- Scald
+- Moonblast
+- Protect
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+- Fake Out
+- Flare Blitz
+- Knock Off
+- Drain Punch
+
+Ferrothorn @ Zoom Lens
+Ability: Iron Barbs
+EVs: 252 HP / 4 Def / 252 SpD
+IVs: 0 Spe
+Sassy Nature
+- Leech Seed
+- Gyro Ball
+- Protect
+- Power Whip
+
+36PG-WWWW-WWWV-K5TG
+Battle 16 vs. Janitor Jairo [Ferrothorn-2, Goodra-2, Magnezone-2, Clawitzer-1]

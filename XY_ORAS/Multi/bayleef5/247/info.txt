@@ -1,0 +1,45 @@
+TJ
+X Multi (with Human partner)
+
+Greninja @ Focus Sash
+Ability: Protean
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Dark Pulse
+- Extrasensory
+- Ice Beam
+- Mat Block
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Power-Up Punch
+- Sucker Punch
+- Return
+- Fake Out
+
+Baylee
+Y
+
+Azumarill @ Lum Berry
+Ability: Huge Power
+EVs: 244 HP / 252 Atk / 12 Spe
+Adamant Nature
+- Aqua Jet
+- Superpower
+- Play Rough
+- Belly Drum
+
+Charizard @ Charizardite Y
+Ability: Blaze
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Heat Wave
+- Ancient Power
+- Solar Beam
+- Air Slash
+
+
+JAJW-WWWW-WWWT-39M2
+Battle 225 vs. Tourist Hartsfield [Starmie-4, Rampardos-4] & Hiker Choss [Conkeldurr-4, Medicham-4]

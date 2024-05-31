@@ -1,0 +1,39 @@
+Oliver
+Omega Ruby Singles
+
+Meowstic @ Choice Scarf
+Ability: Prankster
+EVs: 252 HP / 124 Def / 132 SpD
+Calm Nature
+- Trick
+- Torment
+- Protect
+- Thunder Wave
+
+Durant @ Focus Sash
+Ability: Truant
+EVs: 128 HP / 128 Def / 252 Spe
+Jolly Nature
+- Entrainment
+- X-Scissor
+- Crunch
+- Iron Head
+
+Venomoth @ Black Sludge
+Ability: Tinted Lens
+EVs: 252 HP / 4 Def / 252 SpA
+Modest Nature
+- Quiver Dance
+- Bug Buzz
+- Protect
+- Substitute
+
+
+5K7W-WWWW-WW54-9P9S
+Battle 265 vs. Maid Joan [Blaziken-4, Abomasnow-4, Florges-4]
+
+JZ9G-WWWW-WW54-9P8V
+Battle 261 vs. Artist Redd [Slowbro-4, Electrode-4, Exploud-4]
+
+YDPW-WWWW-WW54-XT9U
+Battle 250 vs. Pokémon Ranger Cerese [Walrein-4, Whiscash-4, Krookodile-4]

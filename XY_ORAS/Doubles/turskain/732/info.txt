@@ -1,0 +1,42 @@
+I
+Y Doubles
+
+Lucario @ Lucarionite
+Ability: Inner Focus
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+- Aura Sphere
+- Flash Cannon
+- Nasty Plot
+- Protect
+
+Greninja @ Focus Sash
+Ability: Protean
+EVs: 12 HP / 252 SpA / 244 Spe
+Timid Nature
+- Ice Beam
+- Grass Knot
+- Dark Pulse
+- Mat Block
+
+Talonflame @ Life Orb
+Ability: Gale Wings
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+- Brave Bird
+- Flare Blitz
+- Tailwind
+- Protect
+
+Gastrodon @ Assault Vest
+Ability: Storm Drain
+EVs: 180 HP / 92 Def / 224 SpA / 12 SpD
+Modest Nature
+- Earth Power
+- Scald
+- Ice Beam
+- Sludge Bomb
+
+
+FL3G-WWWW-WWWH-TRGD
+Battle 733 vs. Roller Skater Raoul [Hawlucha-4, Altaria-4, Dragonite-3, Jolteon-4]

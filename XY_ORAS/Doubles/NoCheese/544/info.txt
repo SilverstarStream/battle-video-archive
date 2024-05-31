@@ -1,0 +1,90 @@
+C-Coal
+Alpha Sapphire Doubles
+
+Dusclops @ Eviolite
+Ability: Frisk
+EVs: 252 HP / 124 Def / 132 SpD
+IVs: 0 Spe
+Relaxed Nature
+- Trick Room
+- Sunny Day
+- Night Shade
+- Brick Break
+
+Aron @ Berry Juice
+Ability: Sturdy
+Level: 1
+Timid Nature
+- Protect
+- Endeavor
+- Toxic
+- Sunny Day
+
+Camerupt @ Cameruptite
+Ability: Solid Rock
+EVs: 244 HP / 4 Atk / 4 Def / 252 SpA / 4 SpD
+IVs: 0 Spe
+Quiet Nature
+- Eruption
+- Earth Power
+- Solar Beam
+- Protect
+
+Eelektross @ Assault Vest
+Ability: Levitate
+EVs: 244 HP / 4 Atk / 4 Def / 252 SpA / 4 SpD
+IVs: 0 Spe
+Quiet Nature
+- Thunderbolt
+- Flamethrower
+- Grass Knot
+- Hidden Power
+
+
+SPSW-WWWW-WWX8-5Y8A
+Battle 545 vs. Owner Cyril [Honchkrow-4, Eelektross-4, Porygon2-4, Archeops-4]
+
+Dusclops @ Eviolite
+Ability: Frisk
+EVs: 252 HP / 124 Def / 132 SpD
+IVs: 0 Spe
+Relaxed Nature
+- Trick Room
+- Sunny Day
+- Night Shade
+- Brick Break
+
+Aron @ Berry Juice
+Ability: Sturdy
+Level: 1
+Timid Nature
+- Protect
+- Endeavor
+- Toxic
+- Sunny Day
+
+Camerupt @ Cameruptite
+Ability: Solid Rock
+EVs: 244 HP / 4 Atk / 4 Def / 252 SpA / 4 SpD
+IVs: 0 Spe
+Quiet Nature
+- Eruption
+- Earth Power
+- Solar Beam
+- Flamethrower
+
+Eelektross @ Assault Vest
+Ability: Levitate
+EVs: 244 HP / 4 Atk / 4 Def / 252 SpA / 4 SpD
+IVs: 0 Spe
+Quiet Nature
+- Thunderbolt
+- Flamethrower
+- Grass Knot
+- Superpower
+
+JNWW-WWWW-WWWL-5CMP
+Battle 467 vs. Madame Arabella [Breloom-4, Noivern-4, Golurk-4, Whiscash-4]
+
+RMSG-WWWW-WWWL-5M9Q
+Battle 402 vs. Pokémon Ranger Hazel [Walrein-4, Lilligant-4, Sceptile-4, Dewgong-4]

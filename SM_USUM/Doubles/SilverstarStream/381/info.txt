@@ -1,0 +1,99 @@
+Silver
+Ultra Sun v1.2 Doubles
+
+Kartana @ Focus Sash
+Ability: Beast Boost
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Leaf Blade
+- Sacred Sword
+- Tailwind
+- Protect
+
+Tapu Koko @ Choice Specs
+Ability: Electric Surge
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Thunderbolt
+- Dazzling Gleam
+- Electroweb
+- Volt Switch
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 100 HP / 252 Atk / 156 Spe
+IVs: 30 SpA
+Adamant Nature
+- Fake Out
+- Double-Edge
+- Drain Punch
+- Sucker Punch
+
+Kommo-o @ Kommonium Z
+Ability: Bulletproof
+EVs: 20 Atk / 236 SpA / 252 Spe
+Modest Nature
+- Clanging Scales
+- Close Combat
+- Flamethrower
+- Protect
+
+
+CCBG-WWWW-WWXE-NTLD
+Battle 382 (Loss) vs. Ace Trainer Tamah [Porygon2-3, Torterra-3, Sylveon-3, Flygon-3]
+
+4J2W-WWWW-WWXE-NTLC
+Battle 360 vs. Pokémon Trainer Anabel [Entei-4, Raikou-2, Latios-3, Snorlax-4]
+
+Kartana @ Focus Sash
+Ability: Beast Boost
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Leaf Blade
+- Sacred Sword
+- Tailwind
+- Protect
+
+Tapu Koko @ Choice Specs
+Ability: Electric Surge
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Thunderbolt
+- Dazzling Gleam
+- Electroweb
+- Volt Switch
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 100 HP / 252 Atk / 156 Spe
+IVs: 30 SpA
+Adamant Nature
+- Fake Out
+- Double-Edge
+- Drain Punch
+- Sucker Punch
+
+Kommo-o @ Kommonium Z
+Ability: Bulletproof
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 30 Atk
+Modest Nature
+- Clanging Scales
+- Close Combat
+- Flamethrower
+- Protect
+
+QN8W-WWWW-WWXE-NKHY
+Battle 300 vs. Pokémon Trainer Sina [Lilligant-3, Glaceon-3, Sandslash-Alola-2, Drampa-4]
+
+3MYG-WWWW-WWXE-NKHH
+Battle 227 vs. Preschooler Naya [Dragonite-3, Uxie-4, Kommo-o-1, Tyranitar-4]
+
+B9RW-WWWW-WWXE-NKHG
+Battle 200 vs. Pokémon Trainer Anabel [Latios-4, Raikou-3, Alakazam-4, Entei-1]
+
+V79G-WWWW-WWXE-NKHE
+Battle 162 vs. Veteran Kikujiro [Manectric-4, Ampharos-3, Rotom-Heat-3, Jolteon-4]
+
+F4CW-WWWW-WWXE-NKH8
+Battle 120 vs. Pokémon Trainer Cynthia [Garchomp-4, Togekiss-3, Spiritomb-4, Lucario-3]

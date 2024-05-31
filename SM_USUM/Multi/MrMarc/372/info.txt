@@ -1,0 +1,49 @@
+MisterVen
+Moon v1.2 Multi (with Human partner)
+
+Kangaskhan @ Kangaskhanite
+Ability: Inner Focus
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Power-Up Punch
+- Sucker Punch
+- Double-Edge
+- Fake Out
+
+Aegislash @ Ghostium Z
+Ability: Stance Change
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 0 Spe
+Quiet Nature
+- Flash Cannon
+- Shadow Ball
+- Wide Guard
+- King's Shield
+
+Lolnub
+Sun v1.2
+
+Salamence @ Salamencite
+Ability: Intimidate
+EVs: 180 Atk / 76 SpA / 252 Spe
+Hasty Nature
+- Double-Edge
+- Hyper Voice
+- Flamethrower
+- Protect
+
+Tapu Fini @ Choice Specs
+Ability: Misty Surge
+EVs: 220 HP / 4 Def / 252 SpA / 4 SpD / 28 Spe
+Modest Nature
+- Moonblast
+- Scald
+- Dazzling Gleam
+- Ice Beam
+
+
+LKPW-WWWW-WWWH-4W6Q
+Battle 373 (Loss) vs. Ace Trainer Raz [Talonflame-4, Rotom-Heat-4] & Veteran Ignacio [Virizion-4, Raikou-4]
+
+U54G-WWWW-WWWH-3VPR
+Battle 193 vs. Veteran Aino [Oranguru-2, Rotom-Wash-4] & Aether Foundation Luke [Glalie-4, Lanturn-4]

@@ -1,0 +1,45 @@
+Piers Morgan
+Y Doubles
+
+Zapdos @ Life Orb
+Ability: Pressure
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 17 HP / 2 Atk / 22 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Thunderbolt
+- Discharge
+- Hidden Power
+- Protect
+
+Garchomp @ Choice Scarf
+Ability: Rough Skin
+EVs: 4 HP / 252 Atk / 252 Spe
+IVs: 31 HP / 31 Atk / 27 Def / 12 SpA / 22 SpD / 31 Spe
+Adamant Nature
+- Dragon Claw
+- Earthquake
+- Crunch
+- Iron Head
+
+Talonflame @ Choice Band
+Ability: Gale Wings
+EVs: 252 HP / 252 Atk / 4 Spe
+IVs: 31 HP / 31 Atk / 9 Def / 17 SpA / 18 SpD / 31 Spe
+Adamant Nature
+- Brave Bird
+- U-turn
+- Flare Blitz
+- Steel Wing
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Fake Out
+- Crunch
+- Return
+- Brick Break
+
+
+8ANW-WWWW-WWW9-AV6Z
+Battle 521 vs. Veteran Jake [Articuno-1, Thundurus-2, Tornadus-2, Regirock-1]

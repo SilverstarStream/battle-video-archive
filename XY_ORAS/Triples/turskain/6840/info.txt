@@ -1,0 +1,304 @@
+I
+Y Triples
+
+Lucario @ Lucarionite
+Ability: Inner Focus
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+- Aura Sphere
+- Flash Cannon
+- Nasty Plot
+- Protect
+
+Rotom-Wash @ Choice Specs
+Ability: Levitate
+EVs: 172 HP / 120 SpA / 4 SpD / 212 Spe
+IVs: 30 Def / 30 SpA
+Modest Nature
+- Thunderbolt
+- Hidden Power
+- Volt Switch
+- Discharge
+
+Greninja @ Focus Sash
+Ability: Protean
+EVs: 4 HP / 4 Def / 252 SpA / 4 SpD / 244 Spe
+Timid Nature
+- Ice Beam
+- Grass Knot
+- Dark Pulse
+- Mat Block
+
+Talonflame @ Sharp Beak
+Ability: Gale Wings
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+- Brave Bird
+- Flare Blitz
+- Tailwind
+- Protect
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+EVs: 12 HP / 236 Atk / 4 Def / 4 SpD / 252 Spe
+Jolly Nature
+- Dragon Claw
+- Earthquake
+- Swords Dance
+- Protect
+
+Scizor @ Choice Band
+Ability: Technician
+EVs: 252 HP / 164 Atk / 4 Def / 44 SpD / 44 Spe
+Adamant Nature
+- Bullet Punch
+- U-turn
+- Superpower
+- Quick Attack
+
+
+9WYW-WWWW-WWXG-HSB6
+Battle 6841 vs. Veteran Hera [Landorus-2, Virizion-1, Zapdos-2, Entei-2, Tornadus-2, Latios-2]
+
+GNYW-WWWW-WWXE-YDBE
+Battle 6727 vs. Veteran Eleanor [Regice-4, Entei-3, Articuno-3, Cresselia-4, Terrakion-4, Zapdos-3]
+
+DMXG-WWWW-WWX6-K3CB
+Battle 5800 vs. Worker Rasmus [Garchomp-3, Ferrothorn-1, Tyranitar-4, Gliscor-3, Dugtrio-4, Excadrill-1]
+
+RM7G-WWWW-WWX6-K3FR
+Battle 5723 vs. Veteran Hera [Landorus-2, Moltres-1, Articuno-1, Regigigas-2, Zapdos-2, Latios-1]
+
+Greninja @ Focus Sash
+Ability: Protean
+EVs: 12 HP / 252 SpA / 244 Spe
+Timid Nature
+- Ice Beam
+- Grass Knot
+- Dark Pulse
+- Mat Block
+
+Entei @ Choice Scarf
+Ability: Pressure
+EVs: 4 HP / 4 Def / 248 SpA / 8 SpD / 244 Spe
+IVs: 31 HP / 14 Atk / 31 Def / 30 SpA / 30 SpD / 31 Spe
+Modest Nature
+- Eruption
+- Solar Beam
+- Hidden Power
+- Flamethrower
+
+Charizard @ Charizardite Y
+Ability: Blaze
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Flamethrower
+- Solar Beam
+- Dragon Pulse
+- Protect
+
+Gastrodon @ Assault Vest
+Ability: Storm Drain
+EVs: 180 HP / 92 Def / 224 SpA / 12 SpD
+Modest Nature
+- Earth Power
+- Scald
+- Ice Beam
+- Sludge Bomb
+
+Aegislash @ Weakness Policy
+Ability: Stance Change
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 0 Spe
+Brave Nature
+- King's Shield
+- Iron Head
+- Shadow Sneak
+- Sacred Sword
+
+Latios @ Life Orb
+Ability: Levitate
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Dragon Pulse
+- Psyshock
+- Thunderbolt
+- Protect
+
+G99G-WWWW-WWWY-47UC
+Battle 4694 vs. Veteran Saba [Registeel-2, Landorus-1, Latias-2, Entei-2, Heatran-3, Terrakion-2]
+
+Lucario @ Lucarionite
+Ability: Inner Focus
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+- Aura Sphere
+- Flash Cannon
+- Nasty Plot
+- Protect
+
+Rotom-Wash @ Choice Specs
+Ability: Levitate
+EVs: 172 HP / 120 SpA / 4 SpD / 212 Spe
+IVs: 30 Def / 30 SpA
+Modest Nature
+- Thunderbolt
+- Hidden Power
+- Volt Switch
+- Electroweb
+
+Greninja @ Focus Sash
+Ability: Protean
+EVs: 4 HP / 4 Def / 252 SpA / 4 SpD / 244 Spe
+Timid Nature
+- Ice Beam
+- Grass Knot
+- Dark Pulse
+- Mat Block
+
+Talonflame @ Sharp Beak
+Ability: Gale Wings
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+- Brave Bird
+- Flare Blitz
+- Tailwind
+- Protect
+
+Scizor @ Choice Band
+Ability: Technician
+EVs: 252 HP / 164 Atk / 4 Def / 44 SpD / 44 Spe
+Adamant Nature
+- Bullet Punch
+- U-turn
+- Superpower
+- Quick Attack
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+EVs: 12 HP / 236 Atk / 4 Def / 4 SpD / 252 Spe
+Jolly Nature
+- Dragon Claw
+- Earthquake
+- Swords Dance
+- Protect
+
+SLBW-WWWW-WW55-ZPU5
+Battle 4654 vs. Ace Trainer Jai [Togekiss-3, Chandelure-4, Zoroark-1, Reuniclus-4, Espeon-4, Latios-3]
+
+Greninja @ Focus Sash
+Ability: Protean
+EVs: 12 HP / 252 SpA / 244 Spe
+Timid Nature
+- Ice Beam
+- Grass Knot
+- Dark Pulse
+- Mat Block
+
+Entei @ Choice Scarf
+Ability: Pressure
+EVs: 4 HP / 4 Def / 248 SpA / 8 SpD / 244 Spe
+IVs: 31 HP / 14 Atk / 31 Def / 30 SpA / 30 SpD / 31 Spe
+Modest Nature
+- Eruption
+- Solar Beam
+- Hidden Power
+- Flamethrower
+
+Charizard @ Charizardite Y
+Ability: Blaze
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Flamethrower
+- Solar Beam
+- Dragon Pulse
+- Protect
+
+Rotom-Wash @ Sitrus Berry
+Ability: Levitate
+EVs: 252 HP / 40 SpA / 216 Spe
+IVs: 30 SpA / 30 Spe
+Modest Nature
+- Thunderbolt
+- Hidden Power
+- Dark Pulse
+- Protect
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Dragon Claw
+- Earthquake
+- Swords Dance
+- Protect
+
+Infernape @ Air Balloon
+Ability: Blaze
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Flare Blitz
+- Close Combat
+- Fake Out
+- Protect
+
+LJRW-WWWW-WWWA-CX3M
+Battle 3805 vs. Veteran Catherine [Latias-1, Regigigas-2, Terrakion-2, Raikou-2, Zapdos-1, Thundurus-2]
+
+Lucario @ Lucarionite
+Ability: Steadfast
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Aura Sphere
+- Flash Cannon
+- Nasty Plot
+- Protect
+
+Rotom-Wash @ Choice Specs
+Ability: Levitate
+EVs: 172 HP / 120 SpA / 216 Spe
+IVs: 30 SpA / 30 Spe
+Modest Nature
+- Thunderbolt
+- Hidden Power
+- Discharge
+- Volt Switch
+
+Greninja @ Focus Sash
+Ability: Protean
+EVs: 12 HP / 252 SpA / 244 Spe
+Timid Nature
+- Ice Beam
+- Grass Knot
+- Dark Pulse
+- Mat Block
+
+Talonflame @ Sharp Beak
+Ability: Gale Wings
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+- Brave Bird
+- Flare Blitz
+- Tailwind
+- Protect
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Dragon Claw
+- Earthquake
+- Swords Dance
+- Protect
+
+Scizor @ Choice Band
+Ability: Technician
+EVs: 252 HP / 164 Atk / 4 Def / 44 SpD / 44 Spe
+Adamant Nature
+- Bullet Punch
+- U-turn
+- Superpower
+- Quick Attack
+
+LX8W-WWWW-WWWA-4Q8T
+Battle 1665 vs. Hex Maniac Anastasia [Alakazam-4, Trevenant-4, Dusknoir-3, Mismagius-3, Claydol-3, Spiritomb-4]

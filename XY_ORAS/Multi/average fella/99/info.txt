@@ -1,0 +1,45 @@
+Colton      
+Y Multi (with AI partner)
+
+Thundurus @ Life Orb
+Ability: Prankster
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 30 Atk / 30 Def
+Timid Nature
+- Flash Cannon
+- Dark Pulse
+- Hidden Power
+- Discharge
+
+Talonflame @ Choice Band
+Ability: Gale Wings
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Brave Bird
+- Tailwind
+- U-turn
+- Flare Blitz
+
+Friends List AI Partner
+
+Garchomp-3 @ Choice Scarf
+Ability: Rough Skin
+EVs: 252 Atk / 252 Spe
+Adamant Nature
+- Outrage
+- Earthquake
+- Fire Fang
+- Crunch
+
+Eelektross-3 @ Assault Vest
+Ability: Levitate
+EVs: 252 HP / 252 Atk
+Brave Nature
+- Brick Break
+- U-turn
+- Grass Knot
+- Wild Charge
+
+
+K3KW-WWWW-WW3G-WNJU
+Battle 100 vs. Hex Maniac Mara [Slowking-4, Bronzong-1] & Butler Deacon [Whiscash-4, Samurott-4]

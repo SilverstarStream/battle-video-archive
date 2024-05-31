@@ -1,0 +1,52 @@
+Davide
+Sun v1.2 Multi (with Human partner)
+
+Raichu @ Focus Sash
+Ability: Lightning Rod
+EVs: 252 SpA / 4 SpD / 252 Spe
+IVs: 30 Def
+Hasty Nature
+- Thunderbolt
+- Fake Out
+- Hidden Power
+- Protect
+
+Cresselia @ Leftovers
+Ability: Levitate
+EVs: 248 HP / 140 Def / 108 SpD / 12 Spe
+Bold Nature
+- Psychic
+- Signal Beam
+- Calm Mind
+- Rest
+
+Deynon
+Moon v1.2
+
+Golisopod @ Assault Vest
+Ability: Emergency Exit
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+- First Impression
+- Aqua Jet
+- Leech Life
+- Liquidation
+
+Charjabug @ Eviolite
+Ability: Battery
+EVs: 252 HP / 4 Atk / 84 Def / 168 SpD
+Relaxed Nature
+- Bug Bite
+- Electroweb
+- Rest
+- Protect
+
+
+KRZG-WWWW-WWWZ-ADFN
+Battle 94 (Loss) vs. Gentleman Abel [Regirock-4, Thundurus-1] & Veteran Candy [Kommo-o-4, Terrakion-4]
+
+GNHG-WWWW-WWWZ-AEGZ
+Battle 86 vs. Scientist Cadel [Cofagrigus-3, Bronzong-3] & Punk Guy Etta [Staraptor-3, Scrafty-4]
+
+VRKG-WWWW-WWWZ-AE75
+Battle 42 vs. Black Belt Chucky [Golisopod-4, Gallade-4] & Scientist Robyn [Slowbro-4, Bronzong-4]

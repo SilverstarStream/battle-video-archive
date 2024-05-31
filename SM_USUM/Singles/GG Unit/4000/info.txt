@@ -1,0 +1,36 @@
+BasedGod
+Moon v1.2 Singles
+
+Durant @ Choice Scarf
+Ability: Truant
+EVs: 252 HP / 20 Def / 236 Spe
+Jolly Nature
+- Substitute
+- Iron Head
+- Entrainment
+- X-Scissor
+
+Glalie @ Leftovers
+Ability: Moody
+EVs: 172 HP / 140 SpA / 4 SpD / 192 Spe
+Timid Nature
+- Frost Breath
+- Substitute
+- Protect
+- Taunt
+
+Mimikyu @ Red Card
+Ability: Disguise
+EVs: 252 HP / 20 SpD / 236 Spe
+Jolly Nature
+- Taunt
+- Thunder Wave
+- Confide
+- Thief
+
+
+JTUW-WWWW-WWX4-HDRR
+Battle 3000 vs. Pokémon Trainer Guzma [Bisharp-4, Liepard-3, Honchkrow-3]
+
+WHFW-WWWW-WWX4-HDSW
+Battle 2563 vs. Ace Trainer Hashim [Archeops-3, Wishiwashi-3, Volcarona-4]

@@ -1,0 +1,34 @@
+Setsuna
+Alpha Sapphire Singles
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature
+- Return
+- Earthquake
+- Power-Up Punch
+- Sucker Punch
+
+Gliscor @ Toxic Orb
+Ability: Poison Heal
+EVs: 212 HP / 4 Atk / 36 Def / 252 SpD / 4 Spe
+Careful Nature
+- Substitute
+- Protect
+- Toxic
+- Earthquake
+
+Aegislash @ Leftovers
+Ability: Stance Change
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 29 Spe
+Brave Nature
+- King's Shield
+- Swords Dance
+- Shadow Sneak
+- Iron Head
+
+
+K9XW-WWWW-WW4L-2RG2
+Battle 205 vs. Pokémon Ranger Tanner [Cradily-4, Empoleon-4, Greninja-4]

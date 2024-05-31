@@ -1,0 +1,62 @@
+Sunset
+X Triples
+
+Greninja @ Focus Sash
+Ability: Protean
+EVs: 4 HP / 4 Def / 252 SpA / 4 SpD / 244 Spe
+Timid Nature
+- Mat Block
+- Dark Pulse
+- Ice Beam
+- Grass Knot
+
+Thundurus @ Sitrus Berry
+Ability: Prankster
+EVs: 164 HP / 72 Def / 252 SpA / 8 SpD / 12 Spe
+IVs: 31 HP / 26 Atk / 30 Def / 31 SpA / 30 SpD / 31 Spe
+Modest Nature
+- Thunderbolt
+- Grass Knot
+- Volt Switch
+- Taunt
+
+Blaziken @ Blazikenite
+Ability: Speed Boost
+EVs: 252 Atk / 12 Def / 244 Spe
+Adamant Nature
+- Flare Blitz
+- Low Kick
+- Swords Dance
+- Protect
+
+Talonflame @ Sharp Beak
+Ability: Gale Wings
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+- Brave Bird
+- Taunt
+- Tailwind
+- Protect
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+EVs: 12 HP / 236 Atk / 4 Def / 4 SpD / 252 Spe
+Jolly Nature
+- Earthquake
+- Dragon Claw
+- Swords Dance
+- Protect
+
+Aegislash @ Weakness Policy
+Ability: Stance Change
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 0 Spe
+Quiet Nature
+- Shadow Ball
+- Flash Cannon
+- Wide Guard
+- King's Shield
+
+
+9FYG-WWWW-WW3G-EY8Z
+Battle 1145 vs. Black Belt Wystan [Armaldo-4, Rampardos-4, Darmanitan-4, Chesnaught-4, Cradily-4, Gallade-4]

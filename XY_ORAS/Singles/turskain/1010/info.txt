@@ -1,0 +1,34 @@
+I
+Y Singles
+
+Dragonite @ Lum Berry
+Ability: Multiscale
+EVs: 52 HP / 252 Atk / 12 Def / 4 SpD / 188 Spe
+Adamant Nature
+- Outrage
+- Earthquake
+- Roost
+- Dragon Dance
+
+Aegislash @ Leftovers
+Ability: Stance Change
+EVs: 252 HP / 252 Atk / 4 Spe
+IVs: 27 Spe
+Adamant Nature
+- King's Shield
+- Swords Dance
+- Shadow Sneak
+- Sacred Sword
+
+Greninja @ Choice Specs
+Ability: Protean
+EVs: 92 HP / 12 Def / 196 SpA / 4 SpD / 204 Spe
+Timid Nature
+- Ice Beam
+- Grass Knot
+- Dark Pulse
+- Scald
+
+
+ZZ4G-WWWW-WWW9-GZBY
+Battle 1011 vs. Punk Girl Europa [Weezing-4, Nidoqueen-4, Volcarona-4]

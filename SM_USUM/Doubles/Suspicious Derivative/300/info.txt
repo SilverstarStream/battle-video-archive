@@ -1,0 +1,43 @@
+Kid
+Moon v1.2 Doubles
+
+Tapu Lele @ Choice Scarf
+Ability: Psychic Surge
+EVs: 12 HP / 4 Def / 252 SpA / 4 SpD / 236 Spe
+Modest Nature
+- Psychic
+- Moonblast
+- Shadow Ball
+- Energy Ball
+
+Pheromosa @ Focus Sash
+Ability: Beast Boost
+EVs: 252 Atk / 12 SpA / 244 Spe
+IVs: 0 HP / 9 Def
+Naughty Nature
+- Lunge
+- Low Kick
+- Ice Beam
+- Protect
+
+Garchomp @ Groundium Z
+Ability: Rough Skin
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Dragon Claw
+- Earthquake
+- Poison Jab
+- Protect
+
+Celesteela @ Leftovers
+Ability: Beast Boost
+EVs: 244 HP / 4 Atk / 188 Def / 68 SpD / 4 Spe
+Impish Nature
+- Heavy Slam
+- Leech Seed
+- Wide Guard
+- Protect
+
+
+G4JG-WWWW-WWW9-N3RC
+Battle 300 vs. Pokémon Trainer Cynthia [Spiritomb-4, Milotic-3, Garchomp-4, Lucario-4]

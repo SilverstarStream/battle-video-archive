@@ -1,0 +1,34 @@
+Chris
+Ultra Sun v1.2 Singles
+
+Cloyster @ Focus Sash
+Ability: Skill Link
+EVs: 236 Atk / 28 SpA / 244 Spe
+Naughty Nature
+- Icicle Spear
+- Liquidation
+- Surf
+- Shell Smash
+
+Gliscor @ Toxic Orb
+Ability: Poison Heal
+EVs: 212 HP / 4 Atk / 20 Def / 252 SpD / 20 Spe
+Careful Nature
+- Earthquake
+- Toxic
+- Protect
+- Substitute
+
+Aegislash @ Leftovers
+Ability: Stance Change
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 28 Spe
+Adamant Nature
+- Sacred Sword
+- Shadow Sneak
+- King's Shield
+- Swords Dance
+
+
+DMDW-WWWW-WWWZ-JSLU
+Battle 100 vs. Captain Kiawe [Salazzle-4, Kangaskhan-3, Marowak-Alola-2]

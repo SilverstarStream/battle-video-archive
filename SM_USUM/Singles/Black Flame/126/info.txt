@@ -1,0 +1,33 @@
+Os
+Ultra Sun v1.2 Singles
+
+Lucario @ Lucarionite
+Ability: Justified
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Close Combat
+- Shadow Claw
+- Earthquake
+- Bullet Punch
+
+Salamence @ Dragonium Z
+Ability: Intimidate
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Draco Meteor
+- Hydro Pump
+- Substitute
+- Flamethrower
+
+Mimikyu @ Focus Sash
+Ability: Disguise
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Shadow Claw
+- Swords Dance
+- Play Rough
+- Shadow Sneak
+
+
+WPNG-WWWW-WWW5-E5RS
+Battle 127 (Loss) vs. Youth Athlete Hilario [Hawlucha-4, Sceptile-4, Dugtrio-2]

@@ -1,0 +1,64 @@
+Deynon
+Ultra Moon v1.2 Multi (with Human partner)
+
+Golisopod @ Assault Vest
+Ability: Emergency Exit
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 28 Spe
+Adamant Nature
+- First Impression
+- Aqua Jet
+- Leech Life
+- Liquidation
+
+Togedemaru @ Focus Sash
+Ability: Lightning Rod
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Fake Out
+- Zing Zap
+- Iron Head
+- Spiky Shield
+
+Davide
+Ultra Sun v1.2
+
+Blastoise @ Blastoisinite
+Ability: Torrent
+EVs: 236 HP / 4 Def / 188 SpA / 12 SpD / 68 Spe
+Modest Nature
+- Water Pulse
+- Aura Sphere
+- Ice Beam
+- Fake Out
+
+Cresselia @ Leftovers
+Ability: Levitate
+EVs: 248 HP / 140 Def / 108 SpD / 12 Spe
+Bold Nature
+- Psychic
+- Hidden Power
+- Calm Mind
+- Rest
+
+
+G3LW-WWWW-WWWN-7S3K
+Battle 390 (Loss) vs. Pokémon Trainer Grimsley [Bisharp-3, Drapion-3] & Pokémon Trainer Wally [Altaria-4, Magnezone-4]
+
+ZZRW-WWWW-WWWN-7S24
+Battle 328 vs. Youth Athlete Buddy [Crobat-3, Greninja-3] & Dancer Jo [Archeops-3, Wishiwashi-3]
+
+9AWG-WWWW-WWWN-7SWL
+Battle 261 vs. Collector Sam [Nidoqueen-3, Pinsir-4] & Bellhop Gilroy [Excadrill-4, Lickilicky-4]
+
+PQDG-WWWW-WWWN-7RUX
+Battle 258 vs. Dancer Carrie [Mimikyu-4, Scizor-4] & Worker Omar [Aggron-3, Golem-Alola-2]
+
+GKQW-WWWW-WWWN-7RSN
+Battle 256 vs. Veteran Placido [Heatran-2, Tornadus-2] & Youngster Napoleon [Thundurus-2, Registeel-1]
+
+V9GW-WWWW-WWWN-7RRJ
+Battle 200 vs. Pokémon Trainer Kukui [Braviary-4, Magnezone-4] & Pokémon Trainer Wally [Garchomp-4, Gallade-3]
+
+WFEG-WWWW-WWWN-7RPN
+Battle 160 vs. Pokémon Trainer Wally [Gallade-3, Magnezone-3] & Golfer Patrick [Staraptor-3, Salamence-3]

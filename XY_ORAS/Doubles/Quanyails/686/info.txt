@@ -1,0 +1,44 @@
+Quanyails
+X Doubles
+
+Aromatisse @ Lum Berry
+Ability: Aroma Veil
+EVs: 252 HP / 4 SpA / 252 SpD
+IVs: 0 Spe
+Sassy Nature
+- Trick Room
+- Dazzling Gleam
+- Odor Sleuth
+- Heal Pulse
+
+Aron @ Berry Juice
+Ability: Sturdy
+Level: 1
+Bashful Nature
+- Protect
+- Endeavor
+- Toxic
+- Sleep Talk
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+- Fake Out
+- Double-Edge
+- Sucker Punch
+- Earthquake
+
+Conkeldurr @ Assault Vest
+Ability: Guts
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 9 HP / 28 Atk / 31 Def / 23 SpA / 16 SpD / 11 Spe
+Brave Nature
+- Mach Punch
+- Drain Punch
+- Knock Off
+- Ice Punch
+
+
+ZLGG-WWWW-WWW7-8JHZ
+Battle 536 vs. Battle Girl Mae [Blaziken-4, Bastiodon-4, Conkeldurr-4, Aerodactyl-4]

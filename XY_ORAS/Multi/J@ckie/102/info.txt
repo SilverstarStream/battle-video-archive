@@ -1,0 +1,45 @@
+Jackie
+Y Multi (with Human partner)
+
+Cloyster @ Focus Sash
+Ability: Skill Link
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Icicle Spear
+- Rock Blast
+- Razor Shell
+- Shell Smash
+
+Mawile @ Mawilite
+Ability: Intimidate
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+- Play Rough
+- Iron Head
+- Sucker Punch
+- Ice Punch
+
+Jackie
+X
+
+Greninja @ Life Orb
+Ability: Protean
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Mat Block
+- Scald
+- Grass Knot
+- Ice Beam
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Fake Out
+- Return
+- Power-Up Punch
+- Sucker Punch
+
+
+SMRW-WWWW-WWW6-GUMN
+Battle 103 vs. Black Belt Wystan [Armaldo-4, Toxicroak-4] & Monsieur Patrice [Darmanitan-4, Kangaskhan-4]

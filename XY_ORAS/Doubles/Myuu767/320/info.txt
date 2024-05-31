@@ -1,0 +1,85 @@
+Mirka
+X Doubles
+
+Aron @ Berry Juice
+Ability: Sturdy
+Level: 1
+Bold Nature
+- Protect
+- Toxic
+- Endeavor
+- Swagger
+
+Aromatisse @ Leftovers
+Ability: Aroma Veil
+EVs: 252 HP / 252 Def / 4 SpD
+Relaxed Nature
+- Trick Room
+- Dazzling Gleam
+- Odor Sleuth
+- Heal Pulse
+
+Hariyama @ Toxic Orb
+Ability: Guts
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 2 Spe
+Adamant Nature
+- Close Combat
+- Fake Out
+- Knock Off
+- Facade
+
+Ampharos @ Ampharosite
+Ability: Static
+EVs: 252 HP / 4 Def / 252 SpA
+IVs: 5 Spe
+Modest Nature
+- Thunderbolt
+- Protect
+- Dragon Pulse
+- Power Gem
+
+
+WWYW-WWWW-WWWA-86YV
+Battle 321 vs. Hex Maniac Anastasia [Froslass-3, Spiritomb-3, Jynx-3, Reuniclus-4]
+
+Aromatisse @ Leftovers
+Ability: Aroma Veil
+EVs: 252 HP / 252 Def / 4 SpD
+Relaxed Nature
+- Trick Room
+- Dazzling Gleam
+- Odor Sleuth
+- Heal Pulse
+
+Aron @ Berry Juice
+Ability: Sturdy
+Level: 1
+Bold Nature
+- Protect
+- Toxic
+- Endeavor
+- Swagger
+
+Hariyama @ Toxic Orb
+Ability: Guts
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 2 Spe
+Adamant Nature
+- Close Combat
+- Fake Out
+- Knock Off
+- Facade
+
+Ampharos @ Ampharosite
+Ability: Static
+EVs: 252 HP / 4 Def / 252 SpA
+IVs: 5 Spe
+Modest Nature
+- Thunderbolt
+- Protect
+- Dragon Pulse
+- Power Gem
+
+SSYG-WWWW-WWWA-4MQR
+Battle 210 vs. Scientist Candela [Magnezone-4, Armaldo-4, Victreebel-4, Weezing-4]

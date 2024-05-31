@@ -1,0 +1,45 @@
+Will
+Alpha Sapphire Multi (with AI partner)
+
+Greninja @ Focus Sash
+Ability: Protean
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 30 Atk
+Timid Nature
+- Ice Beam
+- Dark Pulse
+- Grass Knot
+- Mat Block
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Low Kick
+- Sucker Punch
+- Double-Edge
+- Fake Out
+
+Pokémon Trainer Steven
+
+Metagross @ Metagrossite
+Ability: Clear Body
+EVs: 252 Atk / 252 Def
+Adamant Nature
+- Meteor Mash
+- Bullet Punch
+- Zen Headbutt
+- Hammer Arm
+
+Aerodactyl @ Focus Sash
+Ability: Rock Head
+EVs: 252 Atk / 252 Spe
+Jolly Nature
+- Rock Slide
+- Ice Fang
+- Thunder Fang
+- Fire Fang
+
+
+9VXG-WWWW-WW4T-AX76
+Battle 79 vs. Garçon Darcy [Emboar-4, Cofagrigus-4] & Tourist Chelsea [Froslass-4, Feraligatr-4]

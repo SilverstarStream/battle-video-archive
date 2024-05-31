@@ -1,0 +1,33 @@
+Rojie
+Omega Ruby Singles
+
+Salamence @ Salamencite
+Ability: Intimidate
+EVs: 8 HP / 252 Atk / 12 SpD / 236 Spe
+Jolly Nature
+- Return
+- Roost
+- Dragon Dance
+- Substitute
+
+Chansey @ Eviolite
+Ability: Natural Cure
+EVs: 252 HP / 252 Def / 4 Spe
+Bold Nature
+- Toxic
+- Soft-Boiled
+- Minimize
+- Seismic Toss
+
+Aegislash @ Leftovers
+Ability: Stance Change
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+- Sacred Sword
+- Shadow Sneak
+- King's Shield
+- Swords Dance
+
+
+H7XG-WWWW-WW67-CTKZ
+Battle 948 vs. Veteran Hera [Regirock-2, Articuno-2, Cresselia-2]

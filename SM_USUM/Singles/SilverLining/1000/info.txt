@@ -1,0 +1,33 @@
+Natasha
+Sun v1.2 Singles
+
+Porygon2 @ Eviolite
+Ability: Download
+EVs: 244 HP / 76 Def / 188 SpD
+Calm Nature
+- Ice Beam
+- Recover
+- Toxic
+- Confide
+
+Aegislash @ Leftovers
+Ability: Stance Change
+EVs: 252 HP / 4 Def / 84 SpA / 156 SpD / 12 Spe
+Modest Nature
+- Flash Cannon
+- Shadow Ball
+- Substitute
+- King's Shield
+
+Salamence @ Salamencite
+Ability: Intimidate
+EVs: 252 HP / 36 Atk / 4 Def / 196 SpD / 20 Spe
+Adamant Nature
+- Return
+- Dragon Dance
+- Substitute
+- Roost
+
+
+Q6SG-WWWW-WWW8-3WDV
+Battle 1000 vs. Pokémon Trainer Plumeria [Lurantis-3, Salazzle-3, Toxapex-4]

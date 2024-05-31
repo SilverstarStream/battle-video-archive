@@ -1,0 +1,67 @@
+Sienna
+Alpha Sapphire Multi (with AI partner)
+
+Gardevoir @ Gardevoirite
+Ability: Trace
+EVs: 4 Def / 252 SpA / 252 Spe
+IVs: 25 SpD
+Modest Nature
+- Shadow Ball
+- Protect
+- Hyper Voice
+- Psychic
+
+Terrakion @ Focus Sash
+Ability: Justified
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Poison Jab
+- Earthquake
+- Rock Slide
+- Close Combat
+
+Pokémon Trainer Steven
+
+Metagross @ Metagrossite
+Ability: Clear Body
+EVs: 252 Atk / 252 Def
+Adamant Nature
+- Meteor Mash
+- Bullet Punch
+- Zen Headbutt
+- Hammer Arm
+
+Aerodactyl @ Focus Sash
+Ability: Rock Head
+EVs: 252 Atk / 252 Spe
+Jolly Nature
+- Rock Slide
+- Ice Fang
+- Thunder Fang
+- Fire Fang
+
+
+ZXEW-WWWW-WWWK-UH28
+Battle 187 vs. Scientist Jane [Lanturn-4, Tyrantrum-4] & Veteran Sibyl [Heatran-2, Latios-1]
+
+Gardevoir @ Gardevoirite
+Ability: Trace
+EVs: 4 Def / 252 SpA / 252 Spe
+IVs: 25 SpD
+Modest Nature
+- Thunderbolt
+- Protect
+- Hyper Voice
+- Psychic
+
+Terrakion @ Focus Sash
+Ability: Justified
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Poison Jab
+- Earthquake
+- Rock Slide
+- Close Combat
+
+SAAG-WWWW-WWWK-NSUS
+Battle 50 vs. Battle Chatelaine Nita [Thundurus-3, Landorus-2] & Battle Chatelaine Morgan [Cobalion-2, Latias-1]

@@ -1,0 +1,45 @@
+Litra
+Alpha Sapphire Multi (with AI partner)
+
+Greninja @ Focus Sash
+Ability: Protean
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 28 SpD
+Timid Nature
+- Ice Beam
+- Mat Block
+- Dark Pulse
+- Grass Knot
+
+Lopunny @ Lopunnite
+Ability: Limber
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Fake Out
+- Fire Punch
+- Return
+- Low Kick
+
+Pokémon Trainer Steven
+
+Metagross @ Metagrossite
+Ability: Clear Body
+EVs: 252 Atk / 252 Def
+Adamant Nature
+- Meteor Mash
+- Bullet Punch
+- Zen Headbutt
+- Hammer Arm
+
+Aerodactyl @ Focus Sash
+Ability: Rock Head
+EVs: 252 Atk / 252 Spe
+Jolly Nature
+- Rock Slide
+- Ice Fang
+- Thunder Fang
+- Fire Fang
+
+
+VDAG-WWWW-WW27-Y7B8
+Battle 94 vs. Pokémon Ranger Tanner [Gourgeist-4, Poliwrath-4] & Black Belt Wystan [Lucario-4, Pyroar-4]

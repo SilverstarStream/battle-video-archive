@@ -1,0 +1,34 @@
+Based God
+Omega Ruby Singles
+
+Durant @ Choice Scarf
+Ability: Truant
+EVs: 220 HP / 60 Def / 228 Spe
+Jolly Nature
+- Entrainment
+- Iron Head
+- X-Scissor
+- Protect
+
+Cloyster @ Focus Sash
+Ability: Skill Link
+EVs: 252 Atk / 88 SpA / 168 Spe
+IVs: 17 SpD
+Naughty Nature
+- Surf
+- Shell Smash
+- Icicle Spear
+- Protect
+
+Drapion @ Black Sludge
+Ability: Battle Armor
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+- Substitute
+- Protect
+- Knock Off
+- Acupressure
+
+
+D9GG-WWWW-WWXQ-SF59
+Battle 972 vs. Veteran Alfie [Tornadus-4, Virizion-4, Regice-3]

@@ -1,0 +1,42 @@
+Hubert
+Y Doubles
+
+Scizor @ Scizorite
+Ability: Technician
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+- Bullet Punch
+- Bug Bite
+- Brick Break
+- Protect
+
+Sharpedo @ Focus Sash
+Ability: Speed Boost
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature
+- Waterfall
+- Crunch
+- Destiny Bond
+- Protect
+
+Chandelure @ Wise Glasses
+Ability: Flash Fire
+EVs: 92 HP / 252 SpA / 164 Spe
+Modest Nature
+- Flamethrower
+- Shadow Ball
+- Energy Ball
+- Protect
+
+Gastrodon @ Leftovers
+Ability: Storm Drain
+EVs: 116 HP / 92 Def / 228 SpA / 60 SpD / 12 Spe
+Modest Nature
+- Scald
+- Earth Power
+- Ice Beam
+- Protect
+
+
+S5MG-WWWW-WWW8-4ATS
+Battle 263 vs. Ace Trainer Sigurd [Vespiquen-4, Tauros-4, Tyrantrum-4, Dugtrio-4]

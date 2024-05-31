@@ -1,0 +1,43 @@
+Lolnub
+Sun v1.2 Doubles
+
+Salamence @ Salamencite
+Ability: Intimidate
+EVs: 4 Atk / 252 SpA / 252 Spe
+Hasty Nature
+- Double-Edge
+- Hyper Voice
+- Flamethrower
+- Protect
+
+Kartana @ Focus Sash
+Ability: Beast Boost
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Leaf Blade
+- Sacred Sword
+- Smart Strike
+- Protect
+
+Tapu Fini @ Choice Specs
+Ability: Misty Surge
+EVs: 220 HP / 4 Def / 252 SpA / 4 SpD / 28 Spe
+Modest Nature
+- Moonblast
+- Scald
+- Ice Beam
+- Dazzling Gleam
+
+Snorlax @ Iapapa Berry
+Ability: Gluttony
+EVs: 100 HP / 252 Atk / 156 Def
+IVs: 0 Spe
+Brave Nature
+- Return
+- Earthquake
+- Crunch
+- Protect
+
+
+EQ6G-WWWW-WWWG-7GK3
+Battle 822 (Loss) vs. Ace Trainer Hashim [Milotic-3, Archeops-4, Pinsir-4, Gigalith-4]

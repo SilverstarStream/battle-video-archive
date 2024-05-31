@@ -1,0 +1,45 @@
+Franco
+X Doubles
+
+Aron @ Berry Juice
+Ability: Sturdy
+Level: 1
+Brave Nature
+- Protect
+- Swagger
+- Endeavor
+- Toxic
+
+Cresselia @ Mental Herb
+Ability: Levitate
+EVs: 252 HP / 108 Def / 148 SpD
+IVs: 0 Spe
+Relaxed Nature
+- Trick Room
+- Ice Beam
+- Psychic
+- Helping Hand
+
+Machamp @ Focus Sash
+Ability: No Guard
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 0 Spe
+Brave Nature
+- Dynamic Punch
+- Stone Edge
+- Knock Off
+- Protect
+
+Mawile @ Mawilite
+Ability: Intimidate
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 0 Spe
+Brave Nature
+- Play Rough
+- Ice Punch
+- Iron Head
+- Sucker Punch
+
+
+UEDW-WWWW-WWW5-LFH2
+Battle 497 vs. Ace Trainer Bunny [Shuckle-2, Gyarados-1, Sylveon-2, Milotic-1]

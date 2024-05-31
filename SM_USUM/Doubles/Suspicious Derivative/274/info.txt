@@ -1,0 +1,63 @@
+Priscilla
+Sun v1.2 Doubles
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Return
+- Sucker Punch
+- Power-Up Punch
+- Fake Out
+
+Tapu Koko @ Choice Specs
+Ability: Electric Surge
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Thunderbolt
+- Dazzling Gleam
+- Grass Knot
+- Volt Switch
+
+Latios @ Dragonium Z
+Ability: Levitate
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Draco Meteor
+- Psychic
+- Surf
+- Protect
+
+Excadrill @ Focus Sash
+Ability: Mold Breaker
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Drill Run
+- Iron Head
+- Rock Tomb
+- Protect
+
+
+A9BW-WWWW-WWW9-N444
+Battle 268 vs. Collector Sam [Aerodactyl-3, Dragonite-3, Hydreigon-3, Pinsir-4]
+
+QUNW-WWWW-WWW9-N43N
+Battle 263 vs. Aether Foundation Harvey [Metagross-4, Turtonator-4, Malamar-4, Salamence-4]
+
+EG5G-WWWW-WWW9-N439
+Battle 213 vs. Dancer Tasanee [Snorlax-3, Cresselia-1, Garchomp-3, Wishiwashi-3]
+
+TX8G-WWWW-WWW8-H6PQ
+Battle 171 vs. Ace Trainer Poppy [Weavile-3, Tyranitar-4, Klinklang-4, Empoleon-4]
+
+F4MG-WWWW-WWW8-H6PG
+Battle 144 vs. Scientist Cadel [Carbink-3, Turtonator-3, Audino-4, Dhelmise-3]
+
+XGJG-WWWW-WWW8-H6P5
+Battle 130 vs. Pokémon Trainer Sina [Glaceon-3, Mandibuzz-4, Abomasnow-4, Lilligant-4]
+
+HNHG-WWWW-WWW8-H6ZY
+Battle 52 vs. Worker Dan [Flygon-3, Ferrothorn-4, Golurk-4, Jolteon-3]
+
+62EW-WWWW-WWW8-H6Z4
+Battle 50 vs. Battle Legend Blue [Gyarados-3, Pidgeot-4, Machamp-4, Alakazam-3]

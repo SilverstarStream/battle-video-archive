@@ -1,0 +1,43 @@
+Phil
+Omega Ruby Rotation
+
+Latias @ Latiasite
+Ability: Levitate
+EVs: 252 HP / 236 Def / 20 Spe
+IVs: 27 SpD
+Bold Nature
+- Substitute
+- Calm Mind
+- Recover
+- Stored Power
+
+Clefable @ Leftovers
+Ability: Unaware
+EVs: 252 HP / 252 Def / 4 Spe
+Bold Nature
+- Moonblast
+- Moonlight
+- Aromatherapy
+- Calm Mind
+
+Blaziken @ Life Orb
+Ability: Speed Boost
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature
+- Protect
+- Flare Blitz
+- Low Kick
+- Earthquake
+
+Scizor @ Choice Band
+Ability: Technician
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+- Bullet Punch
+- Bug Bite
+- Superpower
+- Aerial Ace
+
+
+B2DG-WWWW-WWXD-NHYT
+Battle 114 vs. Punk Girl Hadley [Volcarona-4, Weavile-4, Victreebel-4, Toxicroak-4]

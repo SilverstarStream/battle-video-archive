@@ -1,0 +1,34 @@
+Based God
+Omega Ruby Singles
+
+Sableye @ Focus Sash
+Ability: Prankster
+Level: 1
+EVs: 160 SpD
+Calm Nature
+- Trick
+- Gravity
+- Flash
+- Taunt
+
+Glalie @ Leftovers
+Ability: Moody
+EVs: 172 HP / 88 Def / 72 SpA / 4 SpD / 172 Spe
+Timid Nature
+- Substitute
+- Protect
+- Taunt
+- Frost Breath
+
+Durant @ Choice Scarf
+Ability: Truant
+EVs: 244 HP / 12 Def / 252 Spe
+Jolly Nature
+- Entrainment
+- Rock Slide
+- X-Scissor
+- Iron Head
+
+
+6LRW-WWWW-WWXY-YMHJ
+Battle 1174 vs. Veteran Isabella [Regirock-4, Suicune-4, Landorus-4]

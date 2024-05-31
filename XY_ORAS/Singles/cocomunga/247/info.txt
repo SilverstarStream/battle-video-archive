@@ -1,0 +1,65 @@
+Sha-Quanda
+X Singles
+
+Infernape @ Focus Sash
+Ability: Blaze
+EVs: 252 SpA / 4 SpD / 252 Spe
+IVs: 8 Def
+Timid Nature
+- Flamethrower
+- Hidden Power
+- Nasty Plot
+- Counter
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 12 HP / 252 Atk / 4 Def / 4 SpD / 236 Spe
+Jolly Nature
+- Return
+- Sucker Punch
+- Crunch
+- Power-Up Punch
+
+Garchomp @ Lum Berry
+Ability: Rough Skin
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Outrage
+- Earthquake
+- Swords Dance
+- Facade
+
+
+6CAW-WWWW-WWW8-PBC4
+Battle 248 vs. Veteran Isabella [Latias-2, Virizion-3, Regice-3]
+
+Infernape @ Focus Sash
+Ability: Blaze
+EVs: 252 SpA / 4 SpD / 252 Spe
+IVs: 8 Def
+Timid Nature
+- Flamethrower
+- Hidden Power
+- Nasty Plot
+- Counter
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 12 HP / 252 Atk / 8 Def / 4 SpD / 232 Spe
+Jolly Nature
+- Return
+- Sucker Punch
+- Crunch
+- Power-Up Punch
+
+Garchomp @ Lum Berry
+Ability: Sand Veil
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Outrage
+- Poison Jab
+- Swords Dance
+- Earthquake
+
+F3LG-WWWW-WWW8-ZT8T
+Battle 200 vs. Chef Andrei [Mamoswine-4, Glaceon-1, Abomasnow-4]

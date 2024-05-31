@@ -1,0 +1,90 @@
+Silver
+Ultra Sun v1.2 Singles
+
+Garchomp @ Dragonium Z
+Ability: Rough Skin
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Earthquake
+- Outrage
+- Substitute
+- Swords Dance
+
+Scizor @ Scizorite
+Ability: Technician
+EVs: 244 HP / 4 Atk / 4 Def / 252 SpD / 4 Spe
+Adamant Nature
+- Bullet Punch
+- Brutal Swing
+- Roost
+- Swords Dance
+
+Tapu Fini @ Sitrus Berry
+Ability: Misty Surge
+EVs: 252 HP / 172 SpA / 84 Spe
+Modest Nature
+- Moonblast
+- Surf
+- Grass Knot
+- Calm Mind
+
+
+Battle1065
+Battle 1065 (Loss) vs. Youth Athlete Thamina [Starmie-4, Greninja-4, Raikou-2]
+
+Battle1048
+Battle 1048 vs. Veteran Kikujiro [Ampharos-4, Raichu-2, Togedemaru-2]
+
+Battle1000
+Battle 1000 vs. Pokémon Trainer Sina [Mandibuzz-3, Drampa-4, Glaceon-3]
+
+Battle977
+Battle 977 vs. Police Officer Rendor [Skarmory-4, Salamence-4, Hawlucha-4]
+
+Battle962
+Battle 962 vs. Dancer Tasanee [Mesprit-4, Salamence-3, Arcanine-3]
+
+Battle900
+Battle 900 vs. Pokémon Trainer Cynthia [Togekiss-3, Lucario-4, Milotic-4]
+
+Battle884
+Battle 884 vs. Veteran Demiathena [Raikou-4, Thundurus-3, Zapdos-3]
+
+Battle800
+Battle 800 vs. Pokémon Trainer Plumeria [Salazzle-3, Crobat-4, Lurantis-3]
+
+Battle700
+Battle 700 vs. Pokémon Trainer Colress [Electrode-4, Porygon-Z-4, Klinklang-4]
+
+Battle601
+Battle 601 vs. Dancer Tasanee [Metagross-3, Primarina-3, Magnezone-3]
+
+Battle600
+Battle 600 vs. Captain Kiawe [Kangaskhan-4, Marowak-Alola-2, Talonflame-4]
+
+Battle578
+Battle 578 vs. Ace Trainer Horace [Regice-1, Registeel-2, Regirock-1]
+
+Battle500
+Battle 500 vs. Pokémon Trainer Sina [Drampa-3, Abomasnow-4, Mandibuzz-3]
+
+Battle472
+Battle 472 vs. Dancer Jo [Primarina-3, Articuno-2, Salamence-4]
+
+Battle400
+Battle 400 vs. Captain Kiawe [Marowak-Alola-2, Talonflame-3, Kangaskhan-4]
+
+Battle317
+Battle 317 vs. Preschooler Reina [Greninja-4, Charizard-4, Blaziken-3]
+
+Battle300
+Battle 300 vs. Pokémon Trainer Wally [Gallade-3, Magnezone-3, Altaria-3]
+
+Battle261
+Battle 261 vs. Veteran Demiathena [Cresselia-3, Raikou-4, Azelf-3]
+
+Battle200
+Battle 200 vs. Pokémon Trainer Kukui [Ninetales-Alola-2, Primarina-4, Decidueye-3]
+
+Battle100
+Battle 100 vs. Pokémon Trainer Wally [Altaria-3, Gallade-3, Garchomp-3]

@@ -1,0 +1,70 @@
+Davide
+Ultra Sun v1.2 Doubles
+
+Golisopod @ Assault Vest
+Ability: Emergency Exit
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 3 Spe
+Adamant Nature
+- Leech Life
+- Liquidation
+- First Impression
+- Aqua Jet
+
+Blastoise @ Blastoisinite
+Ability: Torrent
+EVs: 236 HP / 4 Def / 188 SpA / 12 SpD / 68 Spe
+Modest Nature
+- Water Pulse
+- Aura Sphere
+- Ice Beam
+- Fake Out
+
+Togedemaru @ Focus Sash
+Ability: Lightning Rod
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Zing Zap
+- Fake Out
+- Spiky Shield
+- Iron Head
+
+Cresselia @ Leftovers
+Ability: Levitate
+EVs: 248 HP / 140 Def / 108 SpD / 12 Spe
+Bold Nature
+- Psychic
+- Hidden Power
+- Calm Mind
+- Rest
+
+
+E6YG-WWWW-WWWT-48BE
+Battle 286 (Loss) vs. Veteran Xio [Aromatisse-4, Primarina-3, Togekiss-3, Mimikyu-4]
+
+UJEG-WWWW-WWWT-ERJ4
+Battle 262 vs. Veteran Demiathena [Virizion-4, Raikou-3, Latias-3, Azelf-3]
+
+3JBG-WWWW-WWWT-ERHC
+Battle 249 vs. Dancer Carrie [Sawk-4, Ludicolo-4, Drapion-4, Vespiquen-4]
+
+S7BW-WWWW-WWWT-48AL
+Battle 230 vs. Captain Kiawe [Salazzle-3, Arcanine-3, Kangaskhan-4, Marowak-Alola-2]
+
+857G-WWWW-WWWT-487R
+Battle 218 vs. Punk Girl Zed [Crobat-3, Nidoking-3, Gyarados-4, Glalie-4]
+
+E23G-WWWW-WWWT-485S
+Battle 200 vs. Captain Kiawe [Kangaskhan-4, Arcanine-4, Marowak-Alola-2, Talonflame-4]
+
+VZNW-WWWW-WWWT-484F
+Battle 187 vs. Sightseer Alice [Rhyperior-4, Conkeldurr-4, Regigigas-4, Slaking-3]
+
+V89W-WWWW-WWWT-482B
+Battle 170 vs. Pokémon Trainer Kukui [Braviary-4, Magnezone-3, Incineroar-4, Primarina-4]
+
+BLPG-WWWW-WWWT-47RF
+Battle 140 vs. Pokémon Trainer Kukui [Snorlax-3, Braviary-3, Incineroar-3, Magnezone-3]
+
+V7TG-WWWW-WWWT-47V6
+Battle 113 vs. Veteran Dooley [Rotom-Wash-3, Garchomp-4, Tyranitar-3, Metagross-4]

@@ -1,0 +1,45 @@
+Jacqueline
+Sun v1.1 Doubles
+
+Pheromosa @ Focus Sash
+Ability: Beast Boost
+EVs: 252 Atk / 4 SpA / 252 Spe
+IVs: 16 HP / 31 Atk / 1 Def / 31 SpA / 11 SpD / 31 Spe
+Naughty Nature
+- Low Kick
+- Lunge
+- Poison Jab
+- Protect
+
+Tapu Lele @ Twisted Spoon
+Ability: Psychic Surge
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 24 HP / 22 SpD
+Timid Nature
+- Psychic
+- Moonblast
+- Thunderbolt
+- Protect
+
+Aegislash @ Ghostium Z
+Ability: Stance Change
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 24 Spe
+Modest Nature
+- Shadow Ball
+- Flash Cannon
+- Hidden Power
+- King's Shield
+
+Salamence @ Salamencite
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Double-Edge
+- Earthquake
+- Brick Break
+- Crunch
+
+
+ERYG-WWWW-WWW4-V4ZQ
+Battle 336 (Loss) vs. Cook Tony [Froslass-4, Gyarados-4, Vespiquen-4, Breloom-4]

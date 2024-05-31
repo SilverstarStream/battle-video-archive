@@ -1,0 +1,41 @@
+Joker
+Omega Ruby Singles
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 252 Atk / 4 Def / 252 Spe
+Adamant Nature
+- Return
+- Sucker Punch
+- Earthquake
+- Power-Up Punch
+
+Durant @ Choice Scarf
+Ability: Truant
+EVs: 172 HP / 108 Def / 228 Spe
+IVs: 30 SpA
+Jolly Nature
+- Entrainment
+- Iron Head
+- X-Scissor
+- Aerial Ace
+
+Volcarona @ Focus Sash
+Ability: Flame Body
+EVs: 252 SpA / 4 SpD / 252 Spe
+IVs: 13 HP
+Modest Nature
+- Flamethrower
+- Quiver Dance
+- Giga Drain
+- Protect
+
+
+PA6G-WWWW-WW4J-FML6
+Battle 306 vs. Tourist Aire [Gogoat-4, Ferrothorn-4, Vespiquen-4]
+
+823W-WWWW-WW4J-FNXD
+Battle 255 vs. Tourist Hartsfield [Zebstrika-4, Floatzel-4, Donphan-4]
+
+L2GG-WWWW-WW4J-FNC6
+Battle 217 vs. Roller Skater Raoul [Salamence-4, Raichu-3, Honchkrow-3]

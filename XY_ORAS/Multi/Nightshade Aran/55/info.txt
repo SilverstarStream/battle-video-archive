@@ -1,0 +1,44 @@
+Nightshade
+X Multi (with AI partner)
+
+Greninja @ Life Orb
+Ability: Protean
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Scald
+- Ice Beam
+- Dark Pulse
+- Grass Knot
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Return
+- Fake Out
+- Earthquake
+- Sucker Punch
+
+Friends List AI Partner
+
+Mienshao-3 @ Focus Sash
+Ability: Inner Focus
+EVs: 252 Atk / 252 Spe
+Jolly Nature
+- Low Kick
+- Fake Out
+- High Jump Kick
+- U-turn
+
+Scizor-3 @ Life Orb
+Ability: Swarm
+EVs: 252 HP / 252 Atk
+Brave Nature
+- Swords Dance
+- Bullet Punch
+- Reversal
+- U-turn
+
+
+38FW-WWWW-WWW9-ZWUG
+Battle 56 vs. Tourist Chelsea [Aromatisse-4, Hariyama-4] & Artist Azure [Probopass-4, Marowak-4]

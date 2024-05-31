@@ -1,0 +1,42 @@
+Paper
+Ultra Sun v1.2 Doubles
+
+Greninja @ Focus Sash
+Ability: Protean
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Dark Pulse
+- Ice Beam
+- Grass Knot
+- Mat Block
+
+Kommo-o @ Kommonium Z
+Ability: Overcoat
+EVs: 20 HP / 4 Atk / 4 Def / 248 SpA / 4 SpD / 228 Spe
+Rash Nature
+- Clanging Scales
+- Close Combat
+- Flamethrower
+- Protect
+
+Scizor @ Scizorite
+Ability: Technician
+EVs: 156 HP / 252 Atk / 4 Def / 4 SpD / 92 Spe
+Adamant Nature
+- Bullet Punch
+- Bug Bite
+- Superpower
+- Protect
+
+Primarina @ Assault Vest
+Ability: Liquid Voice
+EVs: 212 HP / 252 SpA / 44 Spe
+Modest Nature
+- Hyper Voice
+- Moonblast
+- Energy Ball
+- Hydro Cannon
+
+
+4XPG-WWWW-WWWV-3Y8K
+Battle 280 (Loss) vs. Captain Kiawe [Talonflame-4, Salazzle-4, Arcanine-3, Kangaskhan-4]

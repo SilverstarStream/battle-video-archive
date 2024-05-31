@@ -1,0 +1,45 @@
+Tobias
+Ultra Moon v1.2 Doubles
+
+Oranguru @ Lum Berry
+Ability: Telepathy
+EVs: 252 HP / 140 Def / 20 SpA / 96 SpD
+IVs: 31 HP / 27 Atk / 30 Def / 31 SpA / 26 SpD / 1 Spe
+Sassy Nature
+- Trick Room
+- Protect
+- Instruct
+- Psychic
+
+Aron @ Berry Juice
+Ability: Sturdy
+Level: 1
+Brave Nature
+- Tackle
+- Toxic
+- Endeavor
+- Protect
+
+Mawile @ Mawilite
+Ability: Intimidate
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 29 SpD / 4 Spe
+Brave Nature
+- Rock Slide
+- Crunch
+- Iron Head
+- Play Rough
+
+Drampa @ Life Orb
+Ability: Berserk
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 31 HP / 17 Atk / 31 Def / 31 SpA / 30 SpD / 4 Spe
+Quiet Nature
+- Dragon Pulse
+- Hyper Voice
+- Flamethrower
+- Energy Ball
+
+
+C9SW-WWWW-WWXB-7SLR
+Battle 169 (Loss) vs. Firefighter Calder [Walrein-4, Jellicent-4, Starmie-4, Slowbro-4]

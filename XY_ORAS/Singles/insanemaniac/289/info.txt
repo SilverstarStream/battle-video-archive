@@ -1,0 +1,36 @@
+Jisk
+Alpha Sapphire Singles
+
+Greninja @ Life Orb
+Ability: Protean
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Dark Pulse
+- Ice Beam
+- Grass Knot
+- Surf
+
+Blaziken @ Blazikenite
+Ability: Speed Boost
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Earthquake
+- Low Kick
+- Protect
+- Flare Blitz
+
+Gliscor @ Toxic Orb
+Ability: Poison Heal
+EVs: 212 HP / 4 Atk / 36 Def / 252 SpD / 4 Spe
+Careful Nature
+- Substitute
+- Protect
+- Toxic
+- Earthquake
+
+
+JG2G-WWWW-WWXB-MR3M
+Battle 290 vs. Veteran Catherine [Raikou-1, Tornadus-2, Latios-1]
+
+JASG-WWWW-WWXB-MQLC
+Battle 50 vs. Battle Chatelaine Nita [Landorus-2, Thundurus-3, Tornadus-2]

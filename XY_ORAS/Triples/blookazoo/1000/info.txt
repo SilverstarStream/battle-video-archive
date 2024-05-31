@@ -1,0 +1,61 @@
+Bloo
+Omega Ruby Triples
+
+Greninja @ Focus Sash
+Ability: Protean
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Mat Block
+- Grass Knot
+- Ice Beam
+- Dark Pulse
+
+Aron @ Berry Juice
+Ability: Sturdy
+Level: 1
+Timid Nature
+- Endeavor
+- Protect
+- Toxic
+- Swagger
+
+Salamence @ Salamencite
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Dragon Dance
+- Earthquake
+- Return
+- Protect
+
+Talonflame @ Sharp Beak
+Ability: Gale Wings
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+- Brave Bird
+- Flare Blitz
+- Tailwind
+- Protect
+
+Aegislash @ Weakness Policy
+Ability: Stance Change
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 30 SpA / 0 Spe
+Brave Nature
+- Shadow Sneak
+- Sacred Sword
+- King's Shield
+- Iron Head
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Swords Dance
+- Earthquake
+- Dragon Claw
+- Protect
+
+
+EGTG-WWWW-WW3C-PPWV
+Battle 1000 vs. Pokémon Breeder Gudrun [Volcarona-4, Zebstrika-4, Mismagius-4, Poliwrath-4, Muk-4, Jolteon-4]

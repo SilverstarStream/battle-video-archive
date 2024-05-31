@@ -1,0 +1,42 @@
+Nick
+Ultra Moon v1.2 Doubles
+
+Suicune @ Wiki Berry
+Ability: Inner Focus
+EVs: 180 HP / 4 Def / 148 SpA / 4 SpD / 172 Spe
+Modest Nature
+- Protect
+- Scald
+- Ice Beam
+- Tailwind
+
+Manectric @ Manectite
+Ability: Lightning Rod
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Protect
+- Volt Switch
+- Overheat
+- Thunderbolt
+
+Garchomp @ Groundium Z
+Ability: Rough Skin
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Protect
+- Earthquake
+- Dragon Claw
+- Swords Dance
+
+Celesteela @ Leftovers
+Ability: Beast Boost
+EVs: 244 HP / 4 Atk / 140 Def / 84 SpD / 36 Spe
+Careful Nature
+- Protect
+- Heavy Slam
+- Leech Seed
+- Wide Guard
+
+
+99AG-WWWW-WWXD-ZKPF
+Battle 288 (Loss) vs. Ace Trainer Granville [Talonflame-3, Alakazam-3, Rotom-Heat-4, Sceptile-3]

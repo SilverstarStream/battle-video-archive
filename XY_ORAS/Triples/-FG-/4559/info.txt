@@ -1,0 +1,308 @@
+FG
+X Triples
+
+Talonflame @ Sharp Beak
+Ability: Gale Wings
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+- Tailwind
+- Brave Bird
+- Flare Blitz
+- Protect
+
+Blastoise @ Blastoisinite
+Ability: Torrent
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Protect
+- Aura Sphere
+- Water Spout
+- Ice Beam
+
+Greninja @ Focus Sash
+Ability: Protean
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Mat Block
+- Dark Pulse
+- Ice Beam
+- Grass Knot
+
+Typhlosion @ Choice Specs
+Ability: Flash Fire
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Eruption
+- Focus Blast
+- Flamethrower
+- Extrasensory
+
+Aegislash @ Leftovers
+Ability: Stance Change
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 0 Spe
+Brave Nature
+- King's Shield
+- Iron Head
+- Shadow Sneak
+- Sacred Sword
+
+Hydreigon @ Life Orb
+Ability: Levitate
+EVs: 252 SpA / 4 SpD / 252 Spe
+Modest Nature
+- Flash Cannon
+- Dragon Pulse
+- Dark Pulse
+- Earth Power
+
+
+T5ZW-WWWW-WW2N-FHA2
+Battle 4560 vs. Furisode Girl Kannon [Vaporeon-4, Umbreon-4, Leafeon-2, Sylveon-1, Jolteon-4, Espeon-1]
+
+G29G-WWWW-WW2N-FH6U
+Battle 4254 vs. Pokémon Ranger Willow [Flygon-4, Slowbro-4, Krookodile-4, Golurk-4, Greninja-4, Vaporeon-4]
+
+Talonflame @ Sharp Beak
+Ability: Gale Wings
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature
+- Tailwind
+- Brave Bird
+- Flare Blitz
+- Protect
+
+Blastoise @ Blastoisinite
+Ability: Torrent
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Protect
+- Aura Sphere
+- Water Spout
+- Ice Beam
+
+Greninja @ Focus Sash
+Ability: Protean
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Mat Block
+- Dark Pulse
+- Ice Beam
+- Grass Knot
+
+Typhlosion @ Choice Specs
+Ability: Flash Fire
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Eruption
+- Focus Blast
+- Flamethrower
+- Extrasensory
+
+Aegislash @ Leftovers
+Ability: Stance Change
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 0 Spe
+Brave Nature
+- King's Shield
+- Iron Head
+- Shadow Sneak
+- Sacred Sword
+
+Hydreigon @ Life Orb
+Ability: Levitate
+EVs: 252 SpA / 4 SpD / 252 Spe
+Modest Nature
+- Flash Cannon
+- Dragon Pulse
+- Dark Pulse
+- Earth Power
+
+ZLFW-WWWW-WW2N-FH5T
+Battle 4126 vs. Veteran Eleanor [Heatran-4, Cresselia-4, Raikou-4, Landorus-3, Terrakion-3, Registeel-3]
+
+Talonflame @ Sharp Beak
+Ability: Gale Wings
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature
+- Tailwind
+- Brave Bird
+- Flare Blitz
+- Protect
+
+Blastoise @ Blastoisinite
+Ability: Torrent
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Protect
+- Aura Sphere
+- Water Spout
+- Ice Beam
+
+Greninja @ Focus Sash
+Ability: Protean
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Mat Block
+- Dark Pulse
+- Ice Beam
+- Grass Knot
+
+Typhlosion @ Choice Specs
+Ability: Blaze
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Eruption
+- Focus Blast
+- Solar Beam
+- Flamethrower
+
+Aegislash @ Leftovers
+Ability: Stance Change
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 0 Spe
+Brave Nature
+- King's Shield
+- Iron Head
+- Shadow Sneak
+- Sacred Sword
+
+Hydreigon @ Life Orb
+Ability: Levitate
+EVs: 252 SpA / 4 SpD / 252 Spe
+Modest Nature
+- Flash Cannon
+- Dragon Pulse
+- Dark Pulse
+- Earth Power
+
+H5TG-WWWW-WWW8-Y995
+Battle 4000 vs. Veteran Howell [Regigigas-2, Latias-1, Tornadus-2, Thundurus-1, Suicune-2, Zapdos-1]
+
+Talonflame @ Sharp Beak
+Ability: Gale Wings
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature
+- Tailwind
+- Brave Bird
+- Flare Blitz
+- Protect
+
+Blastoise @ Blastoisinite
+Ability: Torrent
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Protect
+- Aura Sphere
+- Water Spout
+- Ice Beam
+
+Greninja @ Focus Sash
+Ability: Protean
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Mat Block
+- Dark Pulse
+- Ice Beam
+- Grass Knot
+
+Typhlosion @ Choice Specs
+Ability: Flash Fire
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Eruption
+- Focus Blast
+- Flamethrower
+- Extrasensory
+
+Aegislash @ Leftovers
+Ability: Stance Change
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 0 Spe
+Brave Nature
+- King's Shield
+- Iron Head
+- Shadow Sneak
+- Sacred Sword
+
+Hydreigon @ Life Orb
+Ability: Levitate
+EVs: 252 SpA / 4 SpD / 252 Spe
+Modest Nature
+- Flash Cannon
+- Dragon Pulse
+- Dark Pulse
+- Earth Power
+
+B2RW-WWWW-WWW8-Y9K7
+Battle 3710 vs. Owner Cyril [Braviary-4, Aerodactyl-4, Drifblim-4, Mandibuzz-4, Arcanine-4, Salamence-4]
+
+XR9W-WWWW-WWW8-Y9KA
+Battle 3428 vs. Maid Colette [Conkeldurr-4, Drifblim-4, Gyarados-4, Garchomp-4, Floatzel-4, Ampharos-4]
+
+8PMW-WWWW-WWW8-Y9KF
+Battle 2979 vs. Pokémon Ranger Cerese [Donphan-4, Slowbro-4, Flygon-4, Clawitzer-4, Mamoswine-4, Greninja-4]
+
+2TLW-WWWW-WWW8-Y99B
+Battle 2460 vs. Veteran Isabella [Cresselia-4, Latias-2, Regigigas-3, Suicune-4, Thundurus-3, Terrakion-4]
+
+Talonflame @ Sharp Beak
+Ability: Gale Wings
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature
+- Tailwind
+- Brave Bird
+- Flare Blitz
+- Protect
+
+Blastoise @ Blastoisinite
+Ability: Torrent
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Protect
+- Aura Sphere
+- Water Spout
+- Ice Beam
+
+Greninja @ Focus Sash
+Ability: Protean
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Mat Block
+- Dark Pulse
+- Ice Beam
+- Grass Knot
+
+Typhlosion @ Choice Specs
+Ability: Blaze
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Eruption
+- Focus Blast
+- Solar Beam
+- Flamethrower
+
+Aegislash @ Leftovers
+Ability: Stance Change
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 0 Spe
+Brave Nature
+- King's Shield
+- Iron Head
+- Shadow Sneak
+- Sacred Sword
+
+Hydreigon @ Life Orb
+Ability: Levitate
+EVs: 252 SpA / 4 SpD / 252 Spe
+Modest Nature
+- Flash Cannon
+- Dragon Pulse
+- Dark Pulse
+- Earth Power
+
+FYTW-WWWW-WWW8-Y99M
+Battle 1724 vs. Pokémon Ranger Hazel [Ludicolo-4, Trevenant-4, Gyarados-4, Whiscash-4, Vaporeon-4, Seismitoad-4]
+
+SN4G-WWWW-WWW8-Y9KH
+Battle 1484 vs. Roller Skater Aurora [Electrode-3, Braviary-3, Vespiquen-4, Altaria-3, Gyarados-4, Salamence-3]

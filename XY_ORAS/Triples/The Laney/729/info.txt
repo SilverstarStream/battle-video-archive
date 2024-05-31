@@ -1,0 +1,63 @@
+Laney
+X Triples
+
+Greninja @ Focus Sash
+Ability: Protean
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Ice Beam
+- Dark Pulse
+- Grass Knot
+- Mat Block
+
+Blastoise @ Blastoisinite
+Ability: Torrent
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Dark Pulse
+- Protect
+- Aura Sphere
+- Water Spout
+
+Talonflame @ Sky Plate
+Ability: Gale Wings
+EVs: 48 HP / 252 Atk / 208 Spe
+Adamant Nature
+- Flare Blitz
+- Tailwind
+- U-turn
+- Brave Bird
+
+Krookodile @ Life Orb
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Rock Slide
+- Taunt
+- Earthquake
+- Crunch
+
+Rotom-Heat @ White Herb
+Ability: Levitate
+EVs: 252 HP / 252 SpA / 4 Spe
+Modest Nature
+- Overheat
+- Dark Pulse
+- Thunderbolt
+- Protect
+
+Hitmontop @ Sitrus Berry
+Ability: Intimidate
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+- Fake Out
+- Rock Slide
+- Close Combat
+- Aerial Ace
+
+
+TPAG-WWWW-WWWL-WNFL
+Battle 500 vs. Hex Maniac Mara [Tyranitar-1, Slowbro-4, Slowking-1, Cofagrigus-3, Reuniclus-2, Bronzong-4]
+
+HXMW-WWWW-WWWL-WZ5D
+Battle 125 vs. Hex Maniac Mara [Aromatisse-4, Forretress-3, Cofagrigus-3, Musharna-2, Reuniclus-2, Dusknoir-2]

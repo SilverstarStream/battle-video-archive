@@ -1,0 +1,101 @@
+Nick
+Ultra Moon v1.2 Multi (with AI partner)
+
+Kommo-o @ Kommonium Z
+Ability: Soundproof
+EVs: 76 Atk / 204 SpA / 228 Spe
+Mild Nature
+- Protect
+- Close Combat
+- Clanging Scales
+- Iron Head
+
+Metagross @ Metagrossite
+Ability: Clear Body
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Protect
+- Iron Head
+- Ice Punch
+- Stomping Tantrum
+
+Pokémon Trainer Lillie
+
+Ribombee-2 @ Light Clay
+Ability: Shield Dust
+EVs: 252 HP / 252 Spe
+Timid Nature
+- Pollen Puff
+- Reflect
+- Light Screen
+- U-turn
+
+Comfey-3 @ Grassium Z
+Ability: Triage
+EVs: 252 SpA / 252 Spe
+Timid Nature
+- Dazzling Gleam
+- Petal Blizzard
+- Grassy Terrain
+- Floral Healing
+
+
+2DUG-WWWW-WWWZ-E6LB
+Battle 62 (Loss) vs. Veteran Xio [Mimikyu-3, Whimsicott-3] & Youngster Napoleon [Latios-1, Latias-2]
+
+J6WG-WWWW-WWWZ-EDA3
+Battle 60 vs. Captain Mallow [Talonflame-3, Tsareena-3] & Pokémon Trainer Cynthia [Spiritomb-3, Garchomp-4]
+
+3XRW-WWWW-WWWZ-EEDT
+Battle 56 vs. Golfer Moe [Flareon-4, Leafeon-3] & Madame Donny [Kommo-o-3, Azelf-4]
+
+Metagross @ Metagrossite
+Ability: Clear Body
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Protect
+- Iron Head
+- Rock Tomb
+- Stomping Tantrum
+
+Kommo-o @ Kommonium Z
+Ability: Soundproof
+EVs: 76 Atk / 204 SpA / 228 Spe
+Mild Nature
+- Protect
+- Close Combat
+- Clanging Scales
+- Iron Head
+
+ZBCG-WWWW-WWWZ-EDGM
+Battle 50 vs. Battle Legend Red [Snorlax-3, Blastoise-4] & Battle Legend Blue [Machamp-3, Aerodactyl-4]
+
+Kommo-o @ Kommonium Z
+Ability: Soundproof
+EVs: 76 Atk / 204 SpA / 228 Spe
+Mild Nature
+- Protect
+- Close Combat
+- Clanging Scales
+- Iron Head
+
+Metagross @ Metagrossite
+Ability: Clear Body
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Protect
+- Iron Head
+- Ice Punch
+- Stomping Tantrum
+
+5Q9G-WWWW-WWWZ-EEBD
+Battle 35 vs. Black Belt Chucky [Haxorus-4, Altaria-4] & Golfer Anisa [Braviary-3, Amoonguss-3]
+
+XE7W-WWWW-WWWZ-EDU7
+Battle 25 vs. Golfer Alim [Staraptor-3, Shiinotic-2] & Golfer Arnon [Noivern-2, Aurorus-3]
+
+3S5W-WWWW-WWWZ-EDPU
+Battle 12 vs. Sightseer Hart [Togedemaru-2, Dusknoir-2] & Gentleman Henry [Liepard-2, Mienshao-1]
+
+C9MG-WWWW-WWWZ-EDYR
+Battle 10 vs. Pokémon Trainer Grimsley [Absol-4, Bisharp-3] & Pokémon Trainer Guzma [Pinsir-4, Golisopod-4]

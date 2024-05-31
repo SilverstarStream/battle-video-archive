@@ -1,0 +1,45 @@
+DRuhl
+X Multi (with Human partner)
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Double-Edge
+- Crunch
+- Fake Out
+- Power-Up Punch
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Dragon Claw
+- Earthquake
+- Swords Dance
+- Rock Slide
+
+Jerex
+Y
+
+Gengar @ Focus Sash
+Ability: Levitate
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+- Energy Ball
+- Thunderbolt
+- Shadow Ball
+- Sludge Bomb
+
+Lucario @ Lucarionite
+Ability: Justified
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Protect
+- Bullet Punch
+- Close Combat
+- Power-Up Punch
+
+
+HSJG-WWWW-WWWD-2B4E
+Battle 171 vs. Psychic Uberto [Alakazam-4, Gothitelle-4] & Black Belt Tyrell [Aggron-4, Talonflame-4]

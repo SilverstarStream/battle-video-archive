@@ -1,0 +1,44 @@
+Pike
+Omega Ruby Multi (with AI partner)
+
+Greninja @ Focus Sash
+Ability: Protean
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Mat Block
+- Ice Beam
+- Grass Knot
+- Dark Pulse
+
+Salamence @ Salamencite
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 4 Def / 12 SpD / 236 Spe
+Jolly Nature
+- Return
+- Earthquake
+- Protect
+- Dragon Dance
+
+Pokémon Trainer Steven
+
+Metagross @ Metagrossite
+Ability: Clear Body
+EVs: 252 Atk / 252 Def
+Adamant Nature
+- Meteor Mash
+- Bullet Punch
+- Zen Headbutt
+- Hammer Arm
+
+Aerodactyl @ Focus Sash
+Ability: Rock Head
+EVs: 252 Atk / 252 Spe
+Jolly Nature
+- Rock Slide
+- Ice Fang
+- Thunder Fang
+- Fire Fang
+
+
+CSCG-WWWW-WW46-NSRY
+Battle 82 vs. Veteran Zenobia [Regigigas-2, Latios-2] & Pokémon Breeder Teppei [Swampert-2, Infernape-3]

@@ -1,0 +1,42 @@
+Lolnub
+Sun v1.2 Singles
+
+Gyarados @ Gyaradosite
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Waterfall
+- Crunch
+- Substitute
+- Dragon Dance
+
+Chansey @ Eviolite
+Ability: Natural Cure
+EVs: 252 Def / 4 SpD / 252 Spe
+Timid Nature
+- Seismic Toss
+- Minimize
+- Soft-Boiled
+- Substitute
+
+Gliscor @ Toxic Orb
+Ability: Poison Heal
+EVs: 212 HP / 4 Atk / 220 Def / 4 SpD / 68 Spe
+Impish Nature
+- Earthquake
+- Toxic
+- Substitute
+- Protect
+
+
+3H9W-WWWW-WWWG-7GLF
+Battle 693 vs. Police Officer Lou [Probopass-4, Garchomp-3, Gigalith-3]
+
+4FSW-WWWW-WWWG-7GMT
+Battle 620 vs. Captain Kiawe [Talonflame-4, Kangaskhan-4, Salazzle-4]
+
+8T2G-WWWW-WWWG-7GM4
+Battle 447 vs. Sightseer Alice [Archeops-3, Haxorus-4, Rampardos-4]
+
+N8SW-WWWW-WWWG-7HN5
+Battle 271 vs. Punk Guy Etta [Gyarados-4, Staraptor-3, Salamence-4]

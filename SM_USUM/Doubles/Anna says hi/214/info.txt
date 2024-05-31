@@ -1,0 +1,132 @@
+A
+Ultra Moon v1.2 Doubles
+
+Porygon2 @ Eviolite
+Ability: Download
+EVs: 252 HP / 252 Def / 4 SpA
+IVs: 0 Spe
+Relaxed Nature
+- Ice Beam
+- Thunderbolt
+- Ally Switch
+- Trick Room
+
+Incineroar @ Incinium Z
+Ability: Intimidate
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 30 SpA / 0 Spe
+Brave Nature
+- Low Kick
+- Flare Blitz
+- Fake Out
+- Darkest Lariat
+
+Gastrodon @ Assault Vest
+Ability: Storm Drain
+EVs: 184 HP / 92 Def / 220 SpA / 12 SpD
+IVs: 0 Spe
+Quiet Nature
+- Earth Power
+- Scald
+- Ice Beam
+- Clear Smog
+
+Vikavolt @ Life Orb
+Ability: Levitate
+EVs: 244 HP / 252 SpA / 12 SpD
+IVs: 0 Spe
+Quiet Nature
+- Thunderbolt
+- Protect
+- Volt Switch
+- Bug Buzz
+
+
+7RWG-WWWW-WWX4-XW7N
+Battle 215 (Loss) vs. Bellhop Gilroy [Medicham-4, Lickilicky-3, Beartic-3, Gardevoir-3]
+
+Mawile @ Mawilite
+Ability: Intimidate
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 0 Spe
+Brave Nature
+- Protect
+- Knock Off
+- Play Rough
+- Iron Head
+
+Aromatisse @ Lum Berry
+Ability: Aroma Veil
+EVs: 252 HP / 180 Def / 76 SpD
+IVs: 0 Spe
+Sassy Nature
+- Helping Hand
+- Dazzling Gleam
+- Trick Room
+- Protect
+
+Tyrantrum @ Power Weight
+Ability: Rock Head
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 0 Spe
+Brave Nature
+- Protect
+- Superpower
+- Rock Slide
+- Dragon Claw
+
+Gyarados @ Power Belt
+Ability: Intimidate
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 0 Spe
+Brave Nature
+- Protect
+- Leer
+- Flamethrower
+- Waterfall
+
+NLQG-WWWW-WWX3-KQ57
+Battle 177 vs. Pokémon Breeder Izel [Drampa-3, Gastrodon-4, Golisopod-4, Rhyperior-3]
+
+Dusclops @ Eviolite
+Ability: Frisk
+EVs: 252 HP / 100 Def / 156 SpD
+IVs: 0 Spe
+Relaxed Nature
+- Trick Room
+- Night Shade
+- Ally Switch
+- Brick Break
+
+Abomasnow @ Abomasite
+Ability: Snow Warning
+EVs: 252 HP / 4 Atk / 252 SpA
+IVs: 1 Spe
+Quiet Nature
+- Protect
+- Wood Hammer
+- Blizzard
+- Earthquake
+
+Gyarados @ Power Belt
+Ability: Intimidate
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 0 Spe
+Brave Nature
+- Protect
+- Return
+- Flamethrower
+- Waterfall
+
+Sylveon @ Choice Specs
+Ability: Pixilate
+EVs: 252 HP / 4 Def / 252 SpA
+IVs: 0 Spe
+Quiet Nature
+- Psyshock
+- Hyper Voice
+- Swift
+- Shadow Ball
+
+FKHG-WWWW-WWX4-4CQE
+Battle 92 vs. Sightseer Ezra [Porygon-Z-3, Glaceon-4, Latios-2, Volcarona-4]

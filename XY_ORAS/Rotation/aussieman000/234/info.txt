@@ -1,0 +1,43 @@
+Regina
+Y Rotation
+
+Volcarona @ Sitrus Berry
+Ability: Flame Body
+EVs: 248 HP / 68 Def / 28 SpA / 164 Spe
+Modest Nature
+- Substitute
+- Quiver Dance
+- Fiery Dance
+- Bug Buzz
+
+Milotic @ Leftovers
+Ability: Marvel Scale
+EVs: 252 HP / 148 Def / 44 SpD / 64 Spe
+Calm Nature
+- Scald
+- Rest
+- Sleep Talk
+- Haze
+
+Ferrothorn @ Wide Lens
+Ability: Iron Barbs
+EVs: 252 HP / 116 Def / 140 SpD
+IVs: 0 Spe
+Sassy Nature
+- Leech Seed
+- Protect
+- Power Whip
+- Gyro Ball
+
+Gliscor @ Toxic Orb
+Ability: Poison Heal
+EVs: 208 HP / 56 Def / 244 Spe
+Impish Nature
+- Substitute
+- Toxic
+- Protect
+- Earthquake
+
+
+MSUG-WWWW-WWW9-LH22
+Battle 235 vs. Black Belt Tyrell [Volcarona-4, Delphox-4, Emboar-4, Probopass-4]

@@ -1,0 +1,44 @@
+Jose
+X Doubles
+
+Politoed @ Choice Scarf
+Ability: Drizzle
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 30 HP / 10 Atk / 31 Def / 30 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Scald
+- Ice Beam
+- Hidden Power
+- Psychic
+
+Ludicolo @ Life Orb
+Ability: Swift Swim
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Giga Drain
+- Ice Beam
+- Scald
+- Protect
+
+Scizor @ Scizorite
+Ability: Technician
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+- Swords Dance
+- Bullet Punch
+- Bug Bite
+- Superpower
+
+Thundurus-Therian @ Focus Sash
+Ability: Volt Absorb
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 30 Def
+Modest Nature
+- Thunder
+- Hidden Power
+- Grass Knot
+- Protect
+
+
+ZBJG-WWWW-WWW5-K3Z2
+Battle 213 vs. Roller Skater Electra [Skarmory-4, Ampharos-3, Jolteon-3, Charizard-4]

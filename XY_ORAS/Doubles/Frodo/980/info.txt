@@ -1,0 +1,81 @@
+Frodo
+Omega Ruby Doubles
+
+Greninja @ Life Orb
+Ability: Protean
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Scald
+- Ice Beam
+- Dark Pulse
+- Grass Knot
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Fake Out
+- Sucker Punch
+- Low Kick
+- Double-Edge
+
+Talonflame @ Choice Band
+Ability: Gale Wings
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Brave Bird
+- Flare Blitz
+- Aerial Ace
+- U-turn
+
+Conkeldurr @ Assault Vest
+Ability: Iron Fist
+EVs: 108 HP / 252 Atk / 8 Def / 140 SpD
+Adamant Nature
+- Drain Punch
+- Ice Punch
+- Knock Off
+- Mach Punch
+
+
+ADRG-WWWW-WW3K-4S9U
+Battle 981 vs. Hex Maniac Celia [Spiritomb-4, Jynx-4, Trevenant-4, Slowbro-4]
+
+Greninja @ Life Orb
+Ability: Protean
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Scald
+- Ice Beam
+- Dark Pulse
+- Extrasensory
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Fake Out
+- Sucker Punch
+- Low Kick
+- Double-Edge
+
+Talonflame @ Choice Band
+Ability: Gale Wings
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Brave Bird
+- Flare Blitz
+- Aerial Ace
+- U-turn
+
+Conkeldurr @ Assault Vest
+Ability: Iron Fist
+EVs: 108 HP / 252 Atk / 8 Def / 140 SpD
+Adamant Nature
+- Drain Punch
+- Ice Punch
+- Knock Off
+- Mach Punch
+
+BQKG-WWWW-WW3C-CYJK
+Battle 406 vs. Pokémon Ranger Parker [Blastoise-4, Dewgong-4, Kingdra-4, Empoleon-4]

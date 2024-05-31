@@ -1,0 +1,43 @@
+Quaint
+Ultra Sun v1.2 Doubles
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+- Darkest Lariat
+- Flare Blitz
+- Fake Out
+- Low Kick
+
+Gardevoir @ Gardevoirite
+Ability: Trace
+EVs: 100 HP / 104 Def / 144 SpA / 56 SpD / 100 Spe
+IVs: 30 Def
+Modest Nature
+- Psychic
+- Hyper Voice
+- Shadow Ball
+- Protect
+
+Garchomp @ Groundium Z
+Ability: Rough Skin
+EVs: 156 HP / 100 Atk / 252 Spe
+Jolly Nature
+- Dragon Claw
+- Earthquake
+- Poison Jab
+- Protect
+
+Celesteela @ Leftovers
+Ability: Beast Boost
+EVs: 4 HP / 252 Def / 252 SpD
+Sassy Nature
+- Heavy Slam
+- Leech Seed
+- Wide Guard
+- Protect
+
+
+H6LG-WWWW-WWXW-M3AZ
+Battle 169 (Loss) vs. Ace Trainer Levi [Charizard-3, Emboar-3, Volcarona-4, Exeggutor-2]

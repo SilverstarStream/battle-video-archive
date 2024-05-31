@@ -1,0 +1,65 @@
+Someone
+Sun v1.1 Singles
+
+Gyarados @ Gyaradosite
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Waterfall
+- Crunch
+- Earthquake
+- Dragon Dance
+
+Garchomp @ Dragonium Z
+Ability: Rough Skin
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Outrage
+- Earthquake
+- Swords Dance
+- Substitute
+
+Aegislash @ Leftovers
+Ability: Stance Change
+EVs: 252 HP / 4 Atk / 252 SpA
+IVs: 20 Spe
+Quiet Nature
+- Shadow Ball
+- Flash Cannon
+- Shadow Sneak
+- King's Shield
+
+
+NX5W-WWWW-WWW6-P5W6
+Battle 137 (Loss) vs. Punk Guy Etta [Mawile-3, Rotom-Fan-3, Tauros-3]
+
+Gyarados @ Gyaradosite
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Waterfall
+- Crunch
+- Earthquake
+- Dragon Dance
+
+Aegislash @ Leftovers
+Ability: Stance Change
+EVs: 252 HP / 4 Atk / 252 SpA
+IVs: 20 Spe
+Quiet Nature
+- Shadow Ball
+- Flash Cannon
+- Shadow Sneak
+- King's Shield
+
+Garchomp @ Dragonium Z
+Ability: Rough Skin
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Outrage
+- Earthquake
+- Swords Dance
+- Substitute
+
+C64W-WWWW-WWW6-P5W9
+Battle 94 (Loss) vs. Backpacker Gwenny [Articuno-2, Regigigas-1, Mesprit-2]

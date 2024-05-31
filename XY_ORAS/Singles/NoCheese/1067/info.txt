@@ -1,0 +1,45 @@
+C-Coal
+Alpha Sapphire Singles
+
+Dragonite @ Lum Berry
+Ability: Multiscale
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Outrage
+- Earthquake
+- Fire Punch
+- Dragon Dance
+
+Slowbro @ Slowbronite
+Ability: Regenerator
+EVs: 244 HP / 252 Def / 4 SpA / 4 SpD / 4 Spe
+Bold Nature
+- Scald
+- Iron Defense
+- Calm Mind
+- Rest
+
+Chansey @ Eviolite
+Ability: Natural Cure
+EVs: 4 HP / 244 Def / 4 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Seismic Toss
+- Substitute
+- Minimize
+- Soft-Boiled
+
+
+BSLW-WWWW-WW3W-T59M
+Battle 1068 vs. Maid Clara [Hydreigon-4, Lucario-4, Ninetales-4]
+
+4WXG-WWWW-WW2V-H63S
+Battle 1050 vs. Psychic Haskell [Gengar-4, Espeon-4, Froslass-4]
+
+JX7G-WWWW-WW2V-H64V
+Battle 928 vs. Veteran Eleanor [Latios-4, Suicune-4, Zapdos-3]
+
+Q8VW-WWWW-WW2V-H7DQ
+Battle 383 vs. Tourist Incheon [Druddigon-4, Serperior-4, Raichu-4]
+
+QWGW-WWWW-WW2V-H7EZ
+Battle 365 vs. Ace Trainer Claus [Donphan-4, Volcarona-4, Porygon2-4]

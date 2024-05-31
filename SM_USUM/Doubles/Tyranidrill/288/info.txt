@@ -1,0 +1,42 @@
+Daniel
+Ultra Sun v1.2 Doubles
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Hurricane
+- Scald
+- Tailwind
+- Protect
+
+Tapu Koko @ Choice Specs
+Ability: Electric Surge
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Volt Switch
+- Thunder
+- Grass Knot
+- Dazzling Gleam
+
+Kommo-o @ Kommonium Z
+Ability: Bulletproof
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Flamethrower
+- Clanging Scales
+- Close Combat
+- Protect
+
+Swampert @ Swampertite
+Ability: Torrent
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Earthquake
+- Waterfall
+- Ice Punch
+- Protect
+
+
+5NPG-WWWW-WWXW-JTGE
+Battle 289 (Loss) vs. Punk Guy Dustin [Arcanine-3, Rotom-Fan-3, Staraptor-4, Gyarados-3]

@@ -1,0 +1,34 @@
+Chris
+Alpha Sapphire Singles
+
+Greninja @ Life Orb
+Ability: Protean
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Surf
+- Ice Beam
+- Grass Knot
+- Extrasensory
+
+Ferrothorn @ Leftovers
+Ability: Iron Barbs
+EVs: 252 HP / 4 Def / 252 SpD
+IVs: 0 Spe
+Sassy Nature
+- Gyro Ball
+- Curse
+- Leech Seed
+- Substitute
+
+Dragonite @ Lum Berry
+Ability: Multiscale
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Outrage
+- Earthquake
+- Fire Punch
+- Dragon Dance
+
+
+5DFG-WWWW-WW3D-WDWR
+Battle 381 vs. Hex Maniac Anastasia [Gothitelle-4, Jynx-4, Reuniclus-3]

@@ -1,0 +1,50 @@
+Davide
+Sun v1.2 Multi (with Human partner)
+
+Raichu @ Focus Sash
+Ability: Lightning Rod
+EVs: 252 SpA / 4 SpD / 252 Spe
+IVs: 30 Def
+Hasty Nature
+- Thunderbolt
+- Fake Out
+- Hidden Power
+- Protect
+
+Aegislash @ Leftovers
+Ability: Stance Change
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 24 Spe
+Brave Nature
+- Iron Head
+- Shadow Sneak
+- Swords Dance
+- King's Shield
+
+Deynon
+Moon v1.2
+
+Golisopod @ Assault Vest
+Ability: Emergency Exit
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+- First Impression
+- Aqua Jet
+- Leech Life
+- Liquidation
+
+Throh @ Chesto Berry
+Ability: Inner Focus
+EVs: 240 HP / 132 Def / 136 SpD
+Careful Nature
+- Storm Throw
+- Rest
+- Knock Off
+- Bulk Up
+
+
+FZWG-WWWW-WWW7-Q5PC
+Battle 81 (Loss) vs. Veteran Placido [Landorus-1, Moltres-1] & Veteran Dooley [Dragonite-3, Mawile-4]
+
+VR5W-WWWW-WWW7-Q5PA
+Battle 70 vs. Pokémon Trainer Wally [Magnezone-3, Altaria-3] & Pokémon Trainer Grimsley [Tyranitar-3, Absol-3]

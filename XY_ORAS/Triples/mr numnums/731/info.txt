@@ -1,0 +1,66 @@
+Chichin
+Alpha Sapphire Triples
+
+Dusclops @ Eviolite
+Ability: Frisk
+EVs: 252 HP / 124 Def / 132 SpD
+IVs: 0 Spe
+Sassy Nature
+- Trick Room
+- Will-O-Wisp
+- Pain Split
+- Night Shade
+
+Abomasnow @ Abomasite
+Ability: Snow Warning
+EVs: 252 HP / 4 Atk / 252 SpA
+IVs: 31 HP / 9 Atk / 6 Def / 31 SpA / 27 SpD / 0 Spe
+Quiet Nature
+- Blizzard
+- Giga Drain
+- Earthquake
+- Protect
+
+Marowak @ Thick Club
+Ability: Lightning Rod
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 23 HP / 29 Atk / 15 Def / 23 SpA / 18 SpD / 10 Spe
+Brave Nature
+- Bonemerang
+- Iron Head
+- Rock Slide
+- Protect
+
+Clawitzer @ Assault Vest
+Ability: Mega Launcher
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 7 Spe
+Modest Nature
+- Water Pulse
+- Dark Pulse
+- Aura Sphere
+- Ice Beam
+
+Reuniclus @ Life Orb
+Ability: Magic Guard
+EVs: 192 HP / 64 Def / 252 SpA
+IVs: 0 Spe
+Quiet Nature
+- Psyshock
+- Energy Ball
+- Shadow Ball
+- Trick Room
+
+Talonflame @ Sharp Beak
+Ability: Gale Wings
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 7 HP / 31 Atk / 8 Def / 1 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Brave Bird
+- Flare Blitz
+- Taunt
+- Protect
+
+
+7Z7W-WWWW-WW53-58G5
+Battle 732 vs. Ace Trainer Nikita [Vaporeon-4, Whiscash-4, Swampert-4, Absol-4, Crobat-4, Bouffalant-4]

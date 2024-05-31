@@ -1,0 +1,43 @@
+Wanderer
+Moon v1.2 Doubles
+
+Tapu Koko @ Choice Specs
+Ability: Electric Surge
+EVs: 252 SpA / 4 SpD / 252 Spe
+IVs: 30 Atk / 30 Def
+Timid Nature
+- Thunderbolt
+- Dazzling Gleam
+- Volt Switch
+- Grass Knot
+
+Metagross @ Metagrossite
+Ability: Clear Body
+EVs: 28 HP / 220 Atk / 4 Def / 4 SpD / 252 Spe
+Jolly Nature
+- Iron Head
+- Ice Punch
+- Stomping Tantrum
+- Protect
+
+Rotom-Wash @ Sitrus Berry
+Ability: Levitate
+EVs: 252 HP / 4 Def / 20 SpA / 180 SpD / 52 Spe
+Calm Nature
+- Hydro Pump
+- Thunderbolt
+- Electroweb
+- Ally Switch
+
+Landorus-Therian @ Groundium Z
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Earthquake
+- U-turn
+- Rock Slide
+- Protect
+
+
+V67G-WWWW-WWXF-DW5M
+Battle 294 (Loss) vs. Golfer Patrick [Tentacruel-3, Charizard-3, Volcarona-4, Typhlosion-3]

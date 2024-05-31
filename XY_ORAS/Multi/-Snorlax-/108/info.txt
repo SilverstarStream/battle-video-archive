@@ -1,0 +1,50 @@
+DAVIDE
+Alpha Sapphire Multi (with AI partner)
+
+Weavile @ Focus Sash
+Ability: Pressure
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Knock Off
+- Ice Punch
+- Fake Out
+- Protect
+
+Gyarados @ Gyaradosite
+Ability: Intimidate
+EVs: 88 HP / 248 Atk / 4 Def / 168 Spe
+Jolly Nature
+- Waterfall
+- Crunch
+- Ice Fang
+- Dragon Dance
+
+Pokémon Trainer Steven
+
+Metagross @ Metagrossite
+Ability: Clear Body
+EVs: 252 Atk / 252 Def
+Adamant Nature
+- Meteor Mash
+- Bullet Punch
+- Zen Headbutt
+- Hammer Arm
+
+Aerodactyl @ Focus Sash
+Ability: Rock Head
+EVs: 252 Atk / 252 Spe
+Jolly Nature
+- Rock Slide
+- Ice Fang
+- Thunder Fang
+- Fire Fang
+
+
+BGSG-WWWW-WW4U-XHD7
+Battle 109 vs. Veteran Howell [Heatran-2, Regice-1] & Chef Caesar [Carracosta-4, Whiscash-4]
+
+EG3W-WWWW-WW4U-XHBV
+Battle 108 vs. Scientist Rosalind [Venusaur-4, Bastiodon-4] & Roller Skater Aurora [Electrode-3, Aerodactyl-3]
+
+EQYW-WWWW-WW4U-XLWV
+Battle 56 vs. Ace Trainer Colin [Kingdra-4, Leafeon-4] & Ace Trainer Sigurd [Skarmory-4, Toxicroak-4]

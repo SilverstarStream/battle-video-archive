@@ -1,0 +1,45 @@
+Silvernickel
+Moon v1.1 Multi (with Human partner)
+
+Tapu Fini @ Choice Scarf
+Ability: Misty Surge
+EVs: 24 HP / 4 Def / 252 SpA / 228 Spe
+Modest Nature
+- Scald
+- Ice Beam
+- Moonblast
+- Grass Knot
+
+Kartana @ Focus Sash
+Ability: Beast Boost
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Leaf Blade
+- Smart Strike
+- Sacred Sword
+- Protect
+
+Danny
+Sun v1.1
+
+Mimikyu @ Wide Lens
+Ability: Disguise
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Shadow Sneak
+- Play Rough
+- Leech Life
+- Swords Dance
+
+Xurkitree @ Electrium Z
+Ability: Beast Boost
+EVs: 252 SpA / 4 SpD / 252 Spe
+Modest Nature
+- Thunderbolt
+- Dazzling Gleam
+- Hidden Power
+- Energy Ball
+
+
+8EAG-WWWW-WWW6-LZZT
+Battle 68 vs. Gentleman Abel [Registeel-1, Raikou-3] & Madame Donny [Cresselia-4, Uxie-2]

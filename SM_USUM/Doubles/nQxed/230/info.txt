@@ -1,0 +1,44 @@
+13jIIxYz0nE
+Ultra Moon v1.2 Doubles
+
+Pheromosa @ Fightinium Z
+Ability: Beast Boost
+EVs: 4 Def / 252 SpA / 252 Spe
+Modest Nature
+- Ice Beam
+- Focus Blast
+- Bug Buzz
+- Protect
+
+Tapu Lele @ Choice Scarf
+Ability: Psychic Surge
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+- Thunderbolt
+- Grass Knot
+- Psychic
+- Moonblast
+
+Celesteela @ Leftovers
+Ability: Beast Boost
+EVs: 248 HP / 28 Def / 232 SpD
+IVs: 0 Spe
+Sassy Nature
+- Heavy Slam
+- Protect
+- Leech Seed
+- Flamethrower
+
+Chansey @ Eviolite
+Ability: Natural Cure
+EVs: 244 HP / 252 Def / 12 SpD
+IVs: 0 Spe
+Relaxed Nature
+- Protect
+- Soft-Boiled
+- Toxic
+- Seismic Toss
+
+
+TRJW-WWWW-WWXE-KLP8
+Battle 231 (Loss) vs. Worker Dan [Vikavolt-3, Eelektross-3, Conkeldurr-3, Carracosta-4]

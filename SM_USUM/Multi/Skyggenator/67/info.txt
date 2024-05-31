@@ -1,0 +1,46 @@
+BillyBoy
+Ultra Sun v1.2 Multi (with AI partner)
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 4 HP / 252 Atk / 252 Spe
+IVs: 25 HP / 31 Atk / 30 Def / 20 SpA / 26 SpD / 30 Spe
+Jolly Nature
+- Low Kick
+- Fake Out
+- Sucker Punch
+- Return
+
+Tapu Lele @ Choice Scarf
+Ability: Psychic Surge
+EVs: 4 Def / 252 SpA / 252 Spe
+IVs: 0 Def
+Timid Nature
+- Psyshock
+- Psychic
+- Shadow Ball
+- Moonblast
+
+Pokémon Trainer Wally
+
+Gallade-4 @ Galladite
+Ability: Steadfast
+EVs: 252 Atk / 252 Spe
+Jolly Nature
+- Psycho Cut
+- Close Combat
+- Rock Slide
+- Destiny Bond
+
+Magnezone-4 @ Assault Vest
+Ability: Sturdy
+EVs: 252 HP / 252 SpA
+Modest Nature
+- Thunderbolt
+- Flash Cannon
+- Tri Attack
+- Volt Switch
+
+
+EU4W-WWWW-WWWJ-4ATR
+Battle 68 (Loss) vs. Veteran Dooley [Tornadus-4, Latios-4] & Rising Star Marianne [Venusaur-3, Moltres-2]

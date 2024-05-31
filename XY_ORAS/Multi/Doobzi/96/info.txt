@@ -1,0 +1,44 @@
+Doobzi
+Omega Ruby Multi (with AI partner)
+
+Greninja @ Focus Sash
+Ability: Protean
+EVs: 4 Atk / 252 SpA / 252 Spe
+Naive Nature
+- Ice Beam
+- Mat Block
+- Dark Pulse
+- Grass Knot
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature
+- Fake Out
+- Double-Edge
+- Sucker Punch
+- Drain Punch
+
+Pokémon Trainer Steven
+
+Aerodactyl @ Focus Sash
+Ability: Rock Head
+EVs: 252 Atk / 252 Spe
+Jolly Nature
+- Rock Slide
+- Ice Fang
+- Thunder Fang
+- Fire Fang
+
+Metagross @ Metagrossite
+Ability: Clear Body
+EVs: 252 Atk / 252 Def
+Adamant Nature
+- Meteor Mash
+- Bullet Punch
+- Zen Headbutt
+- Hammer Arm
+
+
+SYSW-WWWW-WW56-7NMH
+Battle 97 vs. Hiker Rand [Carracosta-4, Sawk-4] & Punk Guy Quinton [Roserade-4, Charizard-4]

@@ -1,0 +1,45 @@
+Dave
+Y Multi (with AI partner)
+
+Garchomp @ Choice Band
+Ability: Sand Veil
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Dragon Claw
+- Earthquake
+- Rock Slide
+- Shadow Claw
+
+Scizor @ Scizorite
+Ability: Technician
+EVs: 252 HP / 252 Atk / 4 Spe
+IVs: 27 Def / 28 SpD
+Adamant Nature
+- Swords Dance
+- Superpower
+- Bullet Punch
+- Bug Bite
+
+Friends List AI Partner
+
+Staraptor-3 @ Choice Band
+Ability: Intimidate
+EVs: 252 Atk / 252 Spe
+Mild Nature
+- Close Combat
+- Brave Bird
+- U-turn
+- Giga Impact
+
+Cryogonal-3 @ Occa Berry
+Ability: Levitate
+EVs: 252 SpA / 252 Spe
+Timid Nature
+- Icy Wind
+- Flash Cannon
+- Blizzard
+- Sheer Cold
+
+
+E39G-WWWW-WWW9-5ENL
+Battle 73 vs. Veteran Sibyl [Cobalion-1, Terrakion-2] & Monsieur Kirill [Dragonite-4, Machamp-4]

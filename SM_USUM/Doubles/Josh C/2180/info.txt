@@ -1,0 +1,42 @@
+Jeishmina94
+Sun v1.2 Doubles
+
+Tapu Lele @ Choice Scarf
+Ability: Psychic Surge
+EVs: 12 HP / 4 Def / 252 SpA / 4 SpD / 236 Spe
+Modest Nature
+- Psychic
+- Moonblast
+- Dazzling Gleam
+- Energy Ball
+
+Sharpedo @ Sharpedonite
+Ability: Speed Boost
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature
+- Protect
+- Psychic Fangs
+- Crunch
+- Waterfall
+
+Garchomp @ Groundium Z
+Ability: Rough Skin
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Earthquake
+- Dragon Claw
+- Poison Jab
+- Protect
+
+Arcanine @ Sitrus Berry
+Ability: Intimidate
+EVs: 228 HP / 156 Def / 36 SpA / 20 SpD / 68 Spe
+Modest Nature
+- Burn Up
+- Helping Hand
+- Protect
+- Toxic
+
+
+YECW-WWWW-WWW7-TEJR
+Battle 2181 (Loss) vs. Preschooler Victor [Goodra-3, Salamence-3, Uxie-3, Garchomp-3]

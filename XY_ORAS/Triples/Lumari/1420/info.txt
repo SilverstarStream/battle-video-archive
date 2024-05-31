@@ -1,0 +1,60 @@
+Luana
+Omega Ruby Triples
+
+Greninja @ Focus Sash
+Ability: Protean
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+- Ice Beam
+- Grass Knot
+- Dark Pulse
+- Mat Block
+
+Manectric @ Manectite
+Ability: Lightning Rod
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Thunderbolt
+- Flamethrower
+- Volt Switch
+- Protect
+
+Talonflame @ Sharp Beak
+Ability: Gale Wings
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+- Brave Bird
+- Taunt
+- Tailwind
+- Protect
+
+Azumarill @ Wide Lens
+Ability: Huge Power
+EVs: 236 HP / 252 Atk / 4 Def / 12 SpD / 4 Spe
+Adamant Nature
+- Waterfall
+- Play Rough
+- Aqua Jet
+- Protect
+
+Blaziken @ Expert Belt
+Ability: Speed Boost
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature
+- Flare Blitz
+- Low Kick
+- Rock Slide
+- Protect
+
+Hydreigon @ Life Orb
+Ability: Levitate
+EVs: 252 SpA / 4 SpD / 252 Spe
+Modest Nature
+- Dragon Pulse
+- Dark Pulse
+- Earth Power
+- Protect
+
+
+Z2KG-WWWW-WWXS-XNMF
+Battle 1421 vs. Veteran Howell [Entei-1, Latias-2, Zapdos-2, Thundurus-2, Terrakion-2, Articuno-1]

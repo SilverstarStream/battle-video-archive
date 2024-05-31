@@ -1,0 +1,45 @@
+AZ-UK
+X Multi (with AI partner)
+
+Garchomp @ Assault Vest
+Ability: Rough Skin
+EVs: 8 HP / 252 Atk / 248 Spe
+Adamant Nature
+- Poison Jab
+- Earthquake
+- Rock Slide
+- Dragon Claw
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 27 HP / 28 Def
+Adamant Nature
+- Return
+- Crunch
+- Power-Up Punch
+- Fake Out
+
+Friends List AI Partner
+
+Staraptor-3 @ Choice Band
+Ability: Intimidate
+EVs: 252 Atk / 252 Spe
+Mild Nature
+- Close Combat
+- Brave Bird
+- U-turn
+- Giga Impact
+
+Scizor-3 @ Life Orb
+Ability: Technician
+EVs: 252 HP / 252 Atk
+Brave Nature
+- Swords Dance
+- Bullet Punch
+- Reversal
+- U-turn
+
+
+ARXG-WWWW-WWW9-H7EF
+Battle 50 vs. Battle Chatelaine Nita [Thundurus-3, Tornadus-2] & Battle Chatelaine Morgan [Cobalion-2, Virizion-3]

@@ -1,0 +1,33 @@
+C-Coal
+Y Singles
+
+Durant @ Choice Scarf
+Ability: Truant
+EVs: 252 HP / 4 SpD / 252 Spe
+Jolly Nature
+- Entrainment
+- X-Scissor
+- Iron Head
+- Protect
+
+Cloyster @ Focus Sash
+Ability: Skill Link
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Protect
+- Shell Smash
+- Icicle Spear
+- Rock Blast
+
+Garchomp @ Lum Berry
+Ability: Rough Skin
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Protect
+- Swords Dance
+- Outrage
+- Earthquake
+
+
+TE5W-WWWW-WWW7-ZC7M
+Battle 612 vs. Tourist Geneva [Mismagius-4, Flareon-4, Scizor-4]

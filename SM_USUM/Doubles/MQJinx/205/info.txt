@@ -1,0 +1,42 @@
+Kumiko
+Ultra Sun v1.2 Doubles
+
+Zapdos @ Psychic Seed
+Ability: Pressure
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Tailwind
+- Thunderbolt
+- Heat Wave
+- Roost
+
+Tapu Lele @ Psychium Z
+Ability: Psychic Surge
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+- Dazzling Gleam
+- Psychic
+- Protect
+- Moonblast
+
+Metagross @ Metagrossite
+Ability: Clear Body
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Protect
+- Zen Headbutt
+- Iron Head
+- Ice Punch
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+- Low Kick
+- Flare Blitz
+- Fake Out
+- Knock Off
+
+
+3XWG-WWWW-WWWM-NGQX
+Battle 205 vs. Pokémon Breeder Colby [Steelix-3, Slowking-4, Slowbro-3, Escavalier-4]

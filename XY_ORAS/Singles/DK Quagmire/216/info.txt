@@ -1,0 +1,35 @@
+Oliver
+Omega Ruby Singles
+
+Durant @ Choice Scarf
+Ability: Truant
+EVs: 172 HP / 108 Def / 228 Spe
+Jolly Nature
+- Entrainment
+- X-Scissor
+- Protect
+- Aerial Ace
+
+Cloyster @ Focus Sash
+Ability: Skill Link
+EVs: 4 HP / 252 Atk / 252 Spe
+IVs: 30 SpA
+Adamant Nature
+- Shell Smash
+- Icicle Spear
+- Protect
+- Rock Blast
+
+Steelix @ Leftovers
+Ability: Sturdy
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 0 Spe
+Brave Nature
+- Curse
+- Gyro Ball
+- Protect
+- Dragon Tail
+
+
+4MMG-WWWW-WW2E-8PSX
+Battle 217 vs. Veteran Hera [Heatran-1, Suicune-2, Cobalion-2]

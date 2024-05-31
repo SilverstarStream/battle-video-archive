@@ -1,0 +1,50 @@
+Culopesce
+Sun v1.2 Multi (with AI partner)
+
+Tapu Bulu @ Choice Scarf
+Ability: Grassy Surge
+EVs: 252 Atk / 4 Def / 252 Spe
+Adamant Nature
+- Wood Hammer
+- Rock Slide
+- Zen Headbutt
+- Superpower
+
+Salamence @ Salamencite
+Ability: Intimidate
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Protect
+- Substitute
+- Double-Edge
+- Dragon Claw
+
+Pokémon Trainer Anabel
+
+Entei-3 @ Choice Scarf
+Ability: Pressure
+EVs: 252 SpA / 252 Spe
+Timid Nature
+- Eruption
+- Fire Blast
+- Extrasensory
+- Solar Beam
+
+Lucario-3 @ Lucarionite
+Ability: Steadfast
+EVs: 252 Atk / 252 Spe
+Jolly Nature
+- Close Combat
+- Rock Slide
+- Blaze Kick
+- Bullet Punch
+
+
+VAYW-WWWW-WWW9-KCJX
+Battle 84 (Loss) vs. Punk Guy Etta [Manectric-3, Scrafty-3] & Dancer Tasanee [Suicune-1, Lapras-4]
+
+S56G-WWWW-WWW9-KCJS
+Battle 80 vs. Ace Trainer Granville [Alakazam-4, Greninja-4] & Pokémon Trainer Plumeria [Gengar-3, Lurantis-4]
+
+U3TW-WWWW-WWW9-KCJG
+Battle 77 vs. Office Worker Jana [Musharna-4, Snorlax-3] & Scientist Cal [Slowbro-4, Eelektross-4]

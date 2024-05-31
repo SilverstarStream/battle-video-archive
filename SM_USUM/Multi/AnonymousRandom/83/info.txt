@@ -1,0 +1,50 @@
+Someone
+Ultra Sun v1.2 Multi (with AI partner)
+
+Zapdos @ Life Orb
+Ability: Pressure
+EVs: 4 HP / 252 SpA / 252 Spe
+Mild Nature
+- Thunderbolt
+- Discharge
+- Heat Wave
+- Tailwind
+
+Charizard @ Charizardite Y
+Ability: Blaze
+EVs: 4 Def / 252 SpA / 252 Spe
+Modest Nature
+- Flamethrower
+- Solar Beam
+- Dragon Pulse
+- Protect
+
+Pokémon Trainer Cynthia
+
+Garchomp-3 @ Choice Scarf
+Ability: Sand Veil
+EVs: 252 Atk / 252 Spe
+Jolly Nature
+- Outrage
+- Earthquake
+- Fire Fang
+- Crunch
+
+Lucario-3 @ Lucarionite
+Ability: Inner Focus
+EVs: 252 Atk / 252 Spe
+Jolly Nature
+- Close Combat
+- Rock Slide
+- Blaze Kick
+- Bullet Punch
+
+
+T8JG-WWWW-WWWH-BHXV
+Battle 84 (Loss) vs. Firefighter Calder [Hippowdon-3, Palossand-4] & Sightseer Christian [Drampa-4, Alakazam-4]
+
+HY2W-WWWW-WWWH-BH24
+Battle 77 vs. Golfer Patrick [Staraptor-3, Zapdos-2] & Gentleman Mechabob [Terrakion-4, Virizion-2]
+
+RBGW-WWWW-WWWH-BH29
+Battle 50 vs. Battle Legend Red [Snorlax-4, Charizard-4] & Battle Legend Blue [Arcanine-4, Aerodactyl-3]

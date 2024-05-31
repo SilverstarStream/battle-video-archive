@@ -1,0 +1,44 @@
+Cole
+X Multi (with AI partner)
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+- Return
+- Crunch
+- Power-Up Punch
+- Fake Out
+
+Garchomp @ Assault Vest
+Ability: Rough Skin
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Rock Slide
+- Dragon Claw
+- Earthquake
+- Fire Fang
+
+Friends List AI Partner
+
+Mienshao-3 @ Focus Sash
+Ability: Reckless
+EVs: 252 Atk / 252 Spe
+Jolly Nature
+- Low Kick
+- Fake Out
+- High Jump Kick
+- U-turn
+
+Flygon-3 @ White Herb
+Ability: Levitate
+EVs: 252 SpA / 252 Spe
+Timid Nature
+- Draco Meteor
+- Earth Power
+- Flamethrower
+- Giga Drain
+
+
+M8MW-WWWW-WWW6-V2CP
+Battle 82 vs. Chef Niçoise [Talonflame-4, Gogoat-4] & Psychic Uberto [Metagross-4, Starmie-4]

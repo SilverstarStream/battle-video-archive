@@ -1,0 +1,43 @@
+Rikka
+Alpha Sapphire Doubles
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Low Kick
+- Return
+- Sucker Punch
+- Fake Out
+
+Thundurus @ Sitrus Berry
+Ability: Prankster
+EVs: 4 Def / 252 SpA / 252 Spe
+IVs: 30 Def
+Timid Nature
+- Thunderbolt
+- Thunder Wave
+- Hidden Power
+- Taunt
+
+Landorus-Therian @ Choice Scarf
+Ability: Intimidate
+EVs: 252 Atk / 252 Spe
+Adamant Nature
+- Earthquake
+- U-turn
+- Rock Slide
+- Superpower
+
+Sylveon @ Choice Specs
+Ability: Pixilate
+EVs: 164 HP / 76 Def / 252 SpA / 4 SpD / 12 Spe
+Modest Nature
+- Hyper Voice
+- Psyshock
+- Shadow Ball
+- Moonblast
+
+
+659W-WWWW-WW4R-BRDP
+Battle 677 vs. Pokémon Ranger Willow [Whiscash-4, Gourgeist-4, Gliscor-4, Seismitoad-4]

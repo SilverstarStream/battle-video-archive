@@ -1,0 +1,78 @@
+Phil
+Y Singles
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+EVs: 44 HP / 244 Def / 220 Spe
+Timid Nature
+- Taunt
+- Encore
+- Switcheroo
+- Memento
+
+Durant @ Choice Scarf
+Ability: Truant
+EVs: 220 HP / 4 Atk / 108 Def / 84 SpD / 92 Spe
+Jolly Nature
+- Entrainment
+- Protect
+- X-Scissor
+- Aerial Ace
+
+Drapion @ Black Sludge
+Ability: Battle Armor
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+- Substitute
+- Protect
+- Acupressure
+- Knock Off
+
+
+B7PG-WWWW-WW3C-6B3P
+Battle 3251 vs. Punk Guy Deimos [Skuntank-4, Weavile-4, Blaziken-4]
+
+FJEG-WWWW-WW2T-YDVY
+Battle 3000 vs. Artist Wenge [Politoed-4, Tentacruel-4, Porygon2-4]
+
+4JAW-WWWW-WWX4-9GKB
+Battle 2366 vs. Pokémon Ranger Cerese [Meganium-4, Ludicolo-4, Krookodile-4]
+
+SQ6G-WWWW-WWX4-C9CE
+Battle 2313 vs. Hiker Choss [Mienshao-4, Carbink-4, Scrafty-4]
+
+89MW-WWWW-WWWZ-Q78E
+Battle 2015 vs. Pokémon Ranger Cerese [Nidoqueen-4, Torterra-4, Starmie-4]
+
+JA6W-WWWW-WWWZ-Q76J
+Battle 2000 vs. Ace Trainer Jai [Magmortar-1, Hydreigon-2, Alakazam-1]
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+EVs: 44 HP / 244 Def / 220 Spe
+Timid Nature
+- Taunt
+- Encore
+- Switcheroo
+- Memento
+
+Durant @ Choice Scarf
+Ability: Truant
+EVs: 172 HP / 4 Atk / 156 Def / 84 SpD / 92 Spe
+Jolly Nature
+- Entrainment
+- Protect
+- X-Scissor
+- Aerial Ace
+
+Drapion @ Black Sludge
+Ability: Battle Armor
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+- Substitute
+- Protect
+- Acupressure
+- Knock Off
+
+ZWSW-WWWW-WWWK-H744
+Battle 1500 vs. Battle Girl Mae [Flareon-4, Aerodactyl-4, Ninetales-4]

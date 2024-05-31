@@ -1,0 +1,57 @@
+Eppie
+Y Doubles
+
+Dusclops @ Eviolite
+Ability: Frisk
+EVs: 252 HP / 124 Def / 132 SpD
+IVs: 0 Spe
+Relaxed Nature
+- Trick Room
+- Foresight
+- Night Shade
+- Brick Break
+
+Aron @ Berry Juice
+Ability: Sturdy
+Level: 1
+Adamant Nature
+- Endeavor
+- Toxic
+- Swagger
+- Protect
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 0 Spe
+Brave Nature
+- Fake Out
+- Rock Slide
+- Double-Edge
+- Sucker Punch
+
+Conkeldurr @ Assault Vest
+Ability: Iron Fist
+EVs: 108 HP / 252 Atk / 4 Def / 144 SpD
+IVs: 0 Spe
+Brave Nature
+- Drain Punch
+- Knock Off
+- Ice Punch
+- Mach Punch
+
+
+P6TG-WWWW-WWW9-L3XK
+Battle 1749 vs. Madame Sati [Salamence-4, Ursaring-4, Poliwrath-4, Escavalier-4]
+
+WF7W-WWWW-WWW9-LWBV
+Battle 1700 vs. Scientist Jane [Bastiodon-4, Tentacruel-4, Crobat-4, Electrode-4]
+
+29JG-WWWW-WWW9-L32P
+Battle 1456 vs. Scientist Sigmund [Nidoking-4, Victreebel-4, Ampharos-4, Weezing-4]
+
+H7NW-WWWW-WWW9-G659
+Battle 1200 vs. Pokémon Breeder Tad [Feraligatr-2, Emboar-3, Greninja-3, Serperior-1]
+
+RVQG-WWWW-WWW9-F8EE
+Battle 454 vs. Veteran Sibyl [Thundurus-1, Zapdos-2, Latios-2, Regirock-1]

@@ -1,0 +1,36 @@
+Based God
+Y Singles
+
+Sableye @ Focus Sash
+Ability: Prankster
+Level: 1
+Calm Nature
+- Trick
+- Embargo
+- Flash
+- Taunt
+
+Glalie @ Leftovers
+Ability: Moody
+EVs: 172 HP / 88 Def / 72 SpA / 4 SpD / 172 Spe
+Timid Nature
+- Substitute
+- Protect
+- Taunt
+- Frost Breath
+
+Durant @ Choice Scarf
+Ability: Truant
+EVs: 244 HP / 12 Def / 252 Spe
+Jolly Nature
+- Entrainment
+- Rock Slide
+- X-Scissor
+- Iron Head
+
+
+BXTG-WWWW-WWW9-N28V
+Battle 538 vs. Veteran Alfie [Terrakion-3, Entei-3, Tornadus-3]
+
+9JVG-WWWW-WWW9-L7E5
+Battle 502 vs. Ace Trainer Jai [Exeggutor-2, Magnezone-2, Latios-3]

@@ -1,0 +1,34 @@
+DP
+X Singles
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature
+- Return
+- Earthquake
+- Sucker Punch
+- Power-Up Punch
+
+Aegislash @ Leftovers
+Ability: Stance Change
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 14 Spe
+Brave Nature
+- Sacred Sword
+- Shadow Sneak
+- Swords Dance
+- King's Shield
+
+Dragonite @ Lum Berry
+Ability: Multiscale
+EVs: 24 HP / 252 Atk / 232 Spe
+Adamant Nature
+- Dragon Claw
+- Earthquake
+- Extreme Speed
+- Dragon Dance
+
+
+KMQW-WWWW-WWW9-Q95G
+Battle 288 vs. Scientist Candela [Armaldo-4, Victreebel-4, Luxray-4]

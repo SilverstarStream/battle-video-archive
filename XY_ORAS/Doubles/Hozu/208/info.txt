@@ -1,0 +1,42 @@
+Hozu
+X Doubles
+
+Garchomp @ Focus Sash
+Ability: Rough Skin
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Dragon Claw
+- Earthquake
+- Protect
+- Swords Dance
+
+Rotom-Wash @ Assault Vest
+Ability: Levitate
+EVs: 232 HP / 56 SpA / 220 Spe
+Modest Nature
+- Hydro Pump
+- Thunderbolt
+- Discharge
+- Shadow Ball
+
+Togekiss @ Leftovers
+Ability: Serene Grace
+EVs: 244 HP / 252 SpA / 12 Spe
+Modest Nature
+- Air Slash
+- Aura Sphere
+- Protect
+- Roost
+
+Scizor @ Scizorite
+Ability: Technician
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+- Bullet Punch
+- X-Scissor
+- Protect
+- Swords Dance
+
+
+4MFW-WWWW-WWW3-G9Y4
+Battle 209 vs. Tourist Hartsfield [Lickilicky-4, Electivire-4, Escavalier-4, Arcanine-4]

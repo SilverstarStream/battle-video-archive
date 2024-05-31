@@ -1,0 +1,60 @@
+Hawke
+Sun v1.1 Doubles
+
+Porygon2 @ Eviolite
+Ability: Download
+EVs: 252 HP / 156 Def / 100 SpD
+IVs: 5 Spe
+Relaxed Nature
+- Ice Beam
+- Return
+- Recover
+- Trick Room
+
+Aron @ Berry Juice
+Ability: Sturdy
+Level: 1
+Bold Nature
+- Endeavor
+- Protect
+- Toxic
+- Iron Head
+
+Sylveon @ Choice Specs
+Ability: Pixilate
+EVs: 252 HP / 4 Def / 252 SpA
+IVs: 0 Spe
+Quiet Nature
+- Hyper Voice
+- Psyshock
+- Shadow Ball
+- Swift
+
+Scrafty @ Fightinium Z
+Ability: Intimidate
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 0 Spe
+Brave Nature
+- Fake Out
+- High Jump Kick
+- Knock Off
+- Detect
+
+
+K8RW-WWWW-WWW5-AENH
+Battle 438 (Loss) vs. Bellhop Donna [Lopunny-3, Ambipom-3, Scizor-4, Hariyama-3]
+
+WGTG-WWWW-WWW5-5F8B
+Battle 223 vs. Aether Foundation Harvey [Walrein-4, Klinklang-4, Glalie-4, Slaking-4]
+
+L3PG-WWWW-WWW5-5F8H
+Battle 162 vs. Madame Donny [Cresselia-3, Latios-1, Kommo-o-4, Articuno-4]
+
+KUFW-WWWW-WWW5-5F8L
+Battle 156 vs. Ace Trainer Bette [Chandelure-4, Nidoking-4, Infernape-3, Drapion-3]
+
+VQBG-WWWW-WWW5-5F8S
+Battle 90 vs. Pokémon Trainer Anabel [Alakazam-3, Entei-1, Raikou-2, Snorlax-4]
+
+4PVG-WWWW-WWW5-3TGQ
+Battle 44 vs. Dancer Carrie [Scizor-4, Vespiquen-4, Drampa-4, Houndoom-4]

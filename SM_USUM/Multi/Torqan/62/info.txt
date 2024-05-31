@@ -1,0 +1,44 @@
+Torqan
+Moon v1.1 Multi (with AI partner)
+
+Thundurus-Therian @ Life Orb
+Ability: Volt Absorb
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Flash Cannon
+- Thunderbolt
+- Dark Pulse
+- Sludge Bomb
+
+Gyarados @ Gyaradosite
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Ice Fang
+- Waterfall
+- Crunch
+- Dragon Dance
+
+Pokémon Trainer Wally
+
+Garchomp-3 @ Choice Scarf
+Ability: Sand Veil
+EVs: 252 Atk / 252 Spe
+Jolly Nature
+- Outrage
+- Earthquake
+- Fire Fang
+- Crunch
+
+Gallade-4 @ Galladite
+Ability: Steadfast
+EVs: 252 Atk / 252 Spe
+Jolly Nature
+- Psycho Cut
+- Close Combat
+- Rock Slide
+- Destiny Bond
+
+
+3PNW-WWWW-WWW6-SRFF
+Battle 63 (Loss) vs. Black Belt Arnold [Mienshao-4, Beedrill-4] & Ace Trainer Tamah [Garchomp-3, Togekiss-4]

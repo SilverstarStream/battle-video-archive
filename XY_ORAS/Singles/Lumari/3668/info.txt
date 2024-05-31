@@ -1,0 +1,43 @@
+Luana
+Omega Ruby Singles
+
+Gyarados @ Gyaradosite
+Ability: Intimidate
+EVs: 84 HP / 212 Atk / 36 Def / 4 SpD / 172 Spe
+Adamant Nature
+- Waterfall
+- Crunch
+- Substitute
+- Dragon Dance
+
+Aegislash @ Leftovers
+Ability: Stance Change
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 29 Spe
+Brave Nature
+- Swords Dance
+- Shadow Sneak
+- King's Shield
+- Iron Head
+
+Gliscor @ Toxic Orb
+Ability: Poison Heal
+EVs: 212 HP / 4 Atk / 36 Def / 252 SpD / 4 Spe
+Careful Nature
+- Earthquake
+- Toxic
+- Protect
+- Substitute
+
+
+CHUW-WWWW-WW3N-498R
+Battle 3669 vs. Roller Skater Raoul [Noivern-3, Yanmega-4, Crobat-3]
+
+UHNG-WWWW-WW3C-U26R
+Battle 3540 vs. Waitress Ilisha [Gallade-4, Tangrowth-4, Hippowdon-4]
+
+S7JW-WWWW-WW3A-NMAU
+Battle 2717 vs. Pokémon Breeder Teppei [Greninja-3, Feraligatr-2, Samurott-3]
+
+KTEG-WWWW-WW2R-WEVS
+Battle 885 vs. Chef Caesar [Politoed-4, Swampert-4, Froslass-4]

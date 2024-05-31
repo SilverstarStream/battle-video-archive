@@ -1,0 +1,61 @@
+C-Coal
+Y Triples
+
+Greninja @ Focus Sash
+Ability: Protean
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 22 SpD
+Timid Nature
+- Mat Block
+- Dark Pulse
+- Ice Beam
+- Grass Knot
+
+Blastoise @ Blastoisinite
+Ability: Torrent
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Water Spout
+- Aura Sphere
+- Ice Beam
+- Protect
+
+Talonflame @ Sharp Beak
+Ability: Gale Wings
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+- Tailwind
+- Brave Bird
+- Flare Blitz
+- Protect
+
+Sylveon @ Choice Specs
+Ability: Pixilate
+EVs: 12 HP / 252 SpA / 244 Spe
+Modest Nature
+- Hyper Voice
+- Psyshock
+- Shadow Ball
+- Baton Pass
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Dragon Claw
+- Earthquake
+- Swords Dance
+- Protect
+
+Mienshao @ Air Balloon
+Ability: Regenerator
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Fake Out
+- Low Kick
+- Knock Off
+- Wide Guard
+
+
+SVWW-WWWW-WWWA-ANGQ
+Battle 1111 vs. Chef Carlos [Greninja-4, Aurorus-4, Swampert-4, Feraligatr-4, Cryogonal-4, Starmie-4]

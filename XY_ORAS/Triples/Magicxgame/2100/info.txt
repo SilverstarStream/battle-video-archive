@@ -1,0 +1,177 @@
+James
+Alpha Sapphire Triples
+
+Greninja @ Focus Sash
+Ability: Protean
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Mat Block
+- Dark Pulse
+- Ice Beam
+- Grass Knot
+
+Blastoise @ Blastoisinite
+Ability: Rain Dish
+EVs: 20 HP / 236 SpA / 252 Spe
+Modest Nature
+- Water Spout
+- Aura Sphere
+- Ice Beam
+- Protect
+
+Talonflame @ Sharp Beak
+Ability: Gale Wings
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+- Brave Bird
+- Taunt
+- Tailwind
+- Protect
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Earthquake
+- Dragon Claw
+- Swords Dance
+- Protect
+
+Scizor @ Choice Band
+Ability: Technician
+EVs: 236 HP / 164 Atk / 4 Def / 52 SpD / 52 Spe
+Adamant Nature
+- Bullet Punch
+- U-turn
+- Superpower
+- Knock Off
+
+Rotom-Wash @ Choice Specs
+Ability: Levitate
+EVs: 228 HP / 208 SpA / 4 SpD / 68 Spe
+IVs: 31 HP / 30 Atk / 30 Def / 30 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Thunderbolt
+- Hidden Power
+- Dark Pulse
+- Trick
+
+
+6M9G-WWWW-WW3Z-62XA
+Battle 2100 vs. Veteran Jake [Thundurus-2, Cresselia-2, Latias-2, Raikou-1, Registeel-2, Landorus-2]
+
+Greninja @ Focus Sash
+Ability: Protean
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Mat Block
+- Dark Pulse
+- Ice Beam
+- Grass Knot
+
+Blastoise @ Blastoisinite
+Ability: Rain Dish
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Water Spout
+- Aura Sphere
+- Ice Beam
+- Protect
+
+Talonflame @ Sharp Beak
+Ability: Gale Wings
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+- Brave Bird
+- Taunt
+- Tailwind
+- Protect
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Earthquake
+- Dragon Claw
+- Swords Dance
+- Protect
+
+Scizor @ Choice Band
+Ability: Technician
+EVs: 236 HP / 164 Atk / 4 Def / 52 SpD / 52 Spe
+Adamant Nature
+- Bullet Punch
+- U-turn
+- Superpower
+- Knock Off
+
+Rotom-Wash @ Choice Specs
+Ability: Levitate
+EVs: 176 HP / 16 Def / 200 SpA / 116 Spe
+IVs: 30 HP / 0 Atk / 30 Def / 30 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Thunderbolt
+- Hidden Power
+- Volt Switch
+- Trick
+
+P4YG-WWWW-WW3Y-J53K
+Battle 2043 vs. Chef Cobb [Jynx-4, Whiscash-3, Slowbro-4, Abomasnow-2, Froslass-3, Beartic-2]
+
+Greninja @ Focus Sash
+Ability: Protean
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Mat Block
+- Dark Pulse
+- Ice Beam
+- Grass Knot
+
+Blastoise @ Blastoisinite
+Ability: Rain Dish
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Water Spout
+- Aura Sphere
+- Ice Beam
+- Protect
+
+Talonflame @ Sharp Beak
+Ability: Gale Wings
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+- Brave Bird
+- Taunt
+- Tailwind
+- Protect
+
+Landorus-Therian @ Life Orb
+Ability: Intimidate
+EVs: 68 HP / 244 Atk / 4 Def / 20 SpD / 172 Spe
+Adamant Nature
+- Earthquake
+- Knock Off
+- Superpower
+- Protect
+
+Scizor @ Choice Band
+Ability: Technician
+EVs: 236 HP / 164 Atk / 4 Def / 52 SpD / 52 Spe
+Adamant Nature
+- Bullet Punch
+- U-turn
+- Superpower
+- Knock Off
+
+Thundurus-Therian @ Choice Specs
+Ability: Volt Absorb
+EVs: 40 HP / 180 SpA / 36 SpD / 252 Spe
+IVs: 30 Def
+Timid Nature
+- Thunderbolt
+- Hidden Power
+- Grass Knot
+- Volt Switch
+
+SMCW-WWWW-WW3D-GSSC
+Battle 1501 vs. Veteran Dorian [Virizion-2, Moltres-1, Zapdos-2, Thundurus-1, Articuno-2, Terrakion-2]

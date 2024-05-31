@@ -1,0 +1,36 @@
+Amelia
+X Singles
+
+Dragonite @ Lum Berry
+Ability: Multiscale
+EVs: 20 HP / 252 Atk / 236 Spe
+Adamant Nature
+- Outrage
+- Fire Punch
+- Earthquake
+- Dragon Dance
+
+Greninja @ Life Orb
+Ability: Protean
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Ice Beam
+- Surf
+- Dark Pulse
+- Grass Knot
+
+Scizor @ Scizorite
+Ability: Technician
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+- Bullet Punch
+- U-turn
+- Brick Break
+- Swords Dance
+
+
+6L3G-WWWW-WWW3-MGTT
+Battle 341 vs. Roller Skater Aurora [Braviary-3, Salamence-4, Charizard-4]
+
+899G-WWWW-WWW3-MGUA
+Battle 277 vs. Roller Skater Ryker [Braviary-3, Gyarados-3, Magnezone-3]

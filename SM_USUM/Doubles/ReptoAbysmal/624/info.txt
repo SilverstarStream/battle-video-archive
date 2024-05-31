@@ -1,0 +1,46 @@
+Mara
+Ultra Moon v1.2 Doubles
+
+Musharna @ Lum Berry
+Ability: Telepathy
+EVs: 236 HP / 252 Def / 20 SpD
+IVs: 0 Spe
+Relaxed Nature
+- Trick Room
+- Gravity
+- Psychic
+- Helping Hand
+
+Abomasnow @ Abomasite
+Ability: Soundproof
+EVs: 252 HP / 4 Def / 252 SpA
+IVs: 0 Spe
+Quiet Nature
+- Protect
+- Energy Ball
+- Focus Blast
+- Blizzard
+
+Crabominable @ Assault Vest
+Ability: Iron Fist
+EVs: 188 HP / 252 Atk / 68 SpD
+IVs: 0 Spe
+Brave Nature
+- Ice Hammer
+- Earthquake
+- Stone Edge
+- Close Combat
+
+Regice @ Weakness Policy
+Ability: Clear Body
+EVs: 252 HP / 4 Def / 252 SpA
+IVs: 0 Spe
+Relaxed Nature
+- Aurora Veil
+- Thunderbolt
+- Ice Beam
+- Flash Cannon
+
+
+HAFW-WWWW-WWWQ-57TR
+Battle 614 vs. Scientist Tivon [Wishiwashi-3, Aggron-4, Gothitelle-4, Reuniclus-3]

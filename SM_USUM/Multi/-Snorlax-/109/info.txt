@@ -1,0 +1,53 @@
+Davide
+Sun v1.2 Multi (with Human partner)
+
+Raichu @ Focus Sash
+Ability: Lightning Rod
+EVs: 252 SpA / 4 SpD / 252 Spe
+IVs: 30 Def
+Hasty Nature
+- Thunderbolt
+- Fake Out
+- Hidden Power
+- Protect
+
+Latias @ Latiasite
+Ability: Levitate
+EVs: 252 HP / 4 Def / 252 Spe
+Timid Nature
+- Psychic
+- Shadow Ball
+- Calm Mind
+- Roost
+
+Deynon
+Moon v1.2
+
+Golisopod @ Assault Vest
+Ability: Emergency Exit
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+- First Impression
+- Aqua Jet
+- Leech Life
+- Liquidation
+
+Shuckle @ Leftovers
+Ability: Sturdy
+EVs: 252 HP / 108 Def / 148 SpD
+IVs: 0 Spe
+Calm Nature
+- Toxic
+- Rest
+- Power Split
+- Infestation
+
+
+QWYG-WWWW-WWWZ-AFEP
+Battle 110 (Loss) vs. Pokémon Trainer Plumeria [Crobat-3, Toxapex-3] & Pokémon Trainer Cynthia [Milotic-4, Garchomp-3]
+
+4SUG-WWWW-WWWZ-AGRU
+Battle 91 vs. Scientist Cal [Komala-4, Aggron-3] & Veteran Kikujiro [Raikou-2, Manectric-4]
+
+WGZG-WWWW-WWWZ-AGDR
+Battle 83 vs. Veteran Priya [Cresselia-1, Zapdos-1] & Veteran Placido [Landorus-1, Azelf-1]

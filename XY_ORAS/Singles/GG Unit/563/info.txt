@@ -1,0 +1,36 @@
+Based God
+Omega Ruby Singles
+
+Durant @ Choice Scarf
+Ability: Truant
+EVs: 244 HP / 12 Def / 252 Spe
+Jolly Nature
+- Entrainment
+- Rock Slide
+- X-Scissor
+- Iron Head
+
+Cloyster @ Focus Sash
+Ability: Skill Link
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Surf
+- Shell Smash
+- Icicle Spear
+- Protect
+
+Drapion @ Leftovers
+Ability: Battle Armor
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+- Substitute
+- Protect
+- Knock Off
+- Acupressure
+
+
+ANQG-WWWW-WWWY-QH7F
+Battle 564 vs. Ace Trainer Nikita [Mienshao-4, Volcarona-4, Absol-4]
+
+SRKW-WWWW-WWWY-QH6C
+Battle 539 vs. Chef Cobb [Jynx-3, Milotic-3, Walrein-3]

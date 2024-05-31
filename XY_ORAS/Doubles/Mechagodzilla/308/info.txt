@@ -1,0 +1,48 @@
+B14CK
+Y Doubles
+
+Garchomp @ Yache Berry
+Ability: Rough Skin
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Dragon Claw
+- Earthquake
+- Rock Slide
+- Protect
+
+Gengar @ Focus Sash
+Ability: Levitate
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Shadow Ball
+- Sludge Bomb
+- Thunderbolt
+- Protect
+
+Gyarados @ Sitrus Berry
+Ability: Intimidate
+EVs: 252 Atk / 4 Def / 252 Spe
+Adamant Nature
+- Waterfall
+- Ice Fang
+- Earthquake
+- Dragon Dance
+
+Scizor @ Scizorite
+Ability: Technician
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+- Bullet Punch
+- Brick Break
+- X-Scissor
+- Protect
+
+
+8QNG-WWWW-WWW2-U3R6
+Battle 308 vs. Worker Rasmus [Hippowdon-1, Dugtrio-4, Gigalith-3, Garchomp-1]
+
+ZPYW-WWWW-WWW2-U3RW
+Battle 249 vs. Worker Rasmus [Carbink-2, Tyranitar-1, Excadrill-3, Dugtrio-2]
+
+KFBW-WWWW-WWW2-U3Q8
+Battle 230 vs. Furisode Girl Kannon [Glaceon-1, Leafeon-2, Jolteon-3, Umbreon-3]

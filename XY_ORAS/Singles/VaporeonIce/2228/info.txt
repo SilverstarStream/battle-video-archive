@@ -1,0 +1,37 @@
+Phil
+Omega Ruby Singles
+
+Salamence @ Salamencite
+Ability: Intimidate
+EVs: 8 HP / 252 Atk / 12 SpD / 236 Spe
+Jolly Nature
+- Substitute
+- Dragon Dance
+- Roost
+- Return
+
+Aegislash @ Leftovers
+Ability: Stance Change
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 29 Spe
+Adamant Nature
+- King's Shield
+- Swords Dance
+- Shadow Sneak
+- Sacred Sword
+
+Chansey @ Eviolite
+Ability: Natural Cure
+EVs: 252 HP / 252 Def / 4 Spe
+Bold Nature
+- Soft-Boiled
+- Growl
+- Toxic
+- Seismic Toss
+
+
+RCEG-WWWW-WW2E-XB87
+Battle 2229 vs. Artist Wenge [Porygon-Z-4, Metagross-4, Rapidash-4]
+
+HZDG-WWWW-WW2E-XDXJ
+Battle 996 vs. Punk Girl Hadley [Talonflame-4, Honchkrow-4, Drapion-4]

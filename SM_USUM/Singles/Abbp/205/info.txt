@@ -1,0 +1,33 @@
+Abbp
+Ultra Sun v1.2 Singles
+
+Lucario @ Lucarionite
+Ability: Steadfast
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Close Combat
+- Meteor Mash
+- Bullet Punch
+- Substitute
+
+Dragonite @ Lum Berry
+Ability: Multiscale
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Dragon Dance
+- Fly
+- Outrage
+- Earthquake
+
+Golem @ Rockium Z
+Ability: Sturdy
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Rock Polish
+- Sucker Punch
+- Earthquake
+- Stone Edge
+
+
+J3YW-WWWW-WWX9-32BT
+Battle 206 (Loss) vs. Dancer Atalanta [Politoed-4, Beartic-4, Ludicolo-4]

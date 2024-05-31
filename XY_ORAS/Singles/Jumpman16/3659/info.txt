@@ -1,0 +1,69 @@
+JumpXVI
+Alpha Sapphire Singles
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature
+- Return
+- Power-Up Punch
+- Sucker Punch
+- Earthquake
+
+Suicune @ Leftovers
+Ability: Pressure
+EVs: 236 HP / 212 Def / 60 Spe
+Bold Nature
+- Scald
+- Icy Wind
+- Calm Mind
+- Rest
+
+Gliscor @ Toxic Orb
+Ability: Poison Heal
+EVs: 236 HP / 4 Atk / 4 Def / 252 SpD / 12 Spe
+Careful Nature
+- Earthquake
+- Toxic
+- Substitute
+- Protect
+
+
+6MRG-WWWW-WW5A-RBPF
+Battle 3659 vs. Punk Guy Jensen [Krookodile-1, Luxray-2, Salamence-3]
+
+DP6G-WWWW-WW5A-RC2Y
+Battle 3552 vs. Ace Trainer Jai [Magmortar-1, Porygon-Z-1, Roserade-2]
+
+N7MG-WWWW-WW5A-RC38
+Battle 3170 vs. Ace Trainer Bunny [Ferrothorn-3, Florges-3, Sylveon-3]
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature
+- Return
+- Power-Up Punch
+- Sucker Punch
+- Earthquake
+
+Suicune @ Leftovers
+Ability: Pressure
+EVs: 236 HP / 212 Def / 60 Spe
+Bold Nature
+- Scald
+- Icy Wind
+- Calm Mind
+- Rest
+
+Gliscor @ Toxic Orb
+Ability: Poison Heal
+EVs: 236 HP / 4 Atk / 12 Def / 252 SpD / 4 Spe
+Careful Nature
+- Earthquake
+- Toxic
+- Substitute
+- Protect
+
+EZ2G-WWWW-WW3K-YMZU
+Battle 2295 vs. Punk Guy Jensen [Arcanine-1, Krookodile-2, Gyarados-1]

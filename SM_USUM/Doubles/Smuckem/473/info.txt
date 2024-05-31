@@ -1,0 +1,63 @@
+Smickem
+Ultra Moon v1.2 Doubles
+
+Kartana @ Focus Sash
+Ability: Beast Boost
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Leaf Blade
+- Sacred Sword
+- Tailwind
+- Protect
+
+Tapu Koko @ Choice Specs
+Ability: Electric Surge
+EVs: 36 HP / 252 SpA / 220 Spe
+Timid Nature
+- Thunderbolt
+- Dazzling Gleam
+- Electroweb
+- Volt Switch
+
+Kommo-o @ Kommonium Z
+Ability: Bulletproof
+EVs: 8 HP / 252 SpA / 248 Spe
+Modest Nature
+- Clanging Scales
+- Close Combat
+- Flamethrower
+- Protect
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 100 HP / 252 Atk / 4 Def / 4 SpA / 12 SpD / 136 Spe
+Adamant Nature
+- Fake Out
+- Double-Edge
+- Drain Punch
+- Sucker Punch
+
+
+4WNW-WWWW-WWX2-47NE
+Battle 474 (Loss) vs. Cook Larry [Aromatisse-3, Rotom-Heat-3, Sharpedo-4, Amoonguss-3]
+
+4CVG-WWWW-WWX2-47LT
+Battle 444 vs. Veteran Xio [Primarina-4, Mimikyu-3, Sylveon-3, Togekiss-3]
+
+F8RW-WWWW-WWX2-47LK
+Battle 362 vs. Pokémon Center Lady Perri [Florges-2, Lilligant-2, Aromatisse-3, Blissey-2]
+
+4Z6W-WWWW-WWX2-47Y8
+Battle 361 vs. Ace Trainer Poppy [Hydreigon-3, Honchkrow-4, Greninja-4, Zoroark-4]
+
+FGAW-WWWW-WWX2-47GY
+Battle 314 vs. Backpacker Gwenny [Azelf-2, Cresselia-2, Heatran-1, Articuno-2]
+
+M4EG-WWWW-WWX2-47EQ
+Battle 285 vs. Sightseer Christian [Porygon-Z-4, Chandelure-4, Espeon-4, Drampa-3]
+
+E4KW-WWWW-WWX2-47AA
+Battle 232 vs. Aether Foundation Harvey [Gengar-4, Golem-Alola-2, Lanturn-4, Vaporeon-4]
+
+CE7W-WWWW-WWX2-478L
+Battle 200 vs. Pokémon Trainer Dexio [Passimian-3, Whimsicott-3, Slowbro-4, Espeon-4]

@@ -1,0 +1,44 @@
+Mirka
+X Doubles
+
+Aromatisse @ Life Orb
+Ability: Healer
+EVs: 252 HP / 252 Def / 4 SpD
+Quiet Nature
+- Trick Room
+- Dazzling Gleam
+- Thunderbolt
+- Protect
+
+Aron @ Berry Juice
+Ability: Sturdy
+Level: 1
+Bold Nature
+- Protect
+- Toxic
+- Endeavor
+- Sandstorm
+
+Hariyama @ Toxic Orb
+Ability: Guts
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 2 Spe
+Adamant Nature
+- Vital Throw
+- Fake Out
+- Knock Off
+- Facade
+
+Ampharos @ Ampharosite
+Ability: Static
+EVs: 252 HP / 4 Def / 252 SpA
+IVs: 5 Spe
+Modest Nature
+- Thunderbolt
+- Protect
+- Dragon Pulse
+- Power Gem
+
+
+799G-WWWW-WWW9-VPFC
+Battle 128 vs. Backpacker Rolf [Rhyperior-4, Glaceon-4, Gliscor-4, Tentacruel-4]

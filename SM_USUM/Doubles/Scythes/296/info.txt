@@ -1,0 +1,85 @@
+Quaint
+Ultra Sun v1.2 Doubles
+
+Tapu Lele @ Choice Scarf
+Ability: Psychic Surge
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Psychic
+- Hidden Power
+- Moonblast
+- Shadow Ball
+
+Kartana @ Focus Sash
+Ability: Beast Boost
+EVs: 4 HP / 252 Atk / 252 Spe
+IVs: 29 HP / 21 SpD
+Jolly Nature
+- Leaf Blade
+- Smart Strike
+- Sacred Sword
+- Protect
+
+Salamence @ Salamencite
+Ability: Intimidate
+EVs: 252 Atk / 4 SpA / 252 Spe
+IVs: 30 SpA
+Jolly Nature
+- Dragon Claw
+- Double-Edge
+- Earthquake
+- Protect
+
+Heatran @ Shuca Berry
+Ability: Flash Fire
+EVs: 100 HP / 252 SpA / 4 SpD / 152 Spe
+Modest Nature
+- Flamethrower
+- Earth Power
+- Toxic
+- Protect
+
+
+2QQG-WWWW-WWXW-M3B7
+Battle 297 (Loss) vs. Preschooler Reina [Decidueye-4, Sceptile-3, Primarina-3, Empoleon-4]
+
+Tapu Lele @ Choice Scarf
+Ability: Psychic Surge
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Psychic
+- Hidden Power
+- Moonblast
+- Shadow Ball
+
+Kartana @ Focus Sash
+Ability: Beast Boost
+EVs: 4 HP / 252 Atk / 252 Spe
+IVs: 29 HP / 21 SpD
+Jolly Nature
+- Leaf Blade
+- Smart Strike
+- Sacred Sword
+- Protect
+
+Salamence @ Salamencite
+Ability: Intimidate
+EVs: 252 Atk / 4 SpA / 252 Spe
+IVs: 30 SpA
+Jolly Nature
+- Dragon Claw
+- Double-Edge
+- Earthquake
+- Protect
+
+Heatran @ Shuca Berry
+Ability: Flash Fire
+EVs: 252 SpA / 4 SpD / 252 Spe
+Modest Nature
+- Flamethrower
+- Earth Power
+- Rock Tomb
+- Protect
+
+YY6G-WWWW-WWXW-M4GL
+Battle 145 vs. Dancer Carrie [Nidoking-4, Rotom-Mow-4, Volcarona-4, Accelgor-4]

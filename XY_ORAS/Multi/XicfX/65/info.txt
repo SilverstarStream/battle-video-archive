@@ -1,0 +1,44 @@
+Sergio
+X Multi (with AI partner)
+
+Charizard @ Charizardite Y
+Ability: Solar Power
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Heat Wave
+- Solar Beam
+- Dragon Pulse
+- Protect
+
+Cresselia @ Leftovers
+Ability: Levitate
+EVs: 252 Def / 252 SpA / 4 SpD
+Bold Nature
+- Psychic
+- Calm Mind
+- Moonlight
+- Moonblast
+
+Friends List AI Partner
+
+Hippowdon-3 @ Sitrus Berry
+Ability: Sand Stream
+EVs: 252 Atk / 252 SpD
+Adamant Nature
+- Earthquake
+- Crunch
+- Slack Off
+- Yawn
+
+Aerodactyl-3 @ Expert Belt
+Ability: Pressure
+EVs: 252 Atk / 252 Spe
+Jolly Nature
+- Iron Head
+- Earthquake
+- Rock Slide
+- Thunder Fang
+
+
+3HQW-WWWW-WW63-VGYQ
+Battle 66 vs. Veteran Howell [Zapdos-1, Cresselia-2] & Owner Cyril [Blissey-4, Togekiss-4]

@@ -1,0 +1,43 @@
+Chris
+Moon v1.2 Doubles
+
+Torkoal @ Choice Specs
+Ability: Drought
+EVs: 172 HP / 252 SpA / 84 SpD
+Modest Nature
+- Eruption
+- Flamethrower
+- Earth Power
+- Solar Beam
+
+Lilligant @ Grassium Z
+Ability: Chlorophyll
+EVs: 36 HP / 4 Def / 252 SpA / 4 SpD / 212 Spe
+IVs: 30 Atk
+Modest Nature
+- Solar Beam
+- Hidden Power
+- After You
+- Protect
+
+Heatran @ Air Balloon
+Ability: Flash Fire
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Flamethrower
+- Flash Cannon
+- Ancient Power
+- Protect
+
+Tapu Lele @ Choice Scarf
+Ability: Psychic Surge
+EVs: 12 HP / 4 Def / 252 SpA / 4 SpD / 236 Spe
+Modest Nature
+- Psyshock
+- Moonblast
+- Dazzling Gleam
+- Thunderbolt
+
+
+BGEW-WWWW-WWW9-949N
+Battle 98 (Loss) vs. Collector Dennis [Tyrantrum-4, Nidoqueen-4, Porygon2-3, Snorlax-4]

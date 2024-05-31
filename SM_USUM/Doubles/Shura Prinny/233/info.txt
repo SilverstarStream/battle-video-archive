@@ -1,0 +1,45 @@
+バット
+Ultra Moon v1.2 Doubles
+
+Togedemaru @ Berry Juice
+Ability: Sturdy
+Level: 1
+Jolly Nature
+- Fake Out
+- Encore
+- Spiky Shield
+- Endeavor
+
+Aromatisse @ Lum Berry
+Ability: Aroma Veil
+EVs: 252 HP / 180 Def / 76 SpD
+IVs: 0 Spe
+Sassy Nature
+- Dazzling Gleam
+- Protect
+- Trick Room
+- Disable
+
+Mudsdale @ Assault Vest
+Ability: Stamina
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 0 Spe
+Brave Nature
+- Earthquake
+- Close Combat
+- Heavy Slam
+- Rock Slide
+
+Vikavolt @ Buginium Z
+Ability: Levitate
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 0 Spe
+Quiet Nature
+- Thunderbolt
+- Bug Buzz
+- Protect
+- Hidden Power
+
+
+BCZW-WWWW-WWWF-RNHM
+Battle 234 (Loss) vs. Collector Sam [Aurorus-3, Archeops-4, Hydreigon-3, Nidoking-4]

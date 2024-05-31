@@ -1,0 +1,42 @@
+Chris
+Ultra Sun v1.2 Doubles
+
+Torkoal @ Choice Specs
+Ability: Drought
+EVs: 172 HP / 252 SpA / 84 SpD
+Modest Nature
+- Eruption
+- Flamethrower
+- Earth Power
+- Solar Beam
+
+Ribombee @ Focus Sash
+Ability: Shield Dust
+EVs: 4 HP / 4 Def / 252 SpA / 4 SpD / 244 Spe
+Timid Nature
+- Moonblast
+- Powder
+- After You
+- Protect
+
+Garchomp @ Groundium Z
+Ability: Rough Skin
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Earthquake
+- Dragon Claw
+- Iron Head
+- Protect
+
+Sawsbuck @ Choice Band
+Ability: Chlorophyll
+EVs: 4 HP / 252 Atk / 4 Def / 4 SpD / 244 Spe
+Adamant Nature
+- Double-Edge
+- Seed Bomb
+- Wild Charge
+- Stomping Tantrum
+
+
+D8KG-WWWW-WWWD-RNZH
+Battle 139 (Loss) vs. Preschooler Reina [Emboar-4, Blaziken-3, Empoleon-3, Chesnaught-3]

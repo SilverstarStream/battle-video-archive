@@ -1,0 +1,53 @@
+Sayo
+Moon v1.1 Multi (with AI partner)
+
+Tapu Lele @ Choice Scarf
+Ability: Psychic Surge
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Psychic
+- Moonblast
+- Psyshock
+- Shadow Ball
+
+Celesteela @ Leftovers
+Ability: Beast Boost
+EVs: 228 HP / 44 Atk / 116 Def / 116 SpD / 4 Spe
+Adamant Nature
+- Heavy Slam
+- Flamethrower
+- Leech Seed
+- Protect
+
+Pokémon Trainer Wally
+
+Gallade-4 @ Galladite
+Ability: Steadfast
+EVs: 252 Atk / 252 Spe
+Jolly Nature
+- Psycho Cut
+- Close Combat
+- Rock Slide
+- Destiny Bond
+
+Garchomp-3 @ Choice Scarf
+Ability: Sand Veil
+EVs: 252 Atk / 252 Spe
+Jolly Nature
+- Outrage
+- Earthquake
+- Fire Fang
+- Crunch
+
+
+TZYG-WWWW-WWW6-AB72
+Battle 61 (Loss) vs. Ace Trainer Hashim [Wishiwashi-3, Primarina-4] & Pokémon Breeder Danby [Camerupt-3, Dhelmise-3]
+
+U7ZW-WWWW-WWW6-AB6R
+Battle 60 vs. Pokémon Trainer Grimsley [Tyranitar-4, Liepard-3] & Pokémon Trainer Dexio [Espeon-3, Passimian-4]
+
+A9AG-WWWW-WWW6-AB65
+Battle 53 vs. Pokémon Breeder Lori [Musharna-3, Slowbro-3] & Veteran Demiathena [Latios-3, Cresselia-4]
+
+ND8W-WWWW-WWW6-AB5S
+Battle 50 vs. Battle Legend Red [Lapras-3, Snorlax-4] & Battle Legend Blue [Arcanine-4, Aerodactyl-3]

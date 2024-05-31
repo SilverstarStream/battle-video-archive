@@ -1,0 +1,42 @@
+Justin
+Moon v1.2 Doubles
+
+Swampert @ Swampertite
+Ability: Torrent
+EVs: 108 HP / 252 Atk / 148 Spe
+Jolly Nature
+- Waterfall
+- Earthquake
+- Ice Punch
+- Protect
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Hurricane
+- Scald
+- Tailwind
+- Protect
+
+Xurkitree @ Air Balloon
+Ability: Beast Boost
+EVs: 236 HP / 4 Def / 4 SpA / 12 SpD / 252 Spe
+Timid Nature
+- Thunder
+- Hidden Power
+- Tail Glow
+- Protect
+
+Kartana @ Assault Vest
+Ability: Beast Boost
+EVs: 116 HP / 4 Atk / 4 Def / 132 SpD / 252 Spe
+Jolly Nature
+- Leaf Blade
+- Smart Strike
+- Sacred Sword
+- X-Scissor
+
+
+5BFW-WWWW-WWW7-BQYW
+Battle 515 (Loss) vs. Scientist Cal [Dusknoir-4, Wishiwashi-4, Cofagrigus-3, Slowking-4]

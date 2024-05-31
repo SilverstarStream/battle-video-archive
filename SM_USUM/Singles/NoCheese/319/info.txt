@@ -1,0 +1,33 @@
+C-Coal
+Moon v1.2 Singles
+
+Dragonite @ Lum Berry
+Ability: Multiscale
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Outrage
+- Earthquake
+- Fire Punch
+- Dragon Dance
+
+Chansey @ Eviolite
+Ability: Natural Cure
+EVs: 4 HP / 252 Def / 4 SpA / 4 SpD / 244 Spe
+Timid Nature
+- Seismic Toss
+- Substitute
+- Minimize
+- Soft-Boiled
+
+Slowbro @ Slowbronite
+Ability: Regenerator
+EVs: 244 HP / 252 Def / 4 SpA / 4 SpD / 4 Spe
+Bold Nature
+- Scald
+- Iron Defense
+- Calm Mind
+- Rest
+
+
+3CEG-WWWW-WWW7-QHMD
+Battle 320 (Loss) vs. Pokémon Trainer Dexio [Braviary-4, Passimian-3, Espeon-3]

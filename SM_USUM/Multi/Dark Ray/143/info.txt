@@ -1,0 +1,44 @@
+David
+Moon v1.2 Multi (with AI partner)
+
+Tapu Lele @ Choice Scarf
+Ability: Psychic Surge
+EVs: 4 Def / 252 SpA / 252 Spe
+Modest Nature
+- Psychic
+- Moonblast
+- Thunderbolt
+- Hidden Power
+
+Salamence @ Salamencite
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Earthquake
+- Dragon Dance
+- Dragon Claw
+- Double-Edge
+
+Aether Foundation Heidi
+
+Metagross-4 @ Metagrossite
+Ability: Clear Body
+EVs: 252 Atk / 252 Spe
+Jolly Nature
+- Zen Headbutt
+- Meteor Mash
+- Brick Break
+- Bullet Punch
+
+Bruxish-4 @ Expert Belt
+Ability: Wonder Skin
+EVs: 252 HP / 252 Atk
+Adamant Nature
+- Psychic Fangs
+- Ice Fang
+- Aqua Jet
+- Crunch
+
+
+B9JG-WWWW-WWW9-FLAU
+Battle 144 (Loss) vs. Ace Trainer Hashim [Gigalith-3, Gyarados-4] & Ace Trainer Levi [Exeggutor-2, Mamoswine-3]

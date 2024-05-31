@@ -1,0 +1,47 @@
+Fencas
+Y Rotation
+
+Mawile @ Mawilite
+Ability: Intimidate
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 0 Spe
+Brave Nature
+- Iron Head
+- Play Rough
+- Swords Dance
+- Protect
+
+Vaporeon @ Leftovers
+Ability: Water Absorb
+EVs: 244 HP / 252 Def / 12 SpD
+Bold Nature
+- Scald
+- Haze
+- Wish
+- Protect
+
+Hypno @ Light Clay
+Ability: Inner Focus
+EVs: 252 HP / 252 Def / 4 SpD
+IVs: 0 Spe
+Relaxed Nature
+- Light Screen
+- Reflect
+- Trick Room
+- Protect
+
+Dragonite @ Lum Berry
+Ability: Multiscale
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Dragon Dance
+- Outrage
+- Earthquake
+- Protect
+
+
+Y8NG-WWWW-WWW8-LNJ4
+Battle 324 vs. Scientist Max [Crobat-4, Armaldo-4, Magnezone-4, Electrode-4]
+
+SSYG-WWWW-WWW8-LNJH
+Battle 151 vs. Veteran Isabella [Heatran-4, Regice-2, Raikou-1, Latias-1]

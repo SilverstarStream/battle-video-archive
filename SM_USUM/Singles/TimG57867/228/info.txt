@@ -1,0 +1,60 @@
+Kersley
+Sun v1.2 Singles
+
+Durant @ Choice Scarf
+Ability: Truant
+EVs: 252 HP / 20 Def / 236 Spe
+Jolly Nature
+- Entrainment
+- Iron Head
+- X-Scissor
+- Substitute
+
+Mimikyu @ Red Card
+Ability: Disguise
+EVs: 252 HP / 20 SpD / 236 Spe
+Jolly Nature
+- Thief
+- Confide
+- Taunt
+- Thunder Wave
+
+Smeargle @ Leftovers
+Ability: Moody
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Power Trip
+- Substitute
+- Coil
+- Spiky Shield
+
+
+L9AG-WWWW-WWW9-76UX
+Battle 145 vs. Lass Samantha [Suicune-3, Thundurus-3, Zapdos-3]
+
+H8LW-WWWW-WWW9-76SA
+Battle 130 vs. Pokémon Trainer Sina [Drampa-4, Lilligant-3, Mandibuzz-3]
+
+LPKG-WWWW-WWW9-76Z5
+Battle 114 vs. Rising Star Marianne [Darmanitan-4, Venusaur-4, Lilligant-4]
+
+G93G-WWWW-WWW9-76NQ
+Battle 100 vs. Captain Kiawe [Arcanine-3, Kangaskhan-3, Talonflame-4]
+
+2KCG-WWWW-WWW9-76YM
+Battle 70 vs. Pokémon Trainer Sina [Drampa-3, Abomasnow-4, Glaceon-3]
+
+4J8G-WWWW-WWW9-76GH
+Battle 55 vs. Golfer Bruce [Leafeon-4, Glaceon-4, Jolteon-4]
+
+JVXG-WWWW-WWW9-76CV
+Battle 45 vs. Ace Trainer Raz [Ribombee-3, Accelgor-4, Crobat-3]
+
+5N8G-WWWW-WWW9-76CD
+Battle 22 vs. Pokémon Breeder Nedry [Probopass-3, Umbreon-2, Raichu-Alola-2]
+
+75AG-WWWW-WWW9-76BK
+Battle 20 vs. Pokémon Trainer Cynthia [Milotic-4, Togekiss-3, Spiritomb-4]
+
+7XDW-WWWW-WWW9-76A5
+Battle 15 vs. Sightseer Kaula [Shuckle-2, Toucannon-2, Hippowdon-2]

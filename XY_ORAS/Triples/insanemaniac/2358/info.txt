@@ -1,0 +1,192 @@
+Jisk
+Alpha Sapphire Triples
+
+Claydol @ Focus Sash
+Ability: Levitate
+EVs: 252 HP / 4 Def / 252 SpD
+IVs: 0 Spe
+Sassy Nature
+- Trick Room
+- Rain Dance
+- Dazzling Gleam
+- Explosion
+
+Aron @ Berry Juice
+Ability: Sturdy
+Level: 1
+Gentle Nature
+- Protect
+- Endeavor
+- Dig
+- Iron Head
+
+Blastoise @ Blastoisinite
+Ability: Torrent
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 0 Spe
+Quiet Nature
+- Protect
+- Aura Sphere
+- Water Spout
+- Dark Pulse
+
+Sylveon @ Choice Specs
+Ability: Pixilate
+EVs: 252 HP / 4 Def / 252 SpA
+IVs: 0 Spe
+Quiet Nature
+- Hyper Voice
+- Shadow Ball
+- Wish
+- Psyshock
+
+Escavalier @ Occa Berry
+Ability: Shell Armor
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 0 Spe
+Brave Nature
+- Fell Stinger
+- Iron Head
+- Aerial Ace
+- Knock Off
+
+Clawitzer @ Life Orb
+Ability: Mega Launcher
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 0 Spe
+Quiet Nature
+- Water Pulse
+- Dark Pulse
+- Aura Sphere
+- Heal Pulse
+
+
+4RJW-WWWW-WW5L-CGLG
+Battle 2359 vs. Backpacker Perdido [Nidoking-4, Carbink-4, Froslass-4, Empoleon-4, Lanturn-4, Feraligatr-4]
+
+Claydol @ Focus Sash
+Ability: Levitate
+EVs: 252 HP / 4 Def / 252 SpD
+IVs: 0 Spe
+Sassy Nature
+- Trick Room
+- Rain Dance
+- Dazzling Gleam
+- Explosion
+
+Aron @ Berry Juice
+Ability: Sturdy
+Level: 1
+Gentle Nature
+- Protect
+- Endeavor
+- Dig
+- Iron Head
+
+Blastoise @ Blastoisinite
+Ability: Torrent
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 0 Spe
+Quiet Nature
+- Protect
+- Aura Sphere
+- Water Spout
+- Dark Pulse
+
+Clawitzer @ Life Orb
+Ability: Mega Launcher
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 0 Spe
+Quiet Nature
+- Water Pulse
+- Dark Pulse
+- Aura Sphere
+- Heal Pulse
+
+Sylveon @ Choice Specs
+Ability: Pixilate
+EVs: 252 HP / 4 Def / 252 SpA
+IVs: 0 Spe
+Quiet Nature
+- Hyper Voice
+- Shadow Ball
+- Wish
+- Psyshock
+
+Escavalier @ Occa Berry
+Ability: Shell Armor
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 0 Spe
+Brave Nature
+- Fell Stinger
+- Iron Head
+- Aerial Ace
+- Knock Off
+
+XW6W-WWWW-WW56-R8BE
+Battle 1359 vs. Beauty Kenna [Aurorus-4, Gastrodon-4, Walrein-4, Glaceon-4, Blastoise-4, Beartic-4]
+
+Claydol @ Focus Sash
+Ability: Levitate
+EVs: 252 HP / 4 Def / 252 SpD
+IVs: 0 Spe
+Sassy Nature
+- Trick Room
+- Rain Dance
+- Dazzling Gleam
+- Explosion
+
+Aron @ Berry Juice
+Ability: Sturdy
+Level: 1
+Gentle Nature
+- Protect
+- Endeavor
+- Dig
+- Iron Head
+
+Blastoise @ Blastoisinite
+Ability: Torrent
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 0 Spe
+Quiet Nature
+- Protect
+- Aura Sphere
+- Water Spout
+- Dark Pulse
+
+Sylveon @ Choice Specs
+Ability: Pixilate
+EVs: 252 HP / 4 Def / 252 SpA
+IVs: 0 Spe
+Quiet Nature
+- Hyper Voice
+- Shadow Ball
+- Wish
+- Psyshock
+
+Escavalier @ Occa Berry
+Ability: Shell Armor
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 0 Spe
+Brave Nature
+- Fell Stinger
+- Iron Head
+- Aerial Ace
+- Knock Off
+
+Clawitzer @ Life Orb
+Ability: Mega Launcher
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 0 Spe
+Quiet Nature
+- Water Pulse
+- Dark Pulse
+- Aura Sphere
+- Heal Pulse
+
+B3UW-WWWW-WW55-UPDB
+Battle 1061 vs. Pokémon Breeder Merekee [Gallade-4, Starmie-4, Carracosta-4, Ursaring-4, Jolteon-4, Espeon-4]
+
+UP4W-WWWW-WW55-UPZE
+Battle 1000 vs. Punk Girl Hadley [Delphox-4, Crobat-4, Skuntank-4, Victreebel-4, Infernape-4, Gengar-4]

@@ -1,0 +1,45 @@
+Quanyails
+X Multi (with AI partner)
+
+Charizard @ Charizardite Y
+Ability: Blaze
+EVs: 4 Atk / 252 SpA / 252 Spe
+Naive Nature
+- Heat Wave
+- Solar Beam
+- Dragon Pulse
+- Protect
+
+Zapdos @ Assault Vest
+Ability: Pressure
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 30 Def
+Modest Nature
+- Discharge
+- Heat Wave
+- Hidden Power
+- Tailwind
+
+Friends List AI Partner
+
+Hippowdon-3 @ Sitrus Berry
+Ability: Sand Stream
+EVs: 252 Atk / 252 SpD
+Adamant Nature
+- Earthquake
+- Crunch
+- Slack Off
+- Yawn
+
+Metagross-3 @ Occa Berry
+Ability: Clear Body
+EVs: 168 HP / 168 Atk / 168 SpD
+Adamant Nature
+- Earthquake
+- Meteor Mash
+- Bullet Punch
+- Explosion
+
+
+QJXW-WWWW-WWW6-GQSY
+Battle 50 vs. Battle Chatelaine Nita [Landorus-2, Thundurus-3] & Battle Chatelaine Morgan [Virizion-3, Latias-1]

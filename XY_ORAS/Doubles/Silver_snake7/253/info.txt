@@ -1,0 +1,44 @@
+Azraq
+Alpha Sapphire Doubles
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Power-Up Punch
+- Sucker Punch
+- Return
+- Fake Out
+
+Sylveon @ Choice Specs
+Ability: Pixilate
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 0 Spe
+Quiet Nature
+- Hyper Voice
+- Moonblast
+- Psyshock
+- Shadow Ball
+
+Conkeldurr @ Assault Vest
+Ability: Guts
+EVs: 4 HP / 252 Atk / 252 SpD
+IVs: 0 Spe
+Brave Nature
+- Knock Off
+- Drain Punch
+- Mach Punch
+- Ice Punch
+
+Gastrodon @ Leftovers
+Ability: Storm Drain
+EVs: 252 HP / 252 SpA / 4 SpD
+Bold Nature
+- Ice Beam
+- Earth Power
+- Scald
+- Sludge Bomb
+
+
+7ANG-WWWW-WWXX-3YPD
+Battle 254 vs. Monsieur Kirill [Donphan-4, Walrein-4, Magnezone-4, Hydreigon-4]

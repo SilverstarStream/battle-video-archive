@@ -1,0 +1,57 @@
+Iris
+Ultra Sun v1.2 Doubles
+
+Tapu Koko @ Choice Specs
+Ability: Electric Surge
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+- Thunderbolt
+- Volt Switch
+- Dazzling Gleam
+- Electroweb
+
+Kartana @ Focus Sash
+Ability: Beast Boost
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Leaf Blade
+- Sacred Sword
+- Tailwind
+- Protect
+
+Kommo-o @ Kommonium Z
+Ability: Bulletproof
+EVs: 4 HP / 4 Def / 244 SpA / 4 SpD / 252 Spe
+Modest Nature
+- Clanging Scales
+- Close Combat
+- Flamethrower
+- Protect
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 252 HP / 44 Atk / 20 Def / 52 SpD / 140 Spe
+Adamant Nature
+- Fake Out
+- Body Slam
+- Seismic Toss
+- Sucker Punch
+
+
+MFYW-WWWW-WWXB-SELA
+Battle 1000 vs. Pokémon Trainer Kukui [Ninetales-Alola-2, Decidueye-3, Primarina-4, Incineroar-3]
+
+UGRG-WWWW-WWXB-SELB
+Battle 900 vs. Pokémon Trainer Sina [Oranguru-4, Lilligant-4, Mandibuzz-3, Glaceon-4]
+
+EJUW-WWWW-WWXB-SELD
+Battle 870 vs. Pokémon Trainer Sina [Sandslash-Alola-2, Drampa-4, Oranguru-3, Mandibuzz-3]
+
+3SMW-WWWW-WWXB-SELG
+Battle 724 vs. Backpacker Fernanda [Terrakion-4, Latias-3, Landorus-4, Articuno-3]
+
+Y25W-WWWW-WWXB-SELY
+Battle 660 vs. Captain Kiawe [Arcanine-4, Salazzle-3, Kangaskhan-4, Talonflame-4]
+
+AU9W-WWWW-WWXB-SELL
+Battle 400 vs. Pokémon Trainer Sina [Glaceon-3, Drampa-3, Abomasnow-4, Sandslash-Alola-2]

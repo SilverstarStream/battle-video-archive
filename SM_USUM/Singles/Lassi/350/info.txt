@@ -1,0 +1,33 @@
+Lassi
+Sun v1.1 Singles
+
+Garchomp @ Dragonium Z
+Ability: Sand Veil
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Substitute
+- Earthquake
+- Outrage
+- Swords Dance
+
+Scizor @ Scizorite
+Ability: Technician
+EVs: 244 HP / 76 Atk / 4 Def / 180 SpD / 4 Spe
+Adamant Nature
+- Swords Dance
+- Bullet Punch
+- Roost
+- Brick Break
+
+Tapu Fini @ Choice Scarf
+Ability: Misty Surge
+EVs: 12 HP / 4 Def / 252 SpA / 240 Spe
+Modest Nature
+- Moonblast
+- Surf
+- Ice Beam
+- Grass Knot
+
+
+ZB3W-WWWW-WWW4-QBFZ
+Battle 351 (Loss) vs. Veteran Placido [Regirock-2, Articuno-2, Moltres-2]

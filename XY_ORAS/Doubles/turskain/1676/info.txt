@@ -1,0 +1,91 @@
+I
+Omega Ruby Doubles
+
+Sharpedo @ Focus Sash
+Ability: Speed Boost
+EVs: 252 Atk / 4 SpA / 252 Spe
+IVs: 0 HP / 0 Def / 0 SpD
+Naughty Nature
+- Waterfall
+- Crunch
+- Destiny Bond
+- Protect
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Return
+- Sucker Punch
+- Drain Punch
+- Fake Out
+
+Landorus @ Life Orb
+Ability: Sheer Force
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 30 Def
+Timid Nature
+- Earth Power
+- Psychic
+- Hidden Power
+- Protect
+
+Aegislash @ Leftovers
+Ability: Stance Change
+EVs: 252 HP / 220 SpA / 36 SpD
+IVs: 0 Spe
+Quiet Nature
+- King's Shield
+- Wide Guard
+- Shadow Ball
+- Flash Cannon
+
+
+Y7RG-WWWW-WW4F-SCNN
+Battle 1677 vs. Veteran Sibyl [Regice-1, Suicune-1, Regirock-2, Raikou-2]
+
+P32W-WWWW-WW4J-AYJE
+Battle 1283 vs. Veteran Saba [Cobalion-3, Zapdos-3, Suicune-4, Raikou-3]
+
+Sharpedo @ Focus Sash
+Ability: Speed Boost
+EVs: 252 Atk / 4 SpA / 252 Spe
+IVs: 0 HP / 0 Def / 0 SpD
+Naughty Nature
+- Waterfall
+- Crunch
+- Destiny Bond
+- Protect
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 4 HP / 252 Atk / 252 Spe
+IVs: 30 Def
+Jolly Nature
+- Return
+- Sucker Punch
+- Drain Punch
+- Fake Out
+
+Landorus @ Life Orb
+Ability: Sheer Force
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 30 Def
+Timid Nature
+- Earth Power
+- Psychic
+- Hidden Power
+- Protect
+
+Aegislash @ Leftovers
+Ability: Stance Change
+EVs: 252 HP / 220 SpA / 36 SpD
+IVs: 0 Spe
+Quiet Nature
+- King's Shield
+- Wide Guard
+- Shadow Ball
+- Flash Cannon
+
+HSWW-WWWW-WW4F-SCZS
+Battle 955 vs. Pokémon Breeder Lalaini [Samurott-1, Serperior-3, Infernape-3, Delphox-3]

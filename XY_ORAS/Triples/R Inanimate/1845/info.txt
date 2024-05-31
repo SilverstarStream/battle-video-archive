@@ -1,0 +1,120 @@
+Renko
+X Triples
+
+Greninja @ Life Orb
+Ability: Protean
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Surf
+- Ice Beam
+- Grass Knot
+- Mat Block
+
+Aron @ Berry Juice
+Ability: Sturdy
+Level: 1
+Rash Nature
+- Endeavor
+- Toxic
+- Swagger
+- Protect
+
+Garchomp @ Focus Sash
+Ability: Sand Veil
+EVs: 4 HP / 244 Atk / 4 Def / 4 SpD / 252 Spe
+Jolly Nature
+- Earthquake
+- Dragon Claw
+- Swords Dance
+- Protect
+
+Tyranitar @ Choice Scarf
+Ability: Sand Stream
+EVs: 4 HP / 244 Atk / 4 Def / 4 SpD / 252 Spe
+Jolly Nature
+- Rock Slide
+- Crunch
+- Earthquake
+- Aerial Ace
+
+Aegislash @ Spell Tag
+Ability: Stance Change
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 0 Spe
+Brave Nature
+- Iron Head
+- Shadow Sneak
+- Sacred Sword
+- Swords Dance
+
+Gyarados @ Choice Band
+Ability: Intimidate
+EVs: 164 HP / 196 Atk / 4 Def / 76 SpD / 68 Spe
+Adamant Nature
+- Waterfall
+- Earthquake
+- Stone Edge
+- Return
+
+
+3WAG-WWWW-WWW3-S7TM
+Battle 1846 vs. Ace Trainer Gwen [Dusknoir-4, Togekiss-4, Leafeon-4, Latias-1, Honchkrow-4, Klinklang-4]
+
+Greninja @ Life Orb
+Ability: Protean
+EVs: 4 Atk / 252 SpA / 252 Spe
+IVs: 29 HP
+Hasty Nature
+- Surf
+- Ice Beam
+- Grass Knot
+- Mat Block
+
+Aron @ Berry Juice
+Ability: Sturdy
+Level: 1
+Rash Nature
+- Endeavor
+- Toxic
+- Sleep Talk
+- Protect
+
+Garchomp @ Focus Sash
+Ability: Sand Veil
+EVs: 4 HP / 244 Atk / 4 Def / 4 SpD / 252 Spe
+Jolly Nature
+- Earthquake
+- Dragon Claw
+- Swords Dance
+- Protect
+
+Tyranitar @ Choice Scarf
+Ability: Sand Stream
+EVs: 4 HP / 244 Atk / 4 Def / 4 SpD / 252 Spe
+Jolly Nature
+- Rock Slide
+- Crunch
+- Earthquake
+- Iron Tail
+
+Aegislash @ Spell Tag
+Ability: Stance Change
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 0 Spe
+Brave Nature
+- Iron Head
+- Shadow Sneak
+- Sacred Sword
+- Swords Dance
+
+Gyarados @ Choice Band
+Ability: Intimidate
+EVs: 164 HP / 196 Atk / 4 Def / 76 SpD / 68 Spe
+Adamant Nature
+- Waterfall
+- Earthquake
+- Stone Edge
+- Return
+
+NTPG-WWWW-WWW2-ULK3
+Battle 1000 vs. Veteran Dorian [Suicune-2, Tornadus-2, Cobalion-2, Zapdos-1, Raikou-2, Entei-2]

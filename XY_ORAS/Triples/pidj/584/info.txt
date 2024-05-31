@@ -1,0 +1,72 @@
+Dave
+Alpha Sapphire Triples
+
+Togekiss @ Charti Berry
+Ability: Serene Grace
+EVs: 252 HP / 220 Def / 4 SpA / 28 SpD / 4 Spe
+Modest Nature
+- Follow Me
+- Tailwind
+- Roost
+- Air Slash
+
+Terrakion @ Choice Band
+Ability: Justified
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Earthquake
+- Poison Jab
+- Rock Slide
+- Close Combat
+
+Weavile @ Focus Sash
+Ability: Pressure
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Beat Up
+- Feint
+- Fake Out
+- Ice Punch
+
+Salamence @ Salamencite
+Ability: Intimidate
+EVs: 252 Atk / 4 SpA / 252 Spe
+Adamant Nature
+- Draco Meteor
+- Protect
+- Return
+- Tailwind
+
+Excadrill @ Air Balloon
+Ability: Mold Breaker
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Iron Head
+- Rock Slide
+- Drill Run
+- Earthquake
+
+Milotic @ Leftovers
+Ability: Competitive
+EVs: 252 HP / 212 Def / 36 SpA / 4 SpD / 4 Spe
+Modest Nature
+- Recover
+- Ice Beam
+- Scald
+- Toxic
+
+
+K5EW-WWWW-WW44-PJN7
+Battle 585 vs. Veteran Alfie [Thundurus-3, Cobalion-4, Suicune-4, Regigigas-4, Regice-4, Entei-3]
+
+WCEW-WWWW-WW44-R9EU
+Battle 500 vs. Veteran Catherine [Raikou-1, Registeel-1, Zapdos-1, Heatran-1, Terrakion-2, Regirock-1]
+
+D3VG-WWWW-WW44-RA8A
+Battle 456 vs. Roller Skater Ryker [Ampharos-3, Mandibuzz-3, Electivire-4, Lanturn-3, Salamence-4, Luxray-3]
+
+PCJW-WWWW-WW44-R9N3
+Battle 324 vs. Butler Deacon [Vespiquen-4, Emboar-4, Froslass-4, Gourgeist-4, Lopunny-4, Typhlosion-4]
+
+KYKW-WWWW-WW44-R977
+Battle 221 vs. Tourist Incheon [Infernape-4, Blastoise-4, Samurott-4, Gogoat-4, Weezing-4, Pyroar-4]

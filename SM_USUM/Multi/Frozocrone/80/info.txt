@@ -1,0 +1,44 @@
+Woody
+Sun v1.2 Multi (with AI partner)
+
+Salamence @ Salamencite
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 12 SpD / 240 Spe
+Jolly Nature
+- Return
+- Earthquake
+- Dragon Dance
+- Protect
+
+Mimikyu @ Fairium Z
+Ability: Disguise
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Swords Dance
+- Play Rough
+- Shadow Claw
+- Shadow Sneak
+
+Aether Foundation Harvey
+
+Metagross-4 @ Metagrossite
+Ability: Light Metal
+EVs: 252 Atk / 252 Spe
+Jolly Nature
+- Zen Headbutt
+- Meteor Mash
+- Brick Break
+- Bullet Punch
+
+Sableye-4 @ Focus Sash
+Ability: Prankster
+EVs: 252 HP / 252 SpD
+Careful Nature
+- Foul Play
+- Will-O-Wisp
+- Metal Burst
+- Fake Out
+
+
+MHSW-WWWW-WWW8-ZNAQ
+Battle 81 (Loss) vs. Police Officer Rendor [Togekiss-4, Gengar-4] & Preschooler Victor [Hydreigon-3, Mesprit-3]

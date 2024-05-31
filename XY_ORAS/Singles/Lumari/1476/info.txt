@@ -1,0 +1,36 @@
+Luana
+Omega Ruby Singles
+
+Greninja @ Life Orb
+Ability: Protean
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+- Surf
+- Ice Beam
+- Grass Knot
+- Dark Pulse
+
+Scizor @ Scizorite
+Ability: Technician
+EVs: 212 HP / 252 Atk / 44 Spe
+Adamant Nature
+- Bullet Punch
+- Bug Bite
+- Swords Dance
+- Roost
+
+Gliscor @ Toxic Orb
+Ability: Poison Heal
+EVs: 212 HP / 4 Atk / 36 Def / 252 SpD / 4 Spe
+Careful Nature
+- Earthquake
+- Toxic
+- Protect
+- Substitute
+
+
+JHPG-WWWW-WW4T-DRQ5
+Battle 1477 vs. Monsieur Patrice [Cofagrigus-4, Noivern-4, Skuntank-4]
+
+JLUW-WWWW-WW4T-DRRK
+Battle 1197 vs. Veteran Eleanor [Latias-3, Virizion-4, Registeel-3]

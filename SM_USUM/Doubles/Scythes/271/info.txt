@@ -1,0 +1,130 @@
+Quaint
+Ultra Sun v1.2 Doubles
+
+Weavile @ Focus Sash
+Ability: Pressure
+EVs: 4 HP / 252 Atk / 252 Spe
+IVs: 23 SpD
+Jolly Nature
+- Knock Off
+- Fake Out
+- Protect
+- Ice Punch
+
+Tapu Koko @ Choice Specs
+Ability: Electric Surge
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 25 Def
+Timid Nature
+- Thunderbolt
+- Dazzling Gleam
+- Grass Knot
+- Volt Switch
+
+Golisopod @ Assault Vest
+Ability: Emergency Exit
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+- Leech Life
+- Liquidation
+- Aqua Jet
+- First Impression
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 4 HP / 252 Atk / 252 Spe
+IVs: 18 SpD
+Adamant Nature
+- Return
+- Fake Out
+- Sucker Punch
+- Drain Punch
+
+
+VC6G-WWWW-WWWV-94FU
+Battle 272 (Loss) vs. Office Worker Savir [Druddigon-3, Escavalier-4, Magnezone-3, Bastiodon-3]
+
+Weavile @ Focus Sash
+Ability: Pressure
+EVs: 4 HP / 252 Atk / 252 Spe
+IVs: 23 SpD
+Jolly Nature
+- Fake Out
+- Knock Off
+- Ice Punch
+- Protect
+
+Tapu Koko @ Choice Specs
+Ability: Electric Surge
+EVs: 252 SpA / 252 Spe
+Timid Nature
+- Thunderbolt
+- Dazzling Gleam
+- Grass Knot
+- Volt Switch
+
+Landorus @ Life Orb
+Ability: Sheer Force
+EVs: 4 Atk / 252 SpA / 252 Spe
+IVs: 30 Def
+Naive Nature
+- Earth Power
+- Sludge Bomb
+- Hidden Power
+- Protect
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Fake Out
+- Double-Edge
+- Drain Punch
+- Sucker Punch
+
+PPNG-WWWW-WWWV-DYFP
+Battle 138 (Loss) vs. Gentleman Abel [Regirock-2, Tornadus-4, Electivire-4, Virizion-1]
+
+Ninetales @ Firium Z
+Ability: Drought
+EVs: 252 SpA / 4 SpD / 252 Spe
+Hasty Nature
+- Flamethrower
+- Protect
+- Sunny Day
+- Solar Beam
+
+Shiftry @ Focus Sash
+Ability: Chlorophyll
+EVs: 252 Atk / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 16 SpA / 11 SpD / 5 Spe
+Jolly Nature
+- Knock Off
+- Leaf Blade
+- Fake Out
+- Tailwind
+
+Chandelure @ Life Orb
+Ability: Flash Fire
+EVs: 252 HP / 252 SpA / 4 Spe
+Modest Nature
+- Flamethrower
+- Protect
+- Shadow Ball
+- Energy Ball
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 4 HP / 252 Atk / 252 Spe
+IVs: 18 SpD
+Adamant Nature
+- Return
+- Fake Out
+- Sucker Punch
+- Drain Punch
+
+CHEW-WWWW-WWWV-94NV
+Battle 36 vs. Ace Trainer Sylvia [Rotom-Heat-4, Blaziken-4, Lilligant-4, Darmanitan-4]
+
+4AWW-WWWW-WWWV-94MF
+Battle 25 vs. Pokémon Breeder Sheridan [Leafeon-3, Flareon-2, Medicham-3, Manectric-3]

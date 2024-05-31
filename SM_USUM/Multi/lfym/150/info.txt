@@ -1,0 +1,44 @@
+Truth
+Ultra Sun v1.2 Multi (with AI partner)
+
+Charizard @ Charizardite Y
+Ability: Blaze
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Flamethrower
+- Solar Beam
+- Ancient Power
+- Protect
+
+Garchomp @ Dragonium Z
+Ability: Sand Veil
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Outrage
+- Earthquake
+- Iron Head
+- Protect
+
+Pokémon Trainer Anabel
+
+Entei-3 @ Choice Scarf
+Ability: Pressure
+EVs: 252 SpA / 252 Spe
+Timid Nature
+- Eruption
+- Fire Blast
+- Extrasensory
+- Solar Beam
+
+Latios-2 @ White Herb
+Ability: Levitate
+EVs: 252 SpA / 252 Spe
+Timid Nature
+- Draco Meteor
+- Thunderbolt
+- Psychic
+- Protect
+
+
+9D9W-WWWW-WWXF-D26C
+Battle 151 (Loss) vs. Aether Foundation Luke [Gengar-4, Porygon2-4] & Hiker Vivek [Terrakion-1, Cresselia-4]

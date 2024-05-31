@@ -1,0 +1,40 @@
+Phil
+Y Singles
+
+Togekiss @ Lum Berry
+Ability: Serene Grace
+EVs: 252 HP / 252 SpA / 4 Spe
+Bold Nature
+- Yawn
+- Safeguard
+- Dazzling Gleam
+- Air Slash
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Power-Up Punch
+- Earthquake
+- Sucker Punch
+- Return
+
+Aegislash @ Leftovers
+Ability: Stance Change
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 31 HP / 31 Atk / 31 Def / 8 SpA / 26 SpD / 2 Spe
+Brave Nature
+- King's Shield
+- Swords Dance
+- Shadow Sneak
+- Sacred Sword
+
+
+FWGW-WWWW-WWW5-K9XT
+Battle 544 vs. Veteran Dorian [Tornadus-2, Entei-2, Zapdos-1]
+
+6CUW-WWWW-WWW5-K8VK
+Battle 526 vs. Veteran Jake [Zapdos-2, Entei-1, Regice-2]
+
+DKCW-WWWW-WWW5-K8RA
+Battle 390 vs. Veteran Isabella [Latios-1, Heatran-3, Moltres-1]

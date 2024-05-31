@@ -1,0 +1,44 @@
+Javier
+Y Multi (with AI partner)
+
+Charizard @ Charizardite Y
+Ability: Solar Power
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+- Fire Blast
+- Solar Beam
+- Dragon Pulse
+- Protect
+
+Garchomp @ Lum Berry
+Ability: Rough Skin
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Dragon Claw
+- Earthquake
+- Rock Slide
+- Swords Dance
+
+Friends List AI Partner
+
+Typhlosion-3 @ Choice Scarf
+Ability: Flash Fire
+EVs: 252 SpA / 252 Spe
+Modest Nature
+- Eruption
+- Focus Blast
+- Heat Wave
+- Extrasensory
+
+Feraligatr-3 @ Lum Berry
+Ability: Sheer Force
+EVs: 252 HP / 252 Atk
+Adamant Nature
+- Aqua Jet
+- Waterfall
+- Earthquake
+- Ice Punch
+
+
+2Y9W-WWWW-WWW7-K8TB
+Battle 169 vs. Psychic Haskell [Claydol-4, Medicham-4] & Punk Guy Puck [Salamence-2, Tauros-4]

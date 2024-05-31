@@ -1,0 +1,42 @@
+Iris
+Ultra Sun v1.2 Doubles
+
+Drifblim @ Psychic Seed
+Ability: Unburden
+EVs: 4 HP / 100 Def / 220 SpA / 36 SpD / 148 Spe
+Timid Nature
+- Shadow Ball
+- Tailwind
+- Memento
+- Rain Dance
+
+Tapu Lele @ Life Orb
+Ability: Psychic Surge
+EVs: 12 HP / 244 SpA / 252 Spe
+Modest Nature
+- Psychic
+- Moonblast
+- Taunt
+- Protect
+
+Metagross @ Metagrossite
+Ability: Clear Body
+EVs: 76 HP / 252 Atk / 180 Spe
+Adamant Nature
+- Iron Head
+- Thunder Punch
+- Stomping Tantrum
+- Protect
+
+Buzzwole @ Fightinium Z
+Ability: Beast Boost
+EVs: 12 HP / 252 Atk / 244 Spe
+Adamant Nature
+- Leech Life
+- Superpower
+- Ice Punch
+- Protect
+
+
+EQ8G-WWWW-WWX6-3L4P
+Battle 235 (Loss) vs. Hiker Stellan [Gastrodon-3, Oranguru-3, Hippowdon-2, Regirock-3]

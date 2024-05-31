@@ -1,0 +1,105 @@
+Eppie
+Omega Ruby Doubles
+
+Dusclops @ Eviolite
+Ability: Frisk
+EVs: 252 HP / 124 Def / 132 SpD
+IVs: 0 Spe
+Relaxed Nature
+- Trick Room
+- Foresight
+- Night Shade
+- Brick Break
+
+Aron @ Berry Juice
+Ability: Sturdy
+Level: 1
+Adamant Nature
+- Endeavor
+- Toxic
+- Swagger
+- Protect
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 0 Spe
+Brave Nature
+- Fake Out
+- Drain Punch
+- Double-Edge
+- Sucker Punch
+
+Conkeldurr @ Assault Vest
+Ability: Iron Fist
+EVs: 108 HP / 252 Atk / 4 Def / 144 SpD
+IVs: 0 Spe
+Brave Nature
+- Drain Punch
+- Knock Off
+- Ice Punch
+- Mach Punch
+
+
+JYBG-WWWW-WW53-DVJF
+Battle 4132 vs. Psychic Uberto [Trevenant-4, Gothitelle-4, Mr. Mime-4, Espeon-4]
+
+UEHW-WWWW-WWXS-YWR2
+Battle 4000 vs. Tourist Hartsfield [Zebstrika-4, Drifblim-4, Heracross-4, Crobat-4]
+
+V3PG-WWWW-WWXS-YWT2
+Battle 3950 vs. Veteran Stanislaw [Zapdos-2, Entei-1, Articuno-2, Latios-2]
+
+HL5W-WWWW-WWXS-YXX8
+Battle 3633 vs. Punk Girl Hadley [Arcanine-4, Shiftry-4, Honchkrow-4, Chandelure-4]
+
+UZHW-WWWW-WWXS-YXW8
+Battle 3619 vs. Chef Cobb [Carracosta-2, Glaceon-4, Vanilluxe-1, Walrein-4]
+
+Y2WG-WWWW-WWXS-YX3J
+Battle 3194 vs. Madame Inga [Aerodactyl-4, Weavile-4, Politoed-4, Walrein-4]
+
+RGXG-WWWW-WWXS-YX5Y
+Battle 2685 vs. Artist Wenge [Walrein-4, Tyranitar-4, Gengar-4, Bouffalant-4]
+
+Dusclops @ Eviolite
+Ability: Frisk
+EVs: 252 HP / 124 Def / 132 SpD
+IVs: 0 Spe
+Relaxed Nature
+- Trick Room
+- Foresight
+- Night Shade
+- Brick Break
+
+Aron @ Berry Juice
+Ability: Sturdy
+Level: 1
+Adamant Nature
+- Endeavor
+- Toxic
+- Swagger
+- Protect
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 0 Spe
+Brave Nature
+- Fake Out
+- Rock Slide
+- Double-Edge
+- Sucker Punch
+
+Conkeldurr @ Assault Vest
+Ability: Iron Fist
+EVs: 108 HP / 252 Atk / 4 Def / 144 SpD
+IVs: 0 Spe
+Brave Nature
+- Drain Punch
+- Knock Off
+- Ice Punch
+- Mach Punch
+
+AY5W-WWWW-WWWN-YNWH
+Battle 1012 vs. Garçon Porter [Walrein-4, Mandibuzz-4, Braviary-4, Starmie-4]

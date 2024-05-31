@@ -1,0 +1,60 @@
+Hervee
+Sun v1.1 Doubles
+
+Pheromosa @ Focus Sash
+Ability: Beast Boost
+EVs: 252 Atk / 4 SpA / 252 Spe
+IVs: 7 HP / 31 Atk / 9 Def / 31 SpA / 5 SpD / 31 Spe
+Naughty Nature
+- Protect
+- Low Kick
+- Lunge
+- Ice Beam
+
+Tapu Lele @ Choice Scarf
+Ability: Psychic Surge
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 30 Atk / 31 Def / 30 SpA / 31 SpD / 30 Spe
+Modest Nature
+- Psychic
+- Moonblast
+- Shadow Ball
+- Hidden Power
+
+Celesteela @ Lum Berry
+Ability: Beast Boost
+EVs: 252 HP / 4 Def / 252 SpD
+Careful Nature
+- Leech Seed
+- Protect
+- Heavy Slam
+- Wide Guard
+
+Tapu Fini @ Leftovers
+Ability: Misty Surge
+EVs: 252 HP / 252 Def / 4 Spe
+IVs: 29 HP
+Bold Nature
+- Scald
+- Moonblast
+- Calm Mind
+- Protect
+
+
+UHWW-WWWW-WWW4-EK3W
+Battle 244 (Loss) vs. Punk Guy Etta [Gyarados-3, Mawile-3, Tauros-3, Incineroar-4]
+
+4ETW-WWWW-WWW4-ESSC
+Battle 235 vs. Gentleman Abel [Raikou-2, Entei-4, Terrakion-3, Regigigas-3]
+
+FUWW-WWWW-WWW4-ESRG
+Battle 234 vs. Backpacker Fernanda [Terrakion-3, Articuno-3, Entei-4, Moltres-4]
+
+FQHW-WWWW-WWW4-ESL2
+Battle 229 vs. Scientist Cadel [Audino-4, Turtonator-4, Oranguru-3, Trevenant-4]
+
+347W-WWWW-WWW4-ESN8
+Battle 218 vs. Madame Donny [Moltres-2, Heatran-3, Zapdos-2, Uxie-1]
+
+V9SW-WWWW-WWW4-ESS3
+Battle 212 vs. Ace Trainer Levi [Emboar-4, Arcanine-3, Typhlosion-3, Volcarona-4]

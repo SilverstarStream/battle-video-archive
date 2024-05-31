@@ -1,0 +1,44 @@
+Jorm
+Sun v1.1 Doubles
+
+Pheromosa @ Focus Sash
+Ability: Beast Boost
+EVs: 252 Atk / 12 SpA / 244 Spe
+IVs: 9 HP / 31 Atk / 8 Def / 31 SpA / 9 SpD / 31 Spe
+Lonely Nature
+- Low Kick
+- Lunge
+- Ice Beam
+- Protect
+
+Tapu Lele @ Psychium Z
+Ability: Psychic Surge
+EVs: 252 HP / 180 Def / 4 SpA / 4 SpD / 68 Spe
+Modest Nature
+- Psychic
+- Moonblast
+- Substitute
+- Protect
+
+Salamence @ Salamencite
+Ability: Intimidate
+EVs: 252 Atk / 20 SpA / 236 Spe
+Naive Nature
+- Double-Edge
+- Hyper Voice
+- Earthquake
+- Protect
+
+Aegislash @ Leftovers
+Ability: Stance Change
+EVs: 252 HP / 220 SpA / 36 SpD
+IVs: 0 Spe
+Quiet Nature
+- Shadow Ball
+- Flash Cannon
+- Wide Guard
+- King's Shield
+
+
+WPXW-WWWW-WWW6-2Q36
+Battle 233 (Loss) vs. Youngster Napoleon [Tornadus-1, Zapdos-2, Regirock-1, Thundurus-1]

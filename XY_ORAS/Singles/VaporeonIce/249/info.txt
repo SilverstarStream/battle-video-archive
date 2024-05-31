@@ -1,0 +1,33 @@
+Phil
+Omega Ruby Singles
+
+Lopunny @ Lopunnite
+Ability: Klutz
+EVs: 20 HP / 252 Atk / 236 Spe
+Adamant Nature
+- Fake Out
+- Low Kick
+- Return
+- Substitute
+
+Gliscor @ Toxic Orb
+Ability: Poison Heal
+EVs: 212 HP / 68 Def / 4 SpD / 220 Spe
+Jolly Nature
+- Protect
+- Substitute
+- Toxic
+- Earthquake
+
+Quagsire @ Lum Berry
+Ability: Unaware
+EVs: 252 HP / 4 Def / 252 SpD
+Impish Nature
+- Waterfall
+- Amnesia
+- Curse
+- Rest
+
+
+9THG-WWWW-WW2X-CYL3
+Battle 250 vs. Pokémon Ranger Parker [Greninja-4, Wailord-4, Feraligatr-4]

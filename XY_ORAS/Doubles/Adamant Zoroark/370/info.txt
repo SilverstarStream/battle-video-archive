@@ -1,0 +1,45 @@
+Pat
+Omega Ruby Doubles
+
+Reuniclus @ Sitrus Berry
+Ability: Overcoat
+EVs: 252 HP / 212 Def / 44 SpD
+IVs: 0 Spe
+Sassy Nature
+- Psychic
+- Helping Hand
+- Shadow Ball
+- Trick Room
+
+Aron @ Berry Juice
+Ability: Sturdy
+Level: 1
+Gentle Nature
+- Tackle
+- Endeavor
+- Toxic
+- Protect
+
+Ampharos @ Ampharosite
+Ability: Static
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 0 Spe
+Quiet Nature
+- Dragon Pulse
+- Volt Switch
+- Protect
+- Thunderbolt
+
+Aegislash @ Air Balloon
+Ability: Stance Change
+EVs: 252 HP / 4 Atk / 252 SpA
+IVs: 0 Spe
+Quiet Nature
+- Shadow Ball
+- Sacred Sword
+- King's Shield
+- Flash Cannon
+
+
+J7WG-WWWW-WW3Q-6C9H
+Battle 371 vs. Artist Rose [Drapion-4, Volcarona-4, Blissey-4, Scizor-4]

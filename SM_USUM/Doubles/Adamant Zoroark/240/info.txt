@@ -1,0 +1,45 @@
+Eszett
+Ultra Sun v1.0 Doubles
+
+Dusclops @ Eviolite
+Ability: Pressure
+EVs: 252 HP / 4 Def / 252 SpD
+IVs: 30 Atk / 0 Spe
+Relaxed Nature
+- Night Shade
+- Brick Break
+- Pain Split
+- Trick Room
+
+Aron @ Berry Juice
+Ability: Sturdy
+Level: 1
+Bold Nature
+- Endeavor
+- Protect
+- Toxic
+- Iron Head
+
+Sylveon @ Choice Specs
+Ability: Pixilate
+EVs: 252 HP / 4 Def / 252 SpA
+IVs: 0 Spe
+Quiet Nature
+- Hyper Voice
+- Psyshock
+- Hidden Power
+- Swift
+
+Scrafty @ Darkinium Z
+Ability: Intimidate
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 0 Spe
+Brave Nature
+- Fake Out
+- Drain Punch
+- Throat Chop
+- Detect
+
+
+NEPW-WWWW-WWWA-E5DT
+Battle 241 (Loss) vs. Bellhop Gilroy [Toxicroak-4, Bisharp-4, Hawlucha-3, Rotom-Fan-4]

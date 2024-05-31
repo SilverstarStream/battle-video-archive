@@ -1,0 +1,70 @@
+Eppie
+Ultra Moon v1.2 Doubles
+
+Dusclops @ Eviolite
+Ability: Frisk
+EVs: 252 HP / 100 Def / 156 SpD
+IVs: 0 Spe
+Relaxed Nature
+- Trick Room
+- Foresight
+- Brick Break
+- Night Shade
+
+Togedemaru @ Berry Juice
+Ability: Sturdy
+Level: 1
+EVs: 100 SpD
+Brave Nature
+- Fake Out
+- Endeavor
+- Toxic
+- Spiky Shield
+
+Conkeldurr @ Assault Vest
+Ability: Iron Fist
+EVs: 108 HP / 252 Atk / 148 SpD
+IVs: 0 Spe
+Brave Nature
+- Drain Punch
+- Ice Punch
+- Mach Punch
+- Knock Off
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 0 Spe
+Brave Nature
+- Fake Out
+- Drain Punch
+- Double-Edge
+- Sucker Punch
+
+
+8GKW-WWWW-WWWY-5NBX
+Battle 1647 (Loss) vs. Dancer Jo [Salamence-4, Latios-2, Zapdos-2, Latias-1]
+
+32KG-WWWW-WWWH-SUZB
+Battle 1337 vs. Pokémon Breeder Colby [Slowking-4, Steelix-4, Slowbro-4, Escavalier-4]
+
+VAHG-WWWW-WWWH-M9SK
+Battle 1000 vs. Pokémon Trainer Dexio [Passimian-3, Slowbro-3, Espeon-3, Whimsicott-4]
+
+XTHW-WWWW-WWWH-M9S7
+Battle 958 vs. Punk Guy Dustin [Mawile-3, Staraptor-4, Scrafty-3, Tauros-3]
+
+RJVW-WWW-WWWH-M9RP
+Battle 954 vs. Veteran Xenophon [Virizion-1, Tsareena-4, Exeggutor-Alola-2, Breloom-4]
+
+C6WG-WWWW-WWWH-M9RF
+Battle 945 vs. Police Officer Rendor [Shiinotic-4, Mawile-4, Mimikyu-4, Umbreon-4]
+
+QAEW-WWWW-WWWH-M9QC
+Battle 864 vs. Office Worker Darrel [Dugtrio-2, Shiinotic-4, Blissey-4, Snorlax-4]
+
+763G-WWWW-WWWH-M9QN
+Battle 750 vs. Pokémon Trainer Kukui [Decidueye-4, Ninetales-Alola-1, Incineroar-4, Primarina-4]
+
+58NW-WWWW-WWWH-M9PP
+Battle 745 vs. Office Worker Jana [Ninetales-Alola-2, Mimikyu-3, Dugtrio-2, Vanilluxe-3]

@@ -1,0 +1,192 @@
+Othello
+Alpha Sapphire Triples
+
+Slowbro @ Rindo Berry
+Ability: Oblivious
+EVs: 252 HP / 52 Def / 204 SpD
+IVs: 0 Spe
+Sassy Nature
+- Trick Room
+- Heal Pulse
+- Scald
+- Sunny Day
+
+Aron @ Berry Juice
+Ability: Sturdy
+Level: 1
+Lonely Nature
+- Endeavor
+- Protect
+- Swagger
+- Sunny Day
+
+Camerupt @ Cameruptite
+Ability: Solid Rock
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 0 Spe
+Quiet Nature
+- Earth Power
+- Eruption
+- Solar Beam
+- Protect
+
+Machamp @ Assault Vest
+Ability: No Guard
+EVs: 156 HP / 252 Atk / 100 SpD
+IVs: 0 Spe
+Brave Nature
+- Dynamic Punch
+- Knock Off
+- Bullet Punch
+- Stone Edge
+
+Clawitzer @ Life Orb
+Ability: Mega Launcher
+EVs: 252 HP / 4 Def / 252 SpA
+IVs: 26 Def / 0 Spe
+Quiet Nature
+- Water Pulse
+- Aura Sphere
+- Dark Pulse
+- Ice Beam
+
+Cresselia @ Power Lens
+Ability: Levitate
+EVs: 252 HP / 180 Def / 76 SpD
+IVs: 31 HP / 27 Atk / 14 Def / 31 SpA / 31 SpD / 2 Spe
+Relaxed Nature
+- Trick Room
+- Moonblast
+- Psyshock
+- Moonlight
+
+
+WLXG-WWWW-WW55-6H5D
+Battle 1600 vs. Pokémon Breeder Lalaini [Feraligatr-2, Empoleon-2, Emboar-3, Charizard-1, Chesnaught-3, Blaziken-4]
+
+Slowbro @ Rindo Berry
+Ability: Oblivious
+EVs: 252 HP / 52 Def / 204 SpD
+IVs: 0 Spe
+Sassy Nature
+- Trick Room
+- Heal Pulse
+- Scald
+- Sunny Day
+
+Aron @ Berry Juice
+Ability: Sturdy
+Level: 1
+Lonely Nature
+- Endeavor
+- Protect
+- Swagger
+- Sunny Day
+
+Camerupt @ Cameruptite
+Ability: Solid Rock
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 0 Spe
+Quiet Nature
+- Earth Power
+- Eruption
+- Solar Beam
+- Protect
+
+Clawitzer @ Life Orb
+Ability: Mega Launcher
+EVs: 252 HP / 4 Def / 252 SpA
+IVs: 26 Def / 0 Spe
+Quiet Nature
+- Water Pulse
+- Aura Sphere
+- Dark Pulse
+- Ice Beam
+
+Machamp @ Assault Vest
+Ability: No Guard
+EVs: 156 HP / 252 Atk / 100 SpD
+IVs: 0 Spe
+Brave Nature
+- Dynamic Punch
+- Knock Off
+- Bullet Punch
+- Stone Edge
+
+Cresselia @ Leftovers
+Ability: Levitate
+EVs: 252 HP / 180 Def / 76 SpD
+IVs: 31 HP / 27 Atk / 14 Def / 31 SpA / 31 SpD / 2 Spe
+Relaxed Nature
+- Trick Room
+- Moonblast
+- Psyshock
+- Moonlight
+
+7NZW-WWWW-WW4K-QZE6
+Battle 1000 vs. Veteran Sibyl [Regigigas-2, Latios-2, Entei-2, Articuno-1, Cresselia-2, Suicune-2]
+
+Slowbro @ Rindo Berry
+Ability: Oblivious
+EVs: 252 HP / 52 Def / 204 SpD
+IVs: 0 Spe
+Sassy Nature
+- Trick Room
+- Heal Pulse
+- Scald
+- Sunny Day
+
+Aron @ Berry Juice
+Ability: Sturdy
+Level: 1
+Lonely Nature
+- Endeavor
+- Protect
+- Toxic
+- Sunny Day
+
+Camerupt @ Cameruptite
+Ability: Solid Rock
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 0 Spe
+Quiet Nature
+- Earth Power
+- Eruption
+- Solar Beam
+- Protect
+
+Clawitzer @ Life Orb
+Ability: Mega Launcher
+EVs: 252 HP / 4 Def / 252 SpA
+IVs: 26 Def / 0 Spe
+Quiet Nature
+- Water Pulse
+- Aura Sphere
+- Dark Pulse
+- Ice Beam
+
+Machamp @ Assault Vest
+Ability: No Guard
+EVs: 156 HP / 252 Atk / 100 SpD
+IVs: 0 Spe
+Brave Nature
+- Dynamic Punch
+- Knock Off
+- Bullet Punch
+- Stone Edge
+
+Cresselia @ Leftovers
+Ability: Levitate
+EVs: 252 HP / 180 Def / 76 SpD
+IVs: 31 HP / 27 Atk / 14 Def / 31 SpA / 31 SpD / 2 Spe
+Relaxed Nature
+- Trick Room
+- Moonblast
+- Psyshock
+- Moonlight
+
+FS8W-WWWW-WW4K-QZ9Y
+Battle 742 vs. Monsieur Kirill [Probopass-4, Dusknoir-4, Escavalier-4, Yanmega-4, Ninetales-4, Tyranitar-4]
+
+TTHG-WWWW-WW4K-QZ89
+Battle 639 vs. Hiker Choss [Claydol-4, Donphan-4, Mamoswine-4, Aggron-4, Heracross-4, Steelix-4]

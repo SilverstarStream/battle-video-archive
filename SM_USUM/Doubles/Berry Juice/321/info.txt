@@ -1,0 +1,43 @@
+Rhea
+Moon v1.1 Doubles
+
+Tapu Lele @ Choice Scarf
+Ability: Psychic Surge
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Psychic
+- Psyshock
+- Moonblast
+- Thunderbolt
+
+Pheromosa @ Focus Sash
+Ability: Beast Boost
+EVs: 252 Atk / 4 SpA / 252 Spe
+Naive Nature
+- Lunge
+- Low Kick
+- Ice Beam
+- Protect
+
+Salamence @ Salamencite
+Ability: Intimidate
+EVs: 44 HP / 228 Atk / 4 Def / 12 SpD / 220 Spe
+Jolly Nature
+- Dragon Claw
+- Return
+- Brick Break
+- Protect
+
+Aegislash @ Ghostium Z
+Ability: Stance Change
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 17 Spe
+Modest Nature
+- King's Shield
+- Shadow Ball
+- Flash Cannon
+- Wide Guard
+
+
+K2NG-WWWW-WWW4-PHMS
+Battle 322 (Loss) vs. Preschooler Victor [Heatran-4, Latios-3, Metagross-3, Tyranitar-3]

@@ -1,0 +1,50 @@
+I
+Omega Ruby Doubles
+
+Raikou @ Choice Specs
+Ability: Pressure
+EVs: 28 HP / 4 Def / 248 SpA / 228 Spe
+IVs: 31 HP / 14 Atk / 31 Def / 30 SpA / 30 SpD / 31 Spe
+Timid Nature
+- Thunderbolt
+- Hidden Power
+- Volt Switch
+- Shadow Ball
+
+Greninja @ Focus Sash
+Ability: Protean
+EVs: 4 HP / 4 Def / 252 SpA / 4 SpD / 244 Spe
+Timid Nature
+- Ice Beam
+- Grass Knot
+- Dark Pulse
+- Mat Block
+
+Salamence @ Salamencite
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 4 Def / 4 SpD / 244 Spe
+Jolly Nature
+- Return
+- Earthquake
+- Dragon Dance
+- Protect
+
+Aegislash @ Leftovers
+Ability: Stance Change
+EVs: 252 HP / 220 SpA / 36 SpD
+IVs: 0 Spe
+Quiet Nature
+- King's Shield
+- Wide Guard
+- Shadow Ball
+- Flash Cannon
+
+
+HPMG-WWWW-WW2L-AZQK
+Battle 1468 vs. Veteran Sibyl [Regigigas-2, Landorus-2, Raikou-1, Latias-1]
+
+ZH6G-WWWW-WW2Z-28HK
+Battle 1227 vs. Ace Trainer Bunny [Ferrothorn-2, Umbreon-3, Tentacruel-3, Dusknoir-2]
+
+NB3G-WWWW-WW2Z-29T3
+Battle 856 vs. Veteran Hera [Terrakion-1, Raikou-2, Latias-1, Articuno-1]

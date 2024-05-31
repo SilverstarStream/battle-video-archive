@@ -1,0 +1,58 @@
+Cannibal
+Sun v1.2 Multi (with Human partner)
+
+Salamence @ Salamencite
+Ability: Intimidate
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Hyper Voice
+- Protect
+- Roost
+- Flamethrower
+
+Ferrothorn @ Leftovers
+Ability: Iron Barbs
+EVs: 252 HP / 4 Atk / 252 Def
+IVs: 0 Spe
+Relaxed Nature
+- Gyro Ball
+- Protect
+- Leech Seed
+- Power Whip
+
+Eric
+Sun v1.2
+
+Metagross @ Metagrossite
+Ability: Clear Body
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Iron Head
+- Protect
+- Ice Punch
+- Zen Headbutt
+
+Tapu Fini @ Waterium Z
+Ability: Misty Surge
+EVs: 252 HP / 196 SpA / 60 Spe
+Modest Nature
+- Muddy Water
+- Protect
+- Soak
+- Moonblast
+
+
+BYHG-WWWW-WWW7-BKS4
+Battle 104 (Loss) vs. Madame Gracie [Mesprit-3, Heatran-1] & Veteran Demiathena [Latios-3, Zapdos-4]
+
+VS3W-WWWW-WWW7-BKSQ
+Battle 103 vs. Ace Trainer Raz [Greninja-4, Jolteon-3] & Youngster Brady [Articuno-1, Heatran-1]
+
+C4BG-WWWW-WWW7-BKSK
+Battle 102 vs. Pokémon Breeder Lori [Bastiodon-4, Aromatisse-4] & Aether Foundation Heidi [Garchomp-4, Blissey-4]
+
+SDZG-WWWW-WWW7-BL3F
+Battle 83 vs. Punk Guy Dustin [Mawile-4, Staraptor-4] & Veteran Aino [Rotom-Wash-4, Gardevoir-4]
+
+PTPW-WWWW-WWW7-BL3J
+Battle 78 vs. Ace Trainer Raz [Noivern-3, Alakazam-3] & Sightseer Ezra [Drampa-3, Heatran-4]

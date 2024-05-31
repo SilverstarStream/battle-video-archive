@@ -1,0 +1,135 @@
+Jacob
+Y Triples
+
+Talonflame @ Sky Plate
+Ability: Gale Wings
+EVs: 4 HP / 252 Atk / 252 Spe
+IVs: 10 Spe
+Adamant Nature
+- Tailwind
+- Protect
+- Brave Bird
+- Flare Blitz
+
+Blastoise @ Blastoisinite
+Ability: Torrent
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Water Spout
+- Aura Sphere
+- Ice Beam
+- Protect
+
+Greninja @ Focus Sash
+Ability: Protean
+EVs: 12 Atk / 244 SpA / 252 Spe
+IVs: 0 HP / 21 Atk / 11 Def / 31 SpA / 6 SpD / 31 Spe
+Timid Nature
+- Mat Block
+- Dark Pulse
+- Ice Beam
+- Grass Knot
+
+Rotom-Wash @ Wide Lens
+Ability: Levitate
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Thunderbolt
+- Dark Pulse
+- Hydro Pump
+- Protect
+
+Garchomp @ Life Orb
+Ability: Sand Veil
+EVs: 4 HP / 252 Atk / 252 Spe
+IVs: 29 Spe
+Jolly Nature
+- Earthquake
+- Dragon Claw
+- Iron Head
+- Protect
+
+Heracross @ Choice Scarf
+Ability: Guts
+EVs: 4 HP / 252 Atk / 252 Spe
+IVs: 30 SpD
+Adamant Nature
+- Close Combat
+- Megahorn
+- Shadow Claw
+- Rock Slide
+
+
+DTBG-WWWW-WWW7-KA9U
+Battle 1023 vs. Worker Rasmus [Garchomp-1, Aurorus-2, Gliscor-1, Dugtrio-2, Carbink-2, Tyranitar-4]
+
+WZ7W-WWWW-WWW7-H9ZU
+Battle 1000 vs. Beauty Claire [Kingdra-2, Aurorus-4, Seismitoad-3, Ludicolo-1, Floatzel-1, Aromatisse-3]
+
+H6KW-WWWW-WWW7-H9ZS
+Battle 836 vs. Roller Skater Aurora [Manectric-3, Jolteon-3, Gliscor-4, Eelektross-3, Electrode-4, Talonflame-4]
+
+FL5G-WWWW-WWW7-H9MT
+Battle 626 vs. Punk Guy Deimos [Arcanine-4, Shiftry-4, Darmanitan-4, Scrafty-4, Venusaur-4, Toxicroak-4]
+
+N99G-WWWW-WWW7-H9MQ
+Battle 585 vs. Scientist Rosalind [Manectric-4, Lanturn-4, Aerodactyl-4, Electivire-4, Magnezone-4, Eelektross-4]
+
+Talonflame @ Sky Plate
+Ability: Gale Wings
+EVs: 4 HP / 252 Atk / 252 Spe
+IVs: 10 Spe
+Adamant Nature
+- Tailwind
+- Protect
+- Brave Bird
+- Flare Blitz
+
+Blastoise @ Blastoisinite
+Ability: Torrent
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Water Spout
+- Aura Sphere
+- Ice Beam
+- Protect
+
+Greninja @ Focus Sash
+Ability: Protean
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Mat Block
+- Dark Pulse
+- Ice Beam
+- Grass Knot
+
+Rotom-Wash @ Wide Lens
+Ability: Levitate
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Thunderbolt
+- Dark Pulse
+- Hydro Pump
+- Protect
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Earthquake
+- Dragon Claw
+- Iron Head
+- Protect
+
+Heracross @ Choice Scarf
+Ability: Guts
+EVs: 4 HP / 252 Atk / 252 Spe
+IVs: 30 SpD
+Adamant Nature
+- Close Combat
+- Megahorn
+- Earthquake
+- Rock Slide
+
+ZWHG-WWWW-WWW6-MDFG
+Battle 141 vs. Veteran Jake [Articuno-1, Regice-2, Zapdos-2, Moltres-2, Suicune-2, Thundurus-2]

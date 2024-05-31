@@ -1,0 +1,46 @@
+Greg
+Ultra Moon v1.2 Doubles
+
+Pheromosa @ Focus Sash
+Ability: Beast Boost
+EVs: 252 Atk / 12 SpA / 244 Spe
+Naughty Nature
+- Lunge
+- Low Kick
+- Ice Beam
+- Protect
+
+Tapu Lele @ Psychium Z
+Ability: Psychic Surge
+EVs: 12 HP / 4 Def / 236 SpA / 4 SpD / 252 Spe
+Modest Nature
+- Psychic
+- Moonblast
+- Taunt
+- Protect
+
+Alakazam @ Alakazite
+Ability: Magic Guard
+EVs: 8 HP / 248 SpA / 252 Spe
+IVs: 30 Atk / 18 Def
+Timid Nature
+- Psychic
+- Shadow Ball
+- Dazzling Gleam
+- Protect
+
+Celesteela @ Psychic Seed
+Ability: Beast Boost
+EVs: 20 HP / 228 Atk / 4 Def / 12 SpD / 244 Spe
+Adamant Nature
+- Acrobatics
+- Earthquake
+- Heavy Slam
+- Protect
+
+
+7HWG-WWWW-WWXF-5EWK
+Battle 204 (Loss) vs. Black Belt Bryson [Sceptile-4, Typhlosion-3, Mamoswine-3, Greninja-4]
+
+UGQW-WWWW-WWXF-5EWN
+Battle 159 vs. Sightseer Ezra [Volcarona-3, Vikavolt-4, Heatran-1, Porygon-Z-4]

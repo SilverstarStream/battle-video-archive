@@ -1,0 +1,42 @@
+Tobias
+Ultra Moon v1.2 Doubles
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 244 HP / 164 Atk / 56 SpD / 44 Spe
+Jolly Nature
+- Sucker Punch
+- Fake Out
+- Seismic Toss
+- Double-Edge
+
+Kartana @ Focus Sash
+Ability: Beast Boost
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Leaf Blade
+- Tailwind
+- Protect
+- Sacred Sword
+
+Sylveon @ Choice Specs
+Ability: Pixilate
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Swift
+- Hyper Voice
+- Psyshock
+- Shadow Ball
+
+Kommo-o @ Kommonium Z
+Ability: Bulletproof
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Close Combat
+- Clanging Scales
+- Flamethrower
+- Protect
+
+
+SC5W-WWWW-WWXE-N4UA
+Battle 534 (Loss) vs. Hiker Stellan [Dugtrio-2, Gigalith-3, Trevenant-4, Steelix-4]

@@ -1,0 +1,51 @@
+Jay
+Ultra Sun v1.2 Doubles
+
+Mawile @ Mawilite
+Ability: Intimidate
+EVs: 252 HP / 180 Atk / 76 Def
+Adamant Nature
+- Iron Head
+- Play Rough
+- Sucker Punch
+- Protect
+
+Weavile @ Focus Sash
+Ability: Pressure
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Fake Out
+- Knock Off
+- Ice Punch
+- Protect
+
+Tapu Fini @ Leftovers
+Ability: Misty Surge
+EVs: 244 HP / 12 Def / 188 SpA / 52 SpD / 12 Spe
+Modest Nature
+- Moonblast
+- Scald
+- Ice Beam
+- Protect
+
+Landorus @ Life Orb
+Ability: Sheer Force
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Earth Power
+- Sludge Bomb
+- Psychic
+- Protect
+
+
+XDAG-WWWW-WWWE-MPF3
+Battle 257 (Loss) vs. Ace Trainer Raz [Ribombee-4, Greninja-4, Talonflame-4, Sceptile-4]
+
+LCVG-WWWW-WWWE-MTJH
+Battle 230 vs. Pokémon Trainer Cynthia [Lucario-3, Togekiss-3, Garchomp-4, Milotic-4]
+
+MRCG-WWWW-WWWE-MTU9
+Battle 205 vs. Rising Star Dolly [Armaldo-4, Swampert-3, Ludicolo-3, Kingdra-4]
+
+8XQG-WWWW-WWWE-MU3U
+Battle 121 vs. Veteran Demiathena [Thundurus-4, Azelf-3, Zapdos-3, Virizion-4]

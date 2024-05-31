@@ -1,0 +1,33 @@
+Amber
+Sun v1.2 Singles
+
+Garchomp @ Dragonium Z
+Ability: Rough Skin
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Substitute
+- Outrage
+- Earthquake
+- Swords Dance
+
+Scizor @ Scizorite
+Ability: Technician
+EVs: 252 HP / 4 Atk / 252 SpD
+Adamant Nature
+- Swords Dance
+- Roost
+- Brutal Swing
+- Bullet Punch
+
+Tapu Fini @ Choice Specs
+Ability: Misty Surge
+EVs: 252 HP / 252 SpA / 4 Spe
+Timid Nature
+- Moonblast
+- Surf
+- Grass Knot
+- Confide
+
+
+JHAG-WWWW-WWW7-UFUJ
+Battle 508 (Loss) vs. Youth Athlete Thamina [Starmie-4, Raikou-4, Salazzle-3]

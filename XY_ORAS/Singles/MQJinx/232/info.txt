@@ -1,0 +1,35 @@
+Rikka
+Alpha Sapphire Singles
+
+Garchomp @ Focus Sash
+Ability: Rough Skin
+EVs: 4 HP / 252 Atk / 252 Spe
+IVs: 17 SpD
+Naive Nature
+- Earthquake
+- Outrage
+- Rock Tomb
+- Fire Blast
+
+Aegislash @ Weakness Policy
+Ability: Stance Change
+EVs: 252 HP / 100 SpA / 156 SpD
+IVs: 30 Def / 0 Spe
+Quiet Nature
+- Shadow Sneak
+- King's Shield
+- Shadow Ball
+- Sacred Sword
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Power-Up Punch
+- Return
+- Sucker Punch
+- Earthquake
+
+
+3JNG-WWWW-WW2F-KUBA
+Battle 233 vs. Black Belt Sebastian [Toxicroak-4, Poliwrath-4, Volcarona-4]

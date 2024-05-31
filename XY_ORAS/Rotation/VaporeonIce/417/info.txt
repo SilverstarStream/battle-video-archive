@@ -1,0 +1,44 @@
+Phil
+Y Rotation
+
+Chansey @ Eviolite
+Ability: Natural Cure
+EVs: 252 HP / 252 Def / 4 Spe
+IVs: 27 SpD
+Bold Nature
+- Toxic
+- Soft-Boiled
+- Aromatherapy
+- Seismic Toss
+
+Venusaur @ Venusaurite
+Ability: Overgrow
+EVs: 252 HP / 252 SpA / 4 Spe
+IVs: 28 SpD
+Modest Nature
+- Synthesis
+- Earthquake
+- Sludge Bomb
+- Giga Drain
+
+Cloyster @ Focus Sash
+Ability: Skill Link
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Shell Smash
+- Icicle Spear
+- Razor Shell
+- Rock Blast
+
+Gliscor @ Toxic Orb
+Ability: Poison Heal
+EVs: 212 HP / 44 Atk / 252 Spe
+Jolly Nature
+- Protect
+- Substitute
+- Toxic
+- Earthquake
+
+
+JPNG-WWWW-WWW6-LM49
+Battle 418 vs. Veteran Stanislaw [Virizion-1, Registeel-1, Articuno-1, Latios-2]

@@ -1,0 +1,48 @@
+P
+X Multi (with AI partner)
+
+Garchomp @ Choice Scarf
+Ability: Rough Skin
+EVs: 4 HP / 252 Atk / 252 Spe
+IVs: 29 Spe
+Adamant Nature
+- Poison Jab
+- Outrage
+- Earthquake
+- Fire Fang
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Return
+- Sucker Punch
+- Shadow Claw
+- Brick Break
+
+Friends List AI Partner
+
+Latias-3 @ Choice Specs
+Ability: Levitate
+EVs: 252 SpA / 252 Spe
+Timid Nature
+- Draco Meteor
+- Thunderbolt
+- Psychic
+- Trick
+
+Bouffalant-3 @ Sitrus Berry
+Ability: Reckless
+EVs: 252 HP / 252 Atk
+Adamant Nature
+- Swords Dance
+- Earthquake
+- Head Charge
+- Payback
+
+
+56HW-WWWW-WWW8-QZD4
+Battle 70 vs. Veteran Hera [Zapdos-2, Thundurus-2] & Hex Maniac Mara [Cofagrigus-3, Avalugg-4]
+
+2KCG-WWWW-WWW8-QZC5
+Battle 59 vs. Chef Andrei [Abomasnow-3, Beartic-1] & Pokémon Breeder Josiane [Mismagius-4, Vanilluxe-4]

@@ -1,0 +1,86 @@
+Cannibal
+Alpha Sapphire Rotation
+
+Sylveon @ Leftovers
+Ability: Pixilate
+EVs: 244 HP / 252 Def / 12 Spe
+Bold Nature
+- Heal Bell
+- Protect
+- Hyper Voice
+- Wish
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Earthquake
+- Protect
+- Return
+- Power-Up Punch
+
+Gengar @ Focus Sash
+Ability: Levitate
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Shadow Ball
+- Thunderbolt
+- Psychic
+- Destiny Bond
+
+Dragonite @ Lum Berry
+Ability: Multiscale
+EVs: 4 HP / 252 Atk / 252 Spe
+IVs: 30 SpA
+Adamant Nature
+- Dragon Dance
+- Earthquake
+- Fire Punch
+- Outrage
+
+
+9JGW-WWWW-WW3M-Z573
+Battle 400 vs. Worker Ivan [Tyranitar-4, Armaldo-4, Nidoqueen-4, Escavalier-4]
+
+93BG-WWWW-WW3M-YVAA
+Battle 336 vs. Veteran Alfie [Zapdos-4, Regirock-3, Entei-4, Cobalion-3]
+
+Sylveon @ Leftovers
+Ability: Pixilate
+EVs: 244 HP / 252 Def / 12 Spe
+Bold Nature
+- Heal Bell
+- Protect
+- Hyper Voice
+- Wish
+
+Gengar @ Focus Sash
+Ability: Levitate
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Shadow Ball
+- Thunderbolt
+- Psychic
+- Destiny Bond
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Earthquake
+- Protect
+- Return
+- Power-Up Punch
+
+Dragonite @ Lum Berry
+Ability: Multiscale
+EVs: 4 HP / 252 Atk / 252 Spe
+IVs: 30 SpA
+Adamant Nature
+- Dragon Dance
+- Earthquake
+- Fire Punch
+- Outrage
+
+UZDW-WWWW-WW3F-JL7Z
+Battle 243 vs. Veteran Isabella [Virizion-3, Terrakion-2, Heatran-1, Entei-2]

@@ -1,0 +1,75 @@
+Amelia
+Ultra Moon v1.2 Singles
+
+Persian-Alola @ Leftovers
+Ability: Fur Coat
+EVs: 100 HP / 160 Def / 4 SpD / 244 Spe
+Jolly Nature
+- Fake Out
+- Taunt
+- Foul Play
+- Parting Shot
+
+Toxapex @ Black Sludge
+Ability: Regenerator
+EVs: 252 HP / 68 Def / 188 SpD
+Bold Nature
+- Toxic
+- Recover
+- Scald
+- Protect
+
+Gliscor @ Toxic Orb
+Ability: Poison Heal
+EVs: 244 HP / 212 Atk / 28 Def / 16 SpD / 8 Spe
+Careful Nature
+- Protect
+- Fire Fang
+- Earthquake
+- Substitute
+
+
+22NG-WWWW-WWX8-GWX7
+Battle 281 (Loss) vs. Madame Donny [Uxie-4, Latias-1, Moltres-2]
+
+D7CG-WWWW-WWX8-GW35
+Battle 272 vs. Veteran Dooley [Salamence-4, Kangaskhan-4, Tyranitar-3]
+
+B4WW-WWWW-WWX8-G39P
+Battle 259 vs. Sightseer Chen [Conkeldurr-4, Darmanitan-4, Haxorus-3]
+
+Y9TW-WWWW-WWX8-GW23
+Battle 106 vs. Veteran Placido [Moltres-2, Azelf-1, Latias-1]
+
+Persian-Alola @ Leftovers
+Ability: Fur Coat
+EVs: 100 HP / 160 Def / 4 SpD / 244 Spe
+Jolly Nature
+- Fake Out
+- Taunt
+- Foul Play
+- Parting Shot
+
+Gliscor @ Toxic Orb
+Ability: Poison Heal
+EVs: 244 HP / 212 Atk / 28 Def / 16 SpD / 8 Spe
+Careful Nature
+- Protect
+- Fire Fang
+- Earthquake
+- Substitute
+
+Toxapex @ Black Sludge
+Ability: Regenerator
+EVs: 252 HP / 68 Def / 188 SpD
+Bold Nature
+- Toxic
+- Recover
+- Scald
+- Protect
+
+92RG-WWWW-WWX8-G39L
+Battle 82 vs. Cook Larry [Glaceon-3, Glalie-3, Lanturn-3]
+
+UVBW-WWWW-WWX8-G3AX
+Battle 77 vs. Black Belt Iniko [Bouffalant-4, Spiritomb-4, Mamoswine-2]

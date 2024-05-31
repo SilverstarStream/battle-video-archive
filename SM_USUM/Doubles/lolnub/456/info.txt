@@ -1,0 +1,83 @@
+Lolnub
+Ultra Sun v1.2 Doubles
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+EVs: 252 Atk / 252 Spe
+IVs: 0 HP / 0 Def / 0 SpD
+Adamant Nature
+- Tailwind
+- Knock Off
+- Seed Bomb
+- Endeavor
+
+Tapu Lele @ Life Orb
+Ability: Psychic Surge
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Psychic
+- Moonblast
+- Shadow Ball
+- Protect
+
+Celesteela @ Psychic Seed
+Ability: Beast Boost
+EVs: 84 HP / 252 Atk / 4 Def / 12 SpD / 156 Spe
+Adamant Nature
+- Heavy Slam
+- Acrobatics
+- Earthquake
+- Protect
+
+Kommo-o @ Kommonium Z
+Ability: Bulletproof
+EVs: 4 Atk / 252 SpA / 252 Spe
+Rash Nature
+- Clanging Scales
+- Close Combat
+- Flamethrower
+- Protect
+
+
+3ZPG-WWWW-WWWK-SMT5
+Battle 457 (Loss) vs. Veteran Kikujiro [Manectric-4, Togedemaru-2, Electivire-4, Raichu-Alola-2]
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+EVs: 252 Atk / 252 Spe
+IVs: 0 HP / 0 Def / 0 SpD
+Adamant Nature
+- Tailwind
+- Knock Off
+- Seed Bomb
+- Endeavor
+
+Tapu Lele @ Life Orb
+Ability: Psychic Surge
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Psychic
+- Moonblast
+- Shadow Ball
+- Protect
+
+Kommo-o @ Kommonium Z
+Ability: Bulletproof
+EVs: 4 Atk / 252 SpA / 252 Spe
+Rash Nature
+- Clanging Scales
+- Close Combat
+- Flamethrower
+- Protect
+
+Celesteela @ Psychic Seed
+Ability: Beast Boost
+EVs: 84 HP / 252 Atk / 4 Def / 12 SpD / 156 Spe
+Adamant Nature
+- Heavy Slam
+- Acrobatics
+- Earthquake
+- Protect
+
+KD6W-WWWW-WWWK-SMTJ
+Battle 284 vs. Lass Samantha [Suicune-4, Thundurus-4, Zapdos-3, Uxie-3]

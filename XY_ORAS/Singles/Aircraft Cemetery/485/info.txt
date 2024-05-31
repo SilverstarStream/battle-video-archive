@@ -1,0 +1,33 @@
+Nizer
+Y Singles
+
+Scizor @ Scizorite
+Ability: Technician
+EVs: 248 HP / 252 Atk / 8 SpD
+Adamant Nature
+- Bug Bite
+- Swords Dance
+- Bullet Punch
+- Superpower
+
+Garchomp @ Lum Berry
+Ability: Rough Skin
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Outrage
+- Earthquake
+- Substitute
+- Swords Dance
+
+Azumarill @ Wide Lens
+Ability: Huge Power
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+- Aqua Jet
+- Play Rough
+- Superpower
+- Waterfall
+
+
+WFJG-WWWW-WWW7-26YW
+Battle 486 vs. Artist Wenge [Braviary-4, Garchomp-4, Starmie-4]

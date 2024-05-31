@@ -1,0 +1,33 @@
+Lolnub
+Y Singles
+
+Durant @ Choice Scarf
+Ability: Truant
+EVs: 252 HP / 4 Atk / 252 Spe
+Jolly Nature
+- X-Scissor
+- Iron Head
+- Protect
+- Entrainment
+
+Gyarados @ Gyaradosite
+Ability: Intimidate
+EVs: 16 HP / 252 Atk / 20 Def / 4 SpA / 4 SpD / 212 Spe
+Adamant Nature
+- Waterfall
+- Substitute
+- Protect
+- Dragon Dance
+
+Garchomp @ Choice Band
+Ability: Rough Skin
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Earthquake
+- Outrage
+- Fire Fang
+- Dragon Claw
+
+
+WFJG-WWWW-WWW2-TVFK
+Battle 315 vs. Butler Noah [Glaceon-4, Ursaring-4, Excadrill-4]

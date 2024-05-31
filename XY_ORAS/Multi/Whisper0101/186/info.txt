@@ -1,0 +1,44 @@
+Whisper
+Alpha Sapphire Multi (with AI partner)
+
+Greninja @ Focus Sash
+Ability: Protean
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Mat Block
+- Dark Pulse
+- Grass Knot
+- Ice Beam
+
+Garchomp @ Lum Berry
+Ability: Rough Skin
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Dragon Claw
+- Earthquake
+- Rock Slide
+- Swords Dance
+
+Pokémon Trainer Steven
+
+Metagross @ Metagrossite
+Ability: Clear Body
+EVs: 252 Atk / 252 Def
+Adamant Nature
+- Meteor Mash
+- Bullet Punch
+- Zen Headbutt
+- Hammer Arm
+
+Aerodactyl @ Focus Sash
+Ability: Rock Head
+EVs: 252 Atk / 252 Spe
+Jolly Nature
+- Rock Slide
+- Ice Fang
+- Thunder Fang
+- Fire Fang
+
+
+RBNG-WWWW-WWWG-G5B2
+Battle 187 vs. Tourist Hartsfield [Donphan-4, Umbreon-4] & Maid Clara [Machamp-4, Milotic-4]

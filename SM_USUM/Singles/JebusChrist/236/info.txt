@@ -1,0 +1,34 @@
+Jebus
+Sun v1.1 Singles
+
+Porygon-Z @ Normalium Z
+Ability: Adaptability
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Thunderbolt
+- Ice Beam
+- Nasty Plot
+- Conversion
+
+Gyarados @ Gyaradosite
+Ability: Intimidate
+EVs: 88 HP / 192 Atk / 4 Def / 224 Spe
+Adamant Nature
+- Waterfall
+- Earthquake
+- Dragon Dance
+- Crunch
+
+Kartana @ Focus Sash
+Ability: Beast Boost
+EVs: 4 HP / 252 Atk / 252 Spe
+IVs: 2 HP / 31 Atk / 31 Def / 6 SpA / 16 SpD / 31 Spe
+Jolly Nature
+- Leaf Blade
+- Sacred Sword
+- Smart Strike
+- Swords Dance
+
+
+4GXG-WWWW-WWW4-S6QL
+Battle 237 (Loss) vs. Veteran Dooley [Kangaskhan-3, Garchomp-3, Dragonite-3]

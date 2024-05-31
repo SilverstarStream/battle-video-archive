@@ -1,0 +1,43 @@
+Wally
+X Rotation
+
+Gyarados @ Gyaradosite
+Ability: Intimidate
+EVs: 252 HP / 76 Atk / 68 Def / 44 SpD / 68 Spe
+Adamant Nature
+- Waterfall
+- Dragon Dance
+- Rest
+- Sleep Talk
+
+Ferrothorn @ Wide Lens
+Ability: Iron Barbs
+EVs: 252 HP / 116 Def / 140 SpD
+IVs: 0 Spe
+Sassy Nature
+- Leech Seed
+- Protect
+- Power Whip
+- Gyro Ball
+
+Volcarona @ Leftovers
+Ability: Flame Body
+EVs: 212 HP / 84 Def / 48 SpA / 164 Spe
+Modest Nature
+- Substitute
+- Quiver Dance
+- Fiery Dance
+- Bug Buzz
+
+Gliscor @ Toxic Orb
+Ability: Poison Heal
+EVs: 208 HP / 56 Def / 244 Spe
+Impish Nature
+- Substitute
+- Toxic
+- Protect
+- Earthquake
+
+
+PL8W-WWWW-WWW4-QYBU
+Battle 392 vs. Chef Niçoise [Lapras-4, Tangrowth-4, Delphox-4, Slowking-4]

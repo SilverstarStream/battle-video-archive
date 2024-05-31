@@ -1,0 +1,45 @@
+Magus
+X Singles
+
+Dragonite @ Lum Berry
+Ability: Multiscale
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Dragon Dance
+- Outrage
+- Earthquake
+- Roost
+
+Suicune @ Leftovers
+Ability: Pressure
+EVs: 204 HP / 252 Def / 52 Spe
+Bold Nature
+- Calm Mind
+- Scald
+- Rest
+- Icy Wind
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 12 HP / 252 Atk / 4 Def / 12 SpD / 228 Spe
+Adamant Nature
+- Fake Out
+- Earthquake
+- Return
+- Sucker Punch
+
+
+VDVG-WWWW-WWW6-NK5A
+Battle 659 vs. Artist Azure [Skarmory-4, Excadrill-4, Aerodactyl-4]
+
+D2BG-WWWW-WWW6-KD5E
+Battle 594 vs. Veteran Sibyl [Articuno-2, Thundurus-1, Tornadus-1]
+
+GE6W-WWWW-WWW6-KD5L
+Battle 535 vs. Pokémon Breeder Josiane [Bastiodon-4, Pinsir-4, Porygon2-4]
+
+FCVW-WWWW-WWW6-KD6W
+Battle 404 vs. Veteran Stanislaw [Articuno-2, Virizion-1, Latios-1]
+
+NGJW-WWWW-WWW6-KD67
+Battle 388 vs. Roller Skater Aurora [Togekiss-4, Raichu-4, Salamence-3]

@@ -1,0 +1,44 @@
+Elle
+X Multi (with AI partner)
+
+Landorus-Therian @ Sitrus Berry
+Ability: Intimidate
+EVs: 252 Atk / 4 Def / 252 Spe
+Adamant Nature
+- Earthquake
+- Rock Slide
+- Knock Off
+- Superpower
+
+Medicham @ Medichamite
+Ability: Pure Power
+EVs: 252 Atk / 4 Def / 252 Spe
+Adamant Nature
+- Fake Out
+- Drain Punch
+- Rock Slide
+- Fire Punch
+
+Friends List AI Partner
+
+Raikou-3 @ Air Balloon
+Ability: Pressure
+EVs: 252 SpA / 252 Spe
+Timid Nature
+- Thunderbolt
+- Volt Switch
+- Shadow Ball
+- Protect
+
+Latias-3 @ Choice Specs
+Ability: Levitate
+EVs: 252 SpA / 252 Spe
+Timid Nature
+- Draco Meteor
+- Thunderbolt
+- Psychic
+- Trick
+
+
+XF3G-WWWW-WWW7-7FFF
+Battle 66 vs. Monsieur Kirill [Shuckle-4, Porygon-Z-4] & Maid Colette [Blissey-4, Houndoom-4]

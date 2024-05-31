@@ -1,0 +1,55 @@
+Wanderer
+Moon v1.2 Doubles
+
+Tapu Koko @ Choice Specs
+Ability: Electric Surge
+EVs: 252 SpA / 4 SpD / 252 Spe
+IVs: 30 Atk / 30 Def
+Timid Nature
+- Thunderbolt
+- Dazzling Gleam
+- Volt Switch
+- Grass Knot
+
+Talonflame @ Life Orb
+Ability: Gale Wings
+EVs: 204 HP / 252 Atk / 52 Spe
+Adamant Nature
+- Protect
+- Brave Bird
+- Tailwind
+- Flare Blitz
+
+Dragonite @ Dragonium Z
+Ability: Multiscale
+EVs: 252 Atk / 4 Def / 252 Spe
+Adamant Nature
+- Dragon Dance
+- Outrage
+- Extreme Speed
+- Earthquake
+
+Mawile @ Mawilite
+Ability: Intimidate
+EVs: 252 Atk / 252 Spe
+Adamant Nature
+- Sucker Punch
+- Iron Head
+- Swords Dance
+- Protect
+
+
+XSAW-WWWW-WWXF-DE4N
+Battle 865 (Loss) vs. Police Officer Lou [Tyranitar-1, Shuckle-4, Palossand-3, Lycanroc-Midday-2]
+
+5SGW-WWWW-WWXF-DW5T
+Battle 788 vs. Scientist Cadel [Cresselia-4, Shiinotic-4, Rotom-Frost-4, Drampa-3]
+
+STAG-WWWW-WWXF-DW5U
+Battle 730 vs. Pokémon Trainer Wally [Gallade-4, Magnezone-3, Altaria-3, Garchomp-3]
+
+TWSW-WWWW-WWXF-DW5Q
+Battle 660 vs. Pokémon Trainer Colress [Magnezone-4, Klinklang-3, Porygon2-4, Muk-Alola-1]
+
+4X6G-WWWW-WWXF-DW5P
+Battle 648 vs. Youth Athlete Hilario [Raikou-2, Salazzle-3, Starmie-4, Hawlucha-3]

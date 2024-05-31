@@ -1,0 +1,44 @@
+Mirka
+X Multi (with AI partner)
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Earthquake
+- Sucker Punch
+- Power-Up Punch
+- Return
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Protect
+- Dragon Claw
+- Earthquake
+- Rock Slide
+
+Friends List AI Partner
+
+Charizard-3 @ Choice Scarf
+Ability: Blaze
+EVs: 168 Atk / 168 SpA / 168 Spe
+Mild Nature
+- Heat Wave
+- Rock Slide
+- Air Slash
+- Crunch
+
+Raikou-3 @ Air Balloon
+Ability: Pressure
+EVs: 252 SpA / 252 Spe
+Timid Nature
+- Thunderbolt
+- Volt Switch
+- Shadow Ball
+- Protect
+
+
+TGYW-WWWW-WWW9-M42C
+Battle 53 vs. Backpacker Perdido [Gothitelle-4, Slowbro-4] & Pokémon Ranger Cerese [Blastoise-4, Hippowdon-4]

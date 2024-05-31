@@ -1,0 +1,55 @@
+Justin
+Moon v1.2 Doubles
+
+Aromatisse @ Lum Berry
+Ability: Aroma Veil
+EVs: 252 HP / 180 Def / 76 SpD
+IVs: 0 Spe
+Sassy Nature
+- Dazzling Gleam
+- Helping Hand
+- Trick Room
+- Protect
+
+Hariyama @ Flame Orb
+Ability: Guts
+EVs: 32 HP / 252 Atk / 108 Def / 116 SpD
+IVs: 0 Spe
+Brave Nature
+- Fake Out
+- Close Combat
+- Knock Off
+- Thunder Punch
+
+Araquanid @ Waterium Z
+Ability: Water Bubble
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 0 Spe
+Brave Nature
+- Liquidation
+- Leech Life
+- Wide Guard
+- Protect
+
+Camerupt @ Cameruptite
+Ability: Solid Rock
+EVs: 252 HP / 4 Def / 252 SpA
+IVs: 1 Spe
+Quiet Nature
+- Flamethrower
+- Earth Power
+- Hidden Power
+- Protect
+
+
+SP5W-WWWW-WWW8-DW5U
+Battle 570 (Loss) vs. Pokémon Trainer Guzma [Toxicroak-3, Honchkrow-3, Golisopod-3, Toxapex-4]
+
+ZSTW-WWWW-WWW8-DW64
+Battle 482 vs. Firefighter Presta [Wishiwashi-4, Golisopod-4, Jellicent-4, Politoed-3]
+
+R7GW-WWWW-WWW8-DW6C
+Battle 420 vs. Pokémon Trainer Grimsley [Bisharp-3, Drapion-3, Houndoom-3, Sharpedo-3]
+
+VA7W-WWWW-WWW8-DW6K
+Battle 270 vs. Pokémon Trainer Anabel [Snorlax-4, Latios-1, Entei-4, Lucario-3]

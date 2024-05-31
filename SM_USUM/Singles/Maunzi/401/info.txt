@@ -1,0 +1,45 @@
+Stef
+Sun v1.1 Singles
+
+Landorus-Therian @ Choice Scarf
+Ability: Intimidate
+EVs: 196 HP / 84 SpD / 228 Spe
+Jolly Nature
+- Earthquake
+- Knock Off
+- Rock Tomb
+- Confide
+
+Toxapex @ Black Sludge
+Ability: Regenerator
+EVs: 252 HP / 220 Def / 4 SpA / 20 SpD / 12 Spe
+Bold Nature
+- Scald
+- Haze
+- Toxic
+- Recover
+
+Salamence @ Salamencite
+Ability: Intimidate
+EVs: 252 HP / 4 Atk / 44 Def / 164 SpD / 44 Spe
+Adamant Nature
+- Frustration
+- Substitute
+- Dragon Dance
+- Roost
+
+
+3GKW-WWWW-WWW5-THEF
+Battle 402 (Loss) vs. Police Officer Benji [Rotom-Mow-3, Tyranitar-2, Garchomp-3]
+
+7VLG-WWWW-WWW5-TJR2
+Battle 377 vs. Veteran Placido [Articuno-2, Registeel-2, Entei-1]
+
+FK5G-WWWW-WWW5-TJSM
+Battle 305 vs. Lass Samantha [Latios-4, Regice-3, Virizion-3]
+
+FG2W-WWWW-WWW5-TJT7
+Battle 300 vs. Pokémon Trainer Sina [Oranguru-4, Glaceon-3, Lilligant-3]
+
+AJBW-WWWW-WWW5-TK39
+Battle 294 vs. Ace Trainer Levi [Charizard-3, Infernape-3, Blaziken-3]

@@ -1,0 +1,49 @@
+Bianci
+Omega Ruby Multi (with Human partner)
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 30 HP / 29 Atk / 30 Def / 27 SpA / 29 SpD / 31 Spe
+Adamant Nature
+- Double-Edge
+- Drain Punch
+- Fake Out
+- Sucker Punch
+
+Tornadus-Therian @ Life Orb
+Ability: Regenerator
+EVs: 4 Atk / 252 SpA / 252 Spe
+IVs: 17 HP / 31 Atk / 24 Def / 31 SpA / 29 SpD / 31 Spe
+Naive Nature
+- Heat Wave
+- Superpower
+- Air Slash
+- Knock Off
+
+Jordan
+Alpha Sapphire
+
+Gardevoir @ Gardevoirite
+Ability: Trace
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 30 SpA / 29 SpD
+Timid Nature
+- Energy Ball
+- Psyshock
+- Hyper Voice
+- Protect
+
+Bisharp @ Focus Sash
+Ability: Defiant
+EVs: 4 HP / 252 Atk / 252 Spe
+IVs: 31 HP / 25 Atk / 29 Def / 13 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Knock Off
+- Sucker Punch
+- Iron Head
+- Low Kick
+
+
+P2RG-WWWW-WW25-5Y78
+Battle 251 vs. Artist Azure [Krookodile-4, Escavalier-4] & Pokémon Ranger Parker [Sceptile-4, Carracosta-4]

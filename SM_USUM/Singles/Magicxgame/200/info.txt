@@ -1,0 +1,33 @@
+James
+Moon v1.2 Singles
+
+Salamence @ Salamencite
+Ability: Intimidate
+EVs: 20 HP / 236 Atk / 4 Def / 12 SpD / 236 Spe
+Jolly Nature
+- Dragon Dance
+- Return
+- Substitute
+- Roost
+
+Aegislash @ Leftovers
+Ability: Stance Change
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+- Swords Dance
+- Sacred Sword
+- Shadow Sneak
+- King's Shield
+
+Chansey @ Eviolite
+Ability: Natural Cure
+EVs: 4 HP / 252 Def / 4 SpD / 248 Spe
+Timid Nature
+- Substitute
+- Minimize
+- Seismic Toss
+- Soft-Boiled
+
+
+W9UG-WWWW-WWW7-8TBW
+Battle 200 vs. Pokémon Trainer Wally [Altaria-4, Magnezone-3, Garchomp-4]

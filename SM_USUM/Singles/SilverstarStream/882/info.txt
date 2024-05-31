@@ -1,0 +1,57 @@
+Silver
+Ultra Sun v1.2 Singles
+
+Garchomp @ Dragonium Z
+Ability: Rough Skin
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Earthquake
+- Outrage
+- Substitute
+- Swords Dance
+
+Scizor @ Scizorite
+Ability: Technician
+EVs: 244 HP / 12 Atk / 252 SpD
+Adamant Nature
+- Bullet Punch
+- Brutal Swing
+- Roost
+- Swords Dance
+
+Tapu Fini @ Sitrus Berry
+Ability: Misty Surge
+EVs: 252 HP / 172 SpA / 84 Spe
+Modest Nature
+- Moonblast
+- Surf
+- Grass Knot
+- Calm Mind
+
+
+LR7G-WWWW-WWXE-87E6
+Battle 883 (Loss) vs. Preschooler Victor [Mesprit-4, Latios-3, Uxie-3]
+
+Battle800
+Battle 800 vs. Pokémon Trainer Sina [Oranguru-3, Abomasnow-3, Mandibuzz-3]
+
+K6HW-WWWW-WWXE-87E2
+Battle 784 vs. Ace Trainer Poppy [Metagross-4, Kommo-o-2, Gyarados-4]
+
+Battle700
+Battle 700 vs. Pokémon Trainer Grimsley [Absol-4, Liepard-3, Sharpedo-4]
+
+G39W-WWWW-WWXE-87DZ
+Battle 609 vs. Preschooler Niara [Incineroar-3, Feraligatr-4, Swampert-3]
+
+Battle600
+Battle 600 vs. Pokémon Trainer Cynthia [Garchomp-3, Spiritomb-3, Lucario-4]
+
+Battle500
+Battle 500 vs. Pokémon Trainer Grimsley [Absol-4, Bisharp-3, Scrafty-4]
+
+Battle400
+Battle 400 vs. Pokémon Trainer Cynthia [Lucario-3, Togekiss-3, Spiritomb-3]
+
+R7DG-WWWW-WWXE-87DH
+Battle 300 vs. Pokémon Trainer Sina [Mandibuzz-4, Drampa-3, Oranguru-4]

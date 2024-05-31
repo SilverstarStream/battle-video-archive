@@ -1,0 +1,328 @@
+Evelyn
+Omega Ruby Triples
+
+Slowbro @ Rindo Berry
+Ability: Oblivious
+EVs: 252 HP / 4 Def / 252 SpD
+IVs: 0 Spe
+Sassy Nature
+- Trick Room
+- Scald
+- Flamethrower
+- Heal Pulse
+
+Aron @ Berry Juice
+Ability: Sturdy
+Level: 1
+Gentle Nature
+- Protect
+- Endeavor
+- Sunny Day
+- Spite
+
+Camerupt @ Cameruptite
+Ability: Solid Rock
+EVs: 252 HP / 4 Def / 252 SpA
+IVs: 0 Spe
+Quiet Nature
+- Protect
+- Earth Power
+- Solar Beam
+- Eruption
+
+Gardevoir @ Iron Ball
+Ability: Telepathy
+EVs: 252 HP / 4 Def / 252 SpA
+IVs: 0 Spe
+Quiet Nature
+- Grass Knot
+- Moonblast
+- Dazzling Gleam
+- Psychic
+
+Clawitzer @ Life Orb
+Ability: Mega Launcher
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 0 Spe
+Quiet Nature
+- Aura Sphere
+- Water Pulse
+- Dark Pulse
+- Ice Beam
+
+Landorus-Therian @ Power Anklet
+Ability: Intimidate
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 0 Spe
+Brave Nature
+- Knock Off
+- Earthquake
+- Rock Slide
+- Hammer Arm
+
+
+HV8W-WWWW-WW3N-HC4E
+Battle 1563 vs. Garçon Darcy [Druddigon-4, Bisharp-4, Blastoise-4, Vileplume-4, Whiscash-4, Feraligatr-4]
+
+AJ6W-WWWW-WW3N-HBGM
+Battle 1521 vs. Owner Cyril [Bronzong-4, Zoroark-4, Dragonite-4, Seismitoad-4, Steelix-4, Shuckle-4]
+
+48LG-WWWW-WW3N-HANH
+Battle 1480 vs. Worker Ivan [Golem-4, Torterra-4, Aurorus-4, Armaldo-4, Carracosta-4, Bronzong-4]
+
+9XCG-WWWW-WW3N-H838
+Battle 1430 vs. Scientist Rosalind [Toxicroak-4, Carracosta-4, Rampardos-4, Cradily-4, Raichu-4, Roserade-4]
+
+Slowbro @ Rindo Berry
+Ability: Oblivious
+EVs: 252 HP / 4 Def / 252 SpD
+IVs: 0 Spe
+Sassy Nature
+- Trick Room
+- Scald
+- Flamethrower
+- Heal Pulse
+
+Aron @ Berry Juice
+Ability: Sturdy
+Level: 1
+Gentle Nature
+- Protect
+- Endeavor
+- Sunny Day
+- Spite
+
+Camerupt @ Cameruptite
+Ability: Solid Rock
+EVs: 252 HP / 4 Def / 252 SpA
+IVs: 0 Spe
+Quiet Nature
+- Protect
+- Earth Power
+- Solar Beam
+- Eruption
+
+Gardevoir @ Iron Ball
+Ability: Telepathy
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 0 Spe
+Quiet Nature
+- Grass Knot
+- Moonblast
+- Dazzling Gleam
+- Psychic
+
+Clawitzer @ Life Orb
+Ability: Mega Launcher
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 0 Spe
+Quiet Nature
+- Aura Sphere
+- Water Pulse
+- Dark Pulse
+- Ice Beam
+
+Landorus-Therian @ Power Anklet
+Ability: Intimidate
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 0 Spe
+Brave Nature
+- Knock Off
+- Earthquake
+- Rock Slide
+- Hammer Arm
+
+TFSW-WWWW-WW3N-H6P9
+Battle 1253 vs. Veteran Howell [Latias-2, Moltres-2, Regice-2, Virizion-2, Regirock-1, Landorus-2]
+
+KWCW-WWWW-WW3N-H62X
+Battle 1245 vs. Hex Maniac Anastasia [Froslass-3, Spiritomb-3, Reuniclus-4, Starmie-3, Dusknoir-4, Mismagius-4]
+
+Audino @ Audinite
+Ability: Regenerator
+EVs: 252 HP / 252 Def / 4 SpD
+IVs: 0 Spe
+Relaxed Nature
+- Trick Room
+- Helping Hand
+- Dazzling Gleam
+- Heal Pulse
+
+Landorus-Therian @ Power Anklet
+Ability: Intimidate
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 0 Spe
+Brave Nature
+- Knock Off
+- Earthquake
+- Rock Slide
+- Hammer Arm
+
+Snorlax @ Silk Scarf
+Ability: Thick Fat
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 0 Spe
+Brave Nature
+- Power-Up Punch
+- Double-Edge
+- Crunch
+- Seed Bomb
+
+Breloom @ Expert Belt
+Ability: Technician
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 0 Spe
+Brave Nature
+- Mach Punch
+- Bullet Seed
+- Rock Tomb
+- Superpower
+
+Jellicent @ Absorb Bulb
+Ability: Cursed Body
+EVs: 252 HP / 4 Def / 252 SpA
+IVs: 0 Spe
+Quiet Nature
+- Shadow Ball
+- Ice Beam
+- Dazzling Gleam
+- Water Spout
+
+Heatran @ Iron Ball
+Ability: Flash Fire
+EVs: 252 HP / 4 Def / 252 SpA
+IVs: 0 Spe
+Quiet Nature
+- Flash Cannon
+- Earth Power
+- Dragon Pulse
+- Eruption
+
+TGNW-WWWW-WW4X-HYZJ
+Battle 338 vs. Pokémon Ranger Tanner [Serperior-4, Walrein-4, Lanturn-4, Vaporeon-4, Shiftry-4, Gastrodon-4]
+
+Musharna @ Lum Berry
+Ability: Telepathy
+EVs: 252 HP / 4 Def / 252 SpA
+IVs: 0 Spe
+Quiet Nature
+- Trick Room
+- Helping Hand
+- Energy Ball
+- Psychic
+
+Gyarados @ Gyaradosite
+Ability: Intimidate
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 0 Spe
+Brave Nature
+- Protect
+- Earthquake
+- Crunch
+- Waterfall
+
+Carracosta @ Weakness Policy
+Ability: Sturdy
+EVs: 60 HP / 252 Atk / 196 SpA
+IVs: 0 Spe
+Brave Nature
+- Waterfall
+- Ice Beam
+- Rock Slide
+- Focus Blast
+
+Nidoqueen @ Iron Ball
+Ability: Sheer Force
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 0 Spe
+Quiet Nature
+- Helping Hand
+- Sludge Wave
+- Ice Beam
+- Earth Power
+
+Azumarill @ Expert Belt
+Ability: Huge Power
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 0 Spe
+Brave Nature
+- Aqua Jet
+- Waterfall
+- Play Rough
+- Superpower
+
+Honchkrow @ Life Orb
+Ability: Moxie
+EVs: 172 HP / 252 Atk / 84 SpA
+IVs: 0 Spe
+Brave Nature
+- Brave Bird
+- Heat Wave
+- Sucker Punch
+- Superpower
+
+YGCW-WWWW-WW4X-HY2U
+Battle 327 vs. Scientist Candela [Victreebel-4, Vileplume-4, Drapion-4, Luxray-4, Eelektross-4, Muk-4]
+
+Gothitelle @ Leftovers
+Ability: Competitive
+EVs: 252 HP / 140 Def / 116 SpD
+IVs: 0 Spe
+Relaxed Nature
+- Trick Room
+- Dark Pulse
+- Psychic
+- Heal Pulse
+
+Mawile @ Mawilite
+Ability: Intimidate
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 0 Spe
+Brave Nature
+- Iron Head
+- Play Rough
+- Rock Slide
+- Sucker Punch
+
+Spiritomb @ Roseli Berry
+Ability: Infiltrator
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 0 Spe
+Quiet Nature
+- Nasty Plot
+- Dark Pulse
+- Shadow Ball
+- Destiny Bond
+
+Golem @ Weakness Policy
+Ability: Sturdy
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 0 Spe
+Brave Nature
+- Earthquake
+- Rock Slide
+- Sucker Punch
+- Explosion
+
+Azumarill @ Expert Belt
+Ability: Huge Power
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 0 Spe
+Brave Nature
+- Aqua Jet
+- Waterfall
+- Play Rough
+- Superpower
+
+Gourgeist-Super @ Life Orb
+Ability: Frisk
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 0 Spe
+Brave Nature
+- Trick-or-Treat
+- Seed Bomb
+- Rock Slide
+- Phantom Force
+
+L28W-WWWW-WW4X-HH5M
+Battle 316 vs. Worker Ivan [Rampardos-4, Aggron-4, Tyrantrum-4, Aurorus-4, Quagsire-4, Escavalier-4]

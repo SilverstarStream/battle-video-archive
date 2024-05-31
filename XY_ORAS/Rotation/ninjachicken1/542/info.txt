@@ -1,0 +1,42 @@
+Ben
+X Rotation
+
+Chansey @ Eviolite
+Ability: Natural Cure
+EVs: 252 HP / 252 Def / 4 Spe
+Bold Nature
+- Toxic
+- Soft-Boiled
+- Aromatherapy
+- Seismic Toss
+
+Venusaur @ Venusaurite
+Ability: Overgrow
+EVs: 252 HP / 252 SpA / 4 Spe
+Modest Nature
+- Synthesis
+- Earthquake
+- Sludge Bomb
+- Giga Drain
+
+Cloyster @ Focus Sash
+Ability: Skill Link
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Shell Smash
+- Icicle Spear
+- Razor Shell
+- Rock Blast
+
+Gliscor @ Toxic Orb
+Ability: Poison Heal
+EVs: 208 HP / 44 Atk / 252 Spe
+Jolly Nature
+- Protect
+- Substitute
+- Toxic
+- Earthquake
+
+
+WBKW-WWWW-WWW8-VVAC
+Battle 453 vs. Chef Andrei [Jynx-4, Glaceon-3, Froslass-3, Cryogonal-3]

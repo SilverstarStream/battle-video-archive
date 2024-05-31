@@ -1,0 +1,198 @@
+Kit
+Alpha Sapphire Triples
+
+Audino @ Audinite
+Ability: Regenerator
+EVs: 228 HP / 196 Def / 84 SpD
+IVs: 0 Spe
+Relaxed Nature
+- Dazzling Gleam
+- Helping Hand
+- Flamethrower
+- Trick Room
+
+Aron @ Berry Juice
+Ability: Sturdy
+Level: 1
+Sassy Nature
+- Endeavor
+- Protect
+- Swagger
+- Toxic
+
+Hariyama @ Flame Orb
+Ability: Guts
+EVs: 252 Atk / 124 Def / 132 SpD
+IVs: 22 HP / 0 Spe
+Brave Nature
+- Close Combat
+- Wide Guard
+- Fake Out
+- Knock Off
+
+Sylveon @ Choice Specs
+Ability: Pixilate
+EVs: 132 HP / 128 Def / 248 SpA
+IVs: 31 HP / 7 Atk / 31 Def / 30 SpA / 30 SpD / 1 Spe
+Quiet Nature
+- Hyper Voice
+- Swift
+- Hidden Power
+- Psyshock
+
+Malamar @ Sitrus Berry
+Ability: Contrary
+EVs: 252 HP / 60 Def / 196 SpD
+IVs: 0 Spe
+Sassy Nature
+- Superpower
+- Psycho Cut
+- Knock Off
+- Trick Room
+
+Clawitzer @ Life Orb
+Ability: Mega Launcher
+EVs: 252 HP / 8 Def / 248 SpA
+IVs: 31 HP / 7 Atk / 30 Def / 30 SpA / 31 SpD / 0 Spe
+Quiet Nature
+- Water Pulse
+- Aura Sphere
+- Dark Pulse
+- Hidden Power
+
+
+TZJG-WWWW-WW5U-WYRU
+Battle 3999 vs. Ace Trainer Gwen [Krookodile-4, Walrein-4, Muk-4, Salamence-4, Lapras-4, Conkeldurr-4]
+
+5QRW-WWWW-WW5T-ZDK9
+Battle 3525 vs. Garçon Porter [Gliscor-4, Walrein-4, Milotic-4, Escavalier-4, Muk-4, Slaking-4]
+
+Audino @ Audinite
+Ability: Regenerator
+EVs: 228 HP / 196 Def / 84 SpD
+IVs: 0 Spe
+Relaxed Nature
+- Dazzling Gleam
+- Helping Hand
+- Flamethrower
+- Trick Room
+
+Aron @ Berry Juice
+Ability: Sturdy
+Level: 1
+Sassy Nature
+- Endeavor
+- Protect
+- Swagger
+- Toxic
+
+Hariyama @ Flame Orb
+Ability: Guts
+EVs: 252 Atk / 124 Def / 132 SpD
+IVs: 22 HP / 0 Spe
+Brave Nature
+- Close Combat
+- Wide Guard
+- Fake Out
+- Knock Off
+
+Sylveon @ Choice Specs
+Ability: Pixilate
+EVs: 132 HP / 128 Def / 248 SpA
+IVs: 31 HP / 7 Atk / 31 Def / 30 SpA / 30 SpD / 1 Spe
+Quiet Nature
+- Hyper Voice
+- Swift
+- Hidden Power
+- Psyshock
+
+Clawitzer @ Life Orb
+Ability: Mega Launcher
+EVs: 252 HP / 8 Def / 248 SpA
+IVs: 31 HP / 7 Atk / 30 Def / 30 SpA / 31 SpD / 0 Spe
+Quiet Nature
+- Water Pulse
+- Aura Sphere
+- Dark Pulse
+- Hidden Power
+
+Malamar @ Sitrus Berry
+Ability: Contrary
+EVs: 252 HP / 60 Def / 196 SpD
+IVs: 0 Spe
+Sassy Nature
+- Superpower
+- Psycho Cut
+- Knock Off
+- Trick Room
+
+FRBW-WWWW-WW5S-7TFJ
+Battle 2889 vs. Hex Maniac Mara [Gourgeist-2, Slowking-4, Aromatisse-4, Reuniclus-2, Cofagrigus-3, Forretress-3]
+
+3XGG-WWWW-WW5S-WFUU
+Battle 2571 vs. Pokémon Breeder Merekee [Krookodile-4, Yanmega-4, Scizor-4, Escavalier-4, Rhyperior-4, Shuckle-4]
+
+V3EG-WWWW-WW5R-YMVX
+Battle 2411 vs. Maid Clara [Volcarona-4, Bastiodon-4, Weavile-4, Probopass-4, Gallade-4, Braviary-4]
+
+Audino @ Audinite
+Ability: Regenerator
+EVs: 228 HP / 196 Def / 84 SpD
+IVs: 0 Spe
+Relaxed Nature
+- Dazzling Gleam
+- Helping Hand
+- Flamethrower
+- Trick Room
+
+Aron @ Berry Juice
+Ability: Sturdy
+Level: 1
+Sassy Nature
+- Endeavor
+- Protect
+- Swagger
+- Toxic
+
+Hariyama @ Flame Orb
+Ability: Guts
+EVs: 252 Atk / 124 Def / 132 SpD
+IVs: 22 HP / 0 Spe
+Brave Nature
+- Close Combat
+- Wide Guard
+- Fake Out
+- Knock Off
+
+Sylveon @ Choice Specs
+Ability: Pixilate
+EVs: 132 HP / 128 Def / 248 SpA
+IVs: 31 HP / 7 Atk / 31 Def / 30 SpA / 30 SpD / 1 Spe
+Quiet Nature
+- Hyper Voice
+- Swift
+- Hidden Power
+- Psyshock
+
+Malamar @ Sitrus Berry
+Ability: Contrary
+EVs: 252 HP / 60 Def / 196 SpD
+IVs: 0 Spe
+Sassy Nature
+- Superpower
+- Psycho Cut
+- Knock Off
+- Trick Room
+
+Clawitzer @ Life Orb
+Ability: Mega Launcher
+EVs: 252 HP / 8 Def / 248 SpA
+IVs: 31 HP / 7 Atk / 30 Def / 30 SpA / 31 SpD / 0 Spe
+Quiet Nature
+- Water Pulse
+- Aura Sphere
+- Dark Pulse
+- Hidden Power
+
+5PSW-WWWW-WW5N-EGFT
+Battle 1837 vs. Veteran Isabella [Latios-2, Cobalion-3, Moltres-2, Terrakion-2, Landorus-1, Regigigas-3]

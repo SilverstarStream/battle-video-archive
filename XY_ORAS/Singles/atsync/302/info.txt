@@ -1,0 +1,77 @@
+Chris
+Y Singles
+
+Greninja @ Choice Specs
+Ability: Protean
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Surf
+- Ice Beam
+- Grass Knot
+- Extrasensory
+
+Ferrothorn @ Leftovers
+Ability: Iron Barbs
+EVs: 252 HP / 4 Def / 252 SpD
+IVs: 0 Spe
+Sassy Nature
+- Gyro Ball
+- Curse
+- Leech Seed
+- Substitute
+
+Dragonite @ Lum Berry
+Ability: Multiscale
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Outrage
+- Earthquake
+- Fire Punch
+- Dragon Dance
+
+
+GU3W-WWWW-WWW4-LK8U
+Battle 303 vs. Ace Trainer Colin [Bouffalant-4, Jynx-4, Vaporeon-4]
+
+4ZUG-WWWW-WWW4-LKB2
+Battle 262 vs. Backpacker Perdido [Raichu-4, Shiftry-4, Scrafty-4]
+
+5HHG-WWWW-WWW4-LKCJ
+Battle 246 vs. Tourist Hartsfield [Muk-4, Gyarados-4, Pinsir-4]
+
+7ARW-WWWW-WWW4-LKHM
+Battle 239 vs. Ace Trainer Sigurd [Hariyama-4, Gourgeist-4, Meganium-4]
+
+Greninja @ Choice Specs
+Ability: Protean
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Surf
+- Dark Pulse
+- Ice Beam
+- Grass Knot
+
+Ferrothorn @ Leftovers
+Ability: Iron Barbs
+EVs: 252 HP / 4 Def / 252 SpD
+IVs: 0 Spe
+Sassy Nature
+- Gyro Ball
+- Curse
+- Leech Seed
+- Substitute
+
+Dragonite @ Lum Berry
+Ability: Multiscale
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Outrage
+- Earthquake
+- Fire Punch
+- Dragon Dance
+
+6VKW-WWWW-WWW4-LKTJ
+Battle 54 vs. Punk Girl Europa [Muk-4, Volcarona-4, Talonflame-4]
+
+S7QW-WWWW-WWW4-LLX7
+Battle 50 vs. Battle Chatelaine Nita [Landorus-2, Thundurus-3, Tornadus-2]

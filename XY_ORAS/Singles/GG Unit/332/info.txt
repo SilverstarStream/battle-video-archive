@@ -1,0 +1,33 @@
+Based God
+Y Singles
+
+Sableye @ Focus Sash
+Ability: Prankster
+Level: 1
+Calm Nature
+- Trick
+- Embargo
+- Flash
+- Taunt
+
+Durant @ Choice Scarf
+Ability: Truant
+EVs: 244 HP / 12 Def / 252 Spe
+Jolly Nature
+- Entrainment
+- Rock Slide
+- X-Scissor
+- Iron Head
+
+Glalie @ Leftovers
+Ability: Moody
+EVs: 176 HP / 84 Def / 4 SpA / 4 SpD / 240 Spe
+Timid Nature
+- Substitute
+- Protect
+- Taunt
+- Frost Breath
+
+
+YX4W-WWWW-WWW7-SSG6
+Battle 333 vs. Ace Trainer Sigurd [Pyroar-4, Musharna-4, Abomasnow-4]

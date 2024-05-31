@@ -1,0 +1,48 @@
+C-Coal
+Ultra Sun v1.2 Singles
+
+Gliscor @ Toxic Orb
+Ability: Poison Heal
+EVs: 212 HP / 60 SpD / 236 Spe
+Jolly Nature
+- Earthquake
+- Protect
+- Substitute
+- Toxic
+
+Chansey @ Eviolite
+Ability: Natural Cure
+EVs: 4 HP / 252 Def / 4 SpA / 4 SpD / 244 Spe
+Timid Nature
+- Seismic Toss
+- Substitute
+- Minimize
+- Soft-Boiled
+
+Slowbro @ Slowbronite
+Ability: Regenerator
+EVs: 244 HP / 252 Def / 4 SpA / 4 SpD / 4 Spe
+Bold Nature
+- Scald
+- Iron Defense
+- Calm Mind
+- Rest
+
+
+E58G-WWWW-WWX6-Z3LV
+Battle 1065 (Loss) vs. Veteran Xio [Florges-2, Primarina-4, Mimikyu-3]
+
+725G-WWWW-WWWV-Q6XU
+Battle 1000 vs. Pokémon Trainer Wally [Altaria-3, Gallade-3, Magnezone-4]
+
+LRHG-WWWW-WWX6-ZMRU
+Battle 923 vs. Preschooler Niara [Venusaur-3, Decidueye-4, Serperior-4]
+
+35ZG-WWWW-WWX6-ZNW6
+Battle 603 vs. Veteran Candy [Azelf-3, Kommo-o-3, Tornadus-3]
+
+R9SW-WWWW-WWX6-ZN96
+Battle 575 vs. Sightseer Christian [Alakazam-3, Gengar-3, Porygon-Z-3]
+
+RXJW-WWWW-WWX6-ZNA4
+Battle 413 vs. Gentleman Mechabob [Thundurus-1, Cobalion-2, Terrakion-1]

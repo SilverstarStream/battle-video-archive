@@ -1,0 +1,33 @@
+Lola
+Moon v1.0 Singles
+
+Dragonite @ Lum Berry
+Ability: Multiscale
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Outrage
+- Dragon Dance
+- Fire Punch
+- Earthquake
+
+Tapu Koko @ Electrium Z
+Ability: Electric Surge
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Wild Charge
+- Brave Bird
+- Quick Attack
+- Protect
+
+Tapu Fini @ Leftovers
+Ability: Misty Surge
+EVs: 252 HP / 252 Def / 4 Spe
+Bold Nature
+- Calm Mind
+- Surf
+- Moonblast
+- Protect
+
+
+CV4W-WWWW-WWW3-WJD3
+Battle 212 (Loss) vs. Firefighter Presta [Salazzle-3, Hippowdon-3, Aerodactyl-4]

@@ -1,0 +1,42 @@
+Plaak
+Omega Ruby Rotation
+
+Klefki @ Light Clay
+Ability: Prankster
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Light Screen
+- Reflect
+- Protect
+- Flash Cannon
+
+Charizard @ Charizardite X
+Ability: Blaze
+EVs: 252 HP / 132 Atk / 124 Spe
+Adamant Nature
+- Dragon Dance
+- Substitute
+- Dragon Claw
+- Flare Blitz
+
+Sylveon @ Leftovers
+Ability: Pixilate
+EVs: 252 HP / 212 Def / 44 Spe
+Bold Nature
+- Wish
+- Protect
+- Hyper Voice
+- Heal Bell
+
+Feraligatr @ Life Orb
+Ability: Sheer Force
+EVs: 196 HP / 252 Atk / 60 Spe
+Adamant Nature
+- Dragon Dance
+- Substitute
+- Waterfall
+- Ice Punch
+
+
+JM8W-WWWW-WW5N-SSXH
+Battle 277 vs. Madame Inga [Gigalith-4, Rhyperior-4, Porygon2-4, Slaking-4]

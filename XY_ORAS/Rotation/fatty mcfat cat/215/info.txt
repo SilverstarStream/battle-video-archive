@@ -1,0 +1,103 @@
+Sinsie
+X Rotation
+
+Vaporeon @ Leftovers
+Ability: Water Absorb
+EVs: 244 HP / 252 Def / 12 SpD
+Bold Nature
+- Scald
+- Protect
+- Haze
+- Wish
+
+Dragonite @ Lum Berry
+Ability: Multiscale
+EVs: 20 HP / 252 Atk / 236 Spe
+Adamant Nature
+- Dragon Claw
+- Fire Punch
+- Earthquake
+- Dragon Dance
+
+Gengar @ Focus Sash
+Ability: Levitate
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 25 SpD
+Timid Nature
+- Shadow Ball
+- Sludge Bomb
+- Energy Ball
+- Destiny Bond
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 26 SpD
+Adamant Nature
+- Return
+- Power-Up Punch
+- Sucker Punch
+- Earthquake
+
+
+PT7G-WWWW-WWW3-PXCJ
+Battle 216 vs. Roller Skater Electra [Gyarados-3, Luxray-4, Ampharos-3, Togekiss-4]
+
+GJGW-WWWW-WWW3-PXE5
+Battle 153 vs. Ace Trainer Jai [Roserade-1, Togekiss-3, Porygon-Z-1, Latios-1]
+
+HE6G-WWWW-WWW3-PXEX
+Battle 152 vs. Scientist Max [Crobat-4, Raichu-4, Ampharos-4, Tyrantrum-4]
+
+Vaporeon @ Leftovers
+Ability: Water Absorb
+EVs: 244 HP / 252 Def / 12 SpD
+Bold Nature
+- Scald
+- Protect
+- Haze
+- Wish
+
+Dragonite @ Lum Berry
+Ability: Multiscale
+EVs: 20 HP / 252 Atk / 236 Spe
+Adamant Nature
+- Dragon Claw
+- Fire Punch
+- Earthquake
+- Dragon Dance
+
+Gengar @ Focus Sash
+Ability: Levitate
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 25 SpD
+Timid Nature
+- Shadow Ball
+- Sludge Bomb
+- Thunderbolt
+- Destiny Bond
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 26 SpD
+Adamant Nature
+- Return
+- Power-Up Punch
+- Sucker Punch
+- Earthquake
+
+KM8W-WWWW-WWW3-PXDV
+Battle 63 vs. Veteran Alfie [Cobalion-4, Regirock-4, Terrakion-4, Tornadus-3]
+
+S9XG-WWWW-WWW3-PXDU
+Battle 56 vs. Pokémon Ranger Hazel [Sceptile-4, Clawitzer-4, Golem-4, Tangrowth-4]
+
+TKNW-WWWW-WWW3-PXDQ
+Battle 50 vs. Battle Chatelaine Morgan [Latias-1, Terrakion-3, Cobalion-2, Virizion-3]
+
+ND5W-WWWW-WWW3-PXDN
+Battle 44 vs. Psychic Uberto [Gourgeist-4, Metagross-4, Drifblim-4, Exeggutor-4]
+
+ECVG-WWWW-WWW3-PXDK
+Battle 31 vs. Scientist Jane [Carracosta-4, Cradily-4, Raichu-4, Armaldo-4]

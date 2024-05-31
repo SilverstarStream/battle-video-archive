@@ -1,0 +1,45 @@
+Fierza
+X Multi (with AI partner)
+
+Azumarill @ Choice Band
+Ability: Huge Power
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+- Aqua Jet
+- Play Rough
+- Waterfall
+- Superpower
+
+Aegislash @ Leftovers
+Ability: Stance Change
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 13 Spe
+Brave Nature
+- King's Shield
+- Swords Dance
+- Shadow Sneak
+- Sacred Sword
+
+Friends List AI Partner
+
+Porygon-Z-3 @ Expert Belt
+Ability: Analytic
+EVs: 252 HP / 252 SpA
+Modest Nature
+- Psychic
+- Ice Beam
+- Signal Beam
+- Charge Beam
+
+Nidoqueen-3 @ Black Sludge
+Ability: Sheer Force
+EVs: 252 HP / 252 SpA
+Modest Nature
+- Sludge Bomb
+- Earth Power
+- Flamethrower
+- Ice Beam
+
+
+YV3G-WWWW-WWW3-G7HN
+Battle 86 vs. Scientist Neils [Eelektross-4, Cradily-4] & Roller Skater Ryker [Lanturn-3, Drifblim-3]

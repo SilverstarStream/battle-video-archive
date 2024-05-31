@@ -1,0 +1,34 @@
+C-Coal
+Alpha Sapphire Singles
+
+Landorus @ Life Orb
+Ability: Sheer Force
+EVs: 4 Atk / 252 SpA / 252 Spe
+IVs: 30 Def
+Naive Nature
+- Earth Power
+- Sludge Wave
+- Psychic
+- Rock Slide
+
+Slowbro @ Slowbronite
+Ability: Regenerator
+EVs: 244 HP / 252 Def / 4 SpA / 4 SpD / 4 Spe
+Bold Nature
+- Scald
+- Iron Defense
+- Calm Mind
+- Rest
+
+Chansey @ Eviolite
+Ability: Natural Cure
+EVs: 4 HP / 244 Def / 4 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Seismic Toss
+- Substitute
+- Minimize
+- Soft-Boiled
+
+
+AE5G-WWWW-WW56-SMQQ
+Battle 463 vs. Artist Redd [Nidoking-4, Quagsire-4, Venusaur-4]

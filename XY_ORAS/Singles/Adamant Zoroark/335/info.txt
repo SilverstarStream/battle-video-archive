@@ -1,0 +1,33 @@
+Hawke
+Y Singles
+
+Durant @ Choice Scarf
+Ability: Truant
+EVs: 252 HP / 4 Atk / 252 Spe
+Jolly Nature
+- Entrainment
+- Crunch
+- Iron Head
+- X-Scissor
+
+Dragonite @ Lum Berry
+Ability: Multiscale
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature
+- Dragon Dance
+- Dragon Claw
+- Fire Punch
+- Protect
+
+Absol @ Absolite
+Ability: Justified
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Swords Dance
+- Detect
+- Sucker Punch
+- Play Rough
+
+
+TXMG-WWWW-WWW9-NFZQ
+Battle 336 vs. Veteran Sibyl [Tornadus-2, Regirock-1, Latios-1]

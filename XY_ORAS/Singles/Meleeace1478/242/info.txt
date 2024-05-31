@@ -1,0 +1,37 @@
+Rose
+Alpha Sapphire Singles
+
+Greninja @ Life Orb
+Ability: Protean
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 30 Atk
+Timid Nature
+- Surf
+- Ice Beam
+- Dark Pulse
+- Grass Knot
+
+Scizor @ Scizorite
+Ability: Technician
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+- Bug Bite
+- Bullet Punch
+- Swords Dance
+- Roost
+
+Garchomp @ Choice Band
+Ability: Rough Skin
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Outrage
+- Earthquake
+- Iron Head
+- Rock Slide
+
+
+7GDW-WWWW-WWWN-KRHE
+Battle 243 vs. Veteran Zenobia [Cresselia-1, Suicune-2, Entei-1]
+
+M2BW-WWWW-WWWN-DHCC
+Battle 140 vs. Veteran Saba [Landorus-2, Heatran-3, Suicune-3]

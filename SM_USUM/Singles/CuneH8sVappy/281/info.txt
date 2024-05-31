@@ -1,0 +1,33 @@
+Benny
+Sun v1.2 Singles
+
+Tapu Fini @ Waterium Z
+Ability: Misty Surge
+EVs: 52 HP / 4 Def / 196 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Calm Mind
+- Rain Dance
+- Surf
+- Moonblast
+
+Scizor @ Scizorite
+Ability: Technician
+EVs: 244 HP / 108 Atk / 4 Def / 108 SpD / 44 Spe
+Adamant Nature
+- Swords Dance
+- Bullet Punch
+- Roost
+- Bug Bite
+
+Gliscor @ Toxic Orb
+Ability: Poison Heal
+EVs: 212 HP / 244 SpD / 52 Spe
+Careful Nature
+- Substitute
+- Protect
+- Toxic
+- Earthquake
+
+
+UVUW-WWWW-WWWR-A7D2
+Battle 282 (Loss) vs. Ace Trainer Bette [Decidueye-4, Rotom-Wash-3, Nidoqueen-3]

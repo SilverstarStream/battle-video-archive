@@ -1,0 +1,40 @@
+Chris
+Moon v1.2 Singles
+
+Cloyster @ Focus Sash
+Ability: Skill Link
+EVs: 236 Atk / 28 SpA / 244 Spe
+Naughty Nature
+- Icicle Spear
+- Liquidation
+- Surf
+- Shell Smash
+
+Gliscor @ Toxic Orb
+Ability: Poison Heal
+EVs: 212 HP / 4 Atk / 20 Def / 252 SpD / 20 Spe
+Careful Nature
+- Earthquake
+- Toxic
+- Protect
+- Substitute
+
+Aegislash @ Leftovers
+Ability: Stance Change
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 28 Spe
+Adamant Nature
+- Sacred Sword
+- Shadow Sneak
+- King's Shield
+- Swords Dance
+
+
+NACG-WWWW-WWWP-5XZB
+Battle 408 (Loss) vs. Dancer Jo [Golisopod-4, Gyarados-4, Crobat-3]
+
+RTBG-WWWW-WWWP-526K
+Battle 347 vs. Hiker Vivek [Jellicent-3, Probopass-3, Aggron-4]
+
+C4AW-WWWW-WWWP-52BY
+Battle 263 vs. Ace Trainer Poppy [Greninja-4, Mandibuzz-4, Salamence-4]

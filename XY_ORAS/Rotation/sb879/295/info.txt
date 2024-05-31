@@ -1,0 +1,43 @@
+Connor
+Alpha Sapphire Rotation
+
+Klefki @ Focus Sash
+Ability: Prankster
+Level: 1
+Calm Nature
+- Reflect
+- Rain Dance
+- Light Screen
+- Safeguard
+
+Carracosta @ Mental Herb
+Ability: Sturdy
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 1 HP / 31 Atk / 31 Def / 6 SpA / 21 SpD / 31 Spe
+Adamant Nature
+- Waterfall
+- Shell Smash
+- Knock Off
+- Protect
+
+Alomomola @ Leftovers
+Ability: Hydration
+EVs: 252 HP / 128 Def / 128 SpD
+Calm Nature
+- Wish
+- Toxic
+- Soak
+- Protect
+
+Audino @ Audinite
+Ability: Healer
+EVs: 252 HP / 252 Def / 4 Spe
+Bold Nature
+- Draining Kiss
+- Wish
+- Calm Mind
+- Heal Bell
+
+
+WDJW-WWWW-WWWE-GG3V
+Battle 296 vs. Veteran Dorian [Regirock-2, Cobalion-1, Zapdos-1, Latias-2]

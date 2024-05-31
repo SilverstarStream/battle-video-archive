@@ -1,0 +1,45 @@
+I
+Omega Ruby Rotation
+
+Gengar @ Focus Sash
+Ability: Levitate
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Shadow Ball
+- Toxic
+- Destiny Bond
+- Perish Song
+
+Dragonite @ Lum Berry
+Ability: Multiscale
+EVs: 212 HP / 84 Atk / 12 Def / 12 SpD / 188 Spe
+Adamant Nature
+- Outrage
+- Substitute
+- Roost
+- Dragon Dance
+
+Klefki @ Leftovers
+Ability: Prankster
+EVs: 228 HP / 252 Def / 28 SpD
+Bold Nature
+- Dazzling Gleam
+- Calm Mind
+- Substitute
+- Protect
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Double-Edge
+- Sucker Punch
+- Earthquake
+- Fake Out
+
+
+A5PW-WWWW-WW3X-XGJS
+Battle 1439 vs. Pokémon Ranger Tanner [Lapras-4, Ferrothorn-4, Barbaracle-4, Starmie-4]
+
+XH3G-WWWW-WW3X-XGLH
+Battle 512 vs. Hex Maniac Celia [Mismagius-4, Chandelure-4, Reuniclus-4, Slowking-4]

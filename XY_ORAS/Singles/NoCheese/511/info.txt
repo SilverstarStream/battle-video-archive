@@ -1,0 +1,33 @@
+C-Coal
+Alpha Sapphire Singles
+
+Dragonite @ Lum Berry
+Ability: Multiscale
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Outrage
+- Earthquake
+- Fire Punch
+- Dragon Dance
+
+Suicune @ Chesto Berry
+Ability: Pressure
+EVs: 240 HP / 252 Def / 4 SpD / 12 Spe
+Bold Nature
+- Scald
+- Substitute
+- Calm Mind
+- Rest
+
+Metagross @ Metagrossite
+Ability: Clear Body
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Iron Head
+- Ice Punch
+- Thunder Punch
+- Bullet Punch
+
+
+C9CG-WWWW-WWXF-BJHN
+Battle 512 vs. Scientist Jane [Gengar-4, Nidoqueen-4, Manectric-4]

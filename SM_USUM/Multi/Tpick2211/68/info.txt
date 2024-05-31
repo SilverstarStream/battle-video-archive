@@ -1,0 +1,44 @@
+Thomas
+Sun v1.1 Multi (with AI partner)
+
+Greninja @ Focus Sash
+Ability: Protean
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Scald
+- Mat Block
+- Ice Beam
+- Grass Knot
+
+Salamence @ Salamencite
+Ability: Intimidate
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Protect
+- Hyper Voice
+- Dragon Pulse
+- Flamethrower
+
+Dancer Jo
+
+Metagross-4 @ Metagrossite
+Ability: Clear Body
+EVs: 252 Atk / 252 Spe
+Jolly Nature
+- Zen Headbutt
+- Meteor Mash
+- Brick Break
+- Bullet Punch
+
+Zapdos-2 @ Bright Powder
+Ability: Pressure
+EVs: 252 HP / 252 SpD
+Bold Nature
+- Charge Beam
+- Ancient Power
+- Double Team
+- Roost
+
+
+5JUW-WWWW-WWW5-GAR3
+Battle 50 vs. Battle Legend Red [Snorlax-4, Lapras-3] & Battle Legend Blue [Pidgeot-3, Exeggutor-2]

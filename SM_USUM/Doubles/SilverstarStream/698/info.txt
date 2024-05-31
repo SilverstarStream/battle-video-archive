@@ -1,0 +1,120 @@
+Silver
+Ultra Sun v1.2 Doubles
+
+Tapu Koko @ Choice Specs
+Ability: Electric Surge
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Thunderbolt
+- Dazzling Gleam
+- Electroweb
+- Volt Switch
+
+Kartana @ Focus Sash
+Ability: Beast Boost
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Leaf Blade
+- Knock Off
+- Tailwind
+- Protect
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 244 HP / 44 Atk / 28 Def / 52 SpD / 140 Spe
+Adamant Nature
+- Fake Out
+- Double-Edge
+- Sucker Punch
+- Seismic Toss
+
+Kommo-o @ Kommonium Z
+Ability: Bulletproof
+EVs: 20 Atk / 236 SpA / 252 Spe
+Modest Nature
+- Clanging Scales
+- Superpower
+- Flamethrower
+- Protect
+
+
+FTBW-WWWW-WWXE-SL5Q
+Battle 699 (Loss) vs. Sightseer Ezra [Latios-4, Vikavolt-3, Heatran-4, Drampa-3]
+
+U3ZW-WWWW-WWXE-SL5Z
+Battle 620 vs. Pokémon Trainer Anabel [Lucario-4, Alakazam-3, Raikou-1, Latios-1]
+
+Battle600
+Battle 600 vs. Pokémon Trainer Cynthia [Lucario-4, Garchomp-4, Spiritomb-4, Milotic-3]
+
+54PW-WWWW-WWXE-SL5N
+Battle 586 vs. Aether Foundation Harvey [Sableye-4, Lickilicky-3, Exploud-4, Rhyperior-4]
+
+DRGG-WWWW-WWXE-SL5M
+Battle 584 vs. Youth Athlete Buddy [Jolteon-3, Electrode-3, Greninja-4, Accelgor-4]
+
+Battle500
+Battle 500 vs. Pokémon Trainer Plumeria [Lurantis-4, Gengar-3, Salazzle-4, Toxapex-4]
+
+Battle400
+Battle 400 vs. Pokémon Trainer Kukui [Incineroar-4, Decidueye-3, Braviary-4, Snorlax-4]
+
+S53G-WWWW-WWXE-SL5K
+Battle 376 vs. Preschooler Victor [Cresselia-4, Latias-3, Latios-3, Kommo-o-3]
+
+Tapu Koko @ Choice Specs
+Ability: Electric Surge
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Thunderbolt
+- Dazzling Gleam
+- Electroweb
+- Volt Switch
+
+Kartana @ Focus Sash
+Ability: Beast Boost
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Leaf Blade
+- Sacred Sword
+- Tailwind
+- Protect
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 244 HP / 44 Atk / 28 Def / 52 SpD / 140 Spe
+Adamant Nature
+- Fake Out
+- Double-Edge
+- Sucker Punch
+- Seismic Toss
+
+Kommo-o @ Kommonium Z
+Ability: Bulletproof
+EVs: 20 Atk / 236 SpA / 252 Spe
+Modest Nature
+- Clanging Scales
+- Superpower
+- Flamethrower
+- Protect
+
+4PFG-WWWW-WWXE-SL5J
+Battle 369 vs. Ace Trainer Raz [Electrode-3, Jolteon-3, Weavile-3, Alakazam-3]
+
+C66W-WWWW-WWXE-SL5Y
+Battle 360 vs. Pokémon Trainer Anabel [Raikou-3, Alakazam-4, Entei-2, Lucario-3]
+
+TZLW-WWWW-WWXE-SL5G
+Battle 330 vs. Pokémon Trainer Kukui [Decidueye-3, Magnezone-4, Primarina-4, Braviary-4]
+
+Battle300
+Battle 300 vs. Pokémon Trainer Plumeria [Gengar-4, Toxapex-3, Lurantis-4, Crobat-4]
+
+Battle200
+Battle 200 vs. Pokémon Trainer Sina [Glaceon-3, Lilligant-4, Oranguru-4, Mandibuzz-4]
+
+9M7G-WWWW-WWXE-SL5E
+Battle 183 vs. Office Worker Savir [Raichu-Alola-2, Magnezone-4, Vikavolt-3, Manectric-3]
+
+VUEG-WWWW-WWXE-SL5S
+Battle 100 vs. Pokémon Trainer Plumeria [Salazzle-4, Gengar-4, Crobat-4, Toxapex-3]

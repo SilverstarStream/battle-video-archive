@@ -1,0 +1,87 @@
+Luana
+Omega Ruby Doubles
+
+Greninja @ Focus Sash
+Ability: Protean
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+- Ice Beam
+- Grass Knot
+- Dark Pulse
+- Mat Block
+
+Blaziken @ Blazikenite
+Ability: Speed Boost
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature
+- Flare Blitz
+- Low Kick
+- Rock Slide
+- Protect
+
+Thundurus-Therian @ Choice Specs
+Ability: Volt Absorb
+EVs: 164 HP / 8 Def / 84 SpA / 252 Spe
+IVs: 30 Def
+Timid Nature
+- Thunderbolt
+- Grass Knot
+- Dark Pulse
+- Volt Switch
+
+Scizor @ Life Orb
+Ability: Technician
+EVs: 212 HP / 252 Atk / 44 Spe
+Adamant Nature
+- Bullet Punch
+- Bug Bite
+- Superpower
+- Protect
+
+
+QAUW-WWWW-WWXR-KVHM
+Battle 1029 vs. Roller Skater Ryker [Ampharos-4, Raichu-3, Vespiquen-4, Charizard-3]
+
+Weavile @ Focus Sash
+Ability: Pressure
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Knock Off
+- Ice Punch
+- Fake Out
+- Protect
+
+Gardevoir @ Gardevoirite
+Ability: Trace
+EVs: 4 HP / 4 Def / 248 SpA / 252 Spe
+IVs: 31 HP / 15 Atk / 31 Def / 30 SpA / 30 SpD / 31 Spe
+Timid Nature
+- Hyper Voice
+- Psyshock
+- Hidden Power
+- Protect
+
+Gastrodon @ Assault Vest
+Ability: Storm Drain
+EVs: 164 HP / 108 Def / 224 SpA / 12 SpD
+IVs: 5 Spe
+Quiet Nature
+- Scald
+- Earth Power
+- Icy Wind
+- Clear Smog
+
+Scizor @ Life Orb
+Ability: Technician
+EVs: 212 HP / 252 Atk / 44 Spe
+Adamant Nature
+- Bullet Punch
+- Bug Bite
+- Superpower
+- Protect
+
+KS4W-WWWW-WW4T-DS75
+Battle 617 vs. Veteran Saba [Regirock-4, Cobalion-4, Cresselia-1, Raikou-4]
+
+6PCG-WWWW-WW4T-DS8C
+Battle 607 vs. Veteran Alfie [Entei-4, Regirock-3, Moltres-3, Latios-3]

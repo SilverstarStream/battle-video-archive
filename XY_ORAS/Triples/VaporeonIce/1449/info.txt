@@ -1,0 +1,65 @@
+Phil
+Omega Ruby Triples
+
+Audino @ Audinite
+Ability: Regenerator
+EVs: 252 HP / 252 Def / 4 SpA
+IVs: 0 Spe
+Relaxed Nature
+- Dazzling Gleam
+- Trick Room
+- Flamethrower
+- Helping Hand
+
+Aron @ Berry Juice
+Ability: Sturdy
+Level: 1
+Naughty Nature
+- Protect
+- Endeavor
+- Toxic
+- Swagger
+
+Hariyama @ Toxic Orb
+Ability: Guts
+EVs: 252 Atk / 128 Def / 128 SpD
+IVs: 0 Spe
+Brave Nature
+- Fake Out
+- Close Combat
+- Knock Off
+- Wide Guard
+
+Sylveon @ Choice Specs
+Ability: Pixilate
+EVs: 252 HP / 4 Def / 252 SpA
+IVs: 0 Spe
+Quiet Nature
+- Hyper Voice
+- Shadow Ball
+- Psyshock
+- Swift
+
+Cofagrigus @ Lum Berry
+Ability: Mummy
+EVs: 252 HP / 252 SpA
+IVs: 30 Atk / 0 Spe
+Quiet Nature
+- Trick Room
+- Energy Ball
+- Shadow Ball
+- Nasty Plot
+
+Lickilicky @ Life Orb
+Ability: Cloud Nine
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 0 Spe
+Brave Nature
+- Protect
+- Explosion
+- Brick Break
+- Knock Off
+
+
+59HG-WWWW-WWXR-QXNA
+Battle 1450 vs. Butler Noah [Walrein-4, Bastiodon-4, Porygon2-4, Rhyperior-4, Aerodactyl-4, Luxray-4]

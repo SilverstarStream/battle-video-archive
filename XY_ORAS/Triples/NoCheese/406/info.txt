@@ -1,0 +1,61 @@
+C-Coal
+Y Triples
+
+Greninja @ Focus Sash
+Ability: Protean
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 22 SpD
+Timid Nature
+- Mat Block
+- Dark Pulse
+- Ice Beam
+- Extrasensory
+
+Sylveon @ Choice Specs
+Ability: Pixilate
+EVs: 12 HP / 252 SpA / 244 Spe
+Modest Nature
+- Hyper Voice
+- Psyshock
+- Shadow Ball
+- Baton Pass
+
+Talonflame @ Sharp Beak
+Ability: Gale Wings
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+- Tailwind
+- Brave Bird
+- Flare Blitz
+- Protect
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Return
+- Fake Out
+- Crunch
+- Power-Up Punch
+
+Aron @ Berry Juice
+Ability: Sturdy
+Level: 1
+Timid Nature
+- Protect
+- Endeavor
+- Toxic
+- Tackle
+
+Aegislash @ Leftovers
+Ability: Stance Change
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+- Shadow Sneak
+- Swords Dance
+- King's Shield
+- Sacred Sword
+
+
+CFLG-WWWW-WWW9-XWHS
+Battle 407 vs. Worker Rasmus [Excadrill-2, Ferrothorn-1, Tyranitar-2, Gigalith-3, Garchomp-3, Gliscor-1]

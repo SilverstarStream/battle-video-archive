@@ -1,0 +1,405 @@
+Maximus
+Omega Ruby Triples
+
+Aromatisse @ Lum Berry
+Ability: Aroma Veil
+EVs: 252 HP / 252 Def / 4 SpD
+IVs: 0 Spe
+Sassy Nature
+- Dazzling Gleam
+- Trick Room
+- Aromatherapy
+- Helping Hand
+
+Taillow @ Focus Sash
+Ability: Scrappy
+Level: 1
+EVs: 252 HP / 252 Atk / 4 SpD
+Brave Nature
+- Endeavor
+- Quick Attack
+- Protect
+- Toxic
+
+Aegislash @ Weakness Policy
+Ability: Stance Change
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 0 Spe
+Quiet Nature
+- Wide Guard
+- King's Shield
+- Shadow Ball
+- Flash Cannon
+
+Conkeldurr @ Assault Vest
+Ability: Iron Fist
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 0 Spe
+Brave Nature
+- Drain Punch
+- Mach Punch
+- Ice Punch
+- Knock Off
+
+Gastrodon @ Rindo Berry
+Ability: Storm Drain
+EVs: 100 HP / 92 Def / 252 SpA / 64 SpD
+IVs: 0 Spe
+Quiet Nature
+- Scald
+- Clear Smog
+- Earth Power
+- Ice Beam
+
+Clawitzer @ Life Orb
+Ability: Mega Launcher
+EVs: 252 HP / 4 Def / 252 SpA
+IVs: 0 Spe
+Quiet Nature
+- Ice Beam
+- Water Pulse
+- Dark Pulse
+- Aura Sphere
+
+
+3ADW-WWWW-WW3J-7VJG
+Battle 3400 vs. Beauty Kenna [Whiscash-4, Poliwrath-4, Starmie-4, Samurott-4, Lanturn-4, Mamoswine-4]
+
+Aromatisse @ Lum Berry
+Ability: Aroma Veil
+EVs: 252 HP / 252 Def / 4 SpD
+IVs: 0 Spe
+Sassy Nature
+- Dazzling Gleam
+- Trick Room
+- Heal Pulse
+- Helping Hand
+
+Taillow @ Focus Sash
+Ability: Scrappy
+Level: 1
+EVs: 252 HP / 252 Atk / 4 SpD
+Brave Nature
+- Endeavor
+- Quick Attack
+- Protect
+- Growl
+
+Aegislash @ Weakness Policy
+Ability: Stance Change
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 0 Spe
+Quiet Nature
+- Wide Guard
+- King's Shield
+- Shadow Ball
+- Flash Cannon
+
+Conkeldurr @ Assault Vest
+Ability: Iron Fist
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 0 Spe
+Brave Nature
+- Drain Punch
+- Mach Punch
+- Ice Punch
+- Knock Off
+
+Gastrodon @ Rindo Berry
+Ability: Storm Drain
+EVs: 100 HP / 92 Def / 252 SpA / 64 SpD
+IVs: 0 Spe
+Quiet Nature
+- Scald
+- Clear Smog
+- Earth Power
+- Ice Beam
+
+Clawitzer @ Life Orb
+Ability: Mega Launcher
+EVs: 252 HP / 4 Def / 252 SpA
+IVs: 0 Spe
+Quiet Nature
+- Ice Beam
+- Water Pulse
+- Dark Pulse
+- Aura Sphere
+
+ZPLG-WWWW-WW3J-7VKA
+Battle 3176 vs. Chef Frank [Meganium-1, Rapidash-2, Tangrowth-4, Leafeon-2, Exeggutor-3, Shiftry-2]
+
+Aromatisse @ Lum Berry
+Ability: Aroma Veil
+EVs: 252 HP / 252 Def / 4 SpD
+IVs: 0 Spe
+Sassy Nature
+- Dazzling Gleam
+- Trick Room
+- Heal Bell
+- Helping Hand
+
+Taillow @ Focus Sash
+Ability: Scrappy
+Level: 1
+EVs: 252 HP / 252 Atk / 4 SpD
+Brave Nature
+- Fly
+- Endeavor
+- Quick Attack
+- Protect
+
+Aegislash @ Weakness Policy
+Ability: Stance Change
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 0 Spe
+Quiet Nature
+- Wide Guard
+- King's Shield
+- Shadow Ball
+- Flash Cannon
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 0 Spe
+Brave Nature
+- Fake Out
+- Double-Edge
+- Drain Punch
+- Sucker Punch
+
+Clawitzer @ Life Orb
+Ability: Mega Launcher
+EVs: 252 HP / 4 Def / 252 SpA
+IVs: 0 Spe
+Quiet Nature
+- Ice Beam
+- Water Pulse
+- Dark Pulse
+- Aura Sphere
+
+Conkeldurr @ Assault Vest
+Ability: Iron Fist
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 0 Spe
+Brave Nature
+- Drain Punch
+- Mach Punch
+- Ice Punch
+- Knock Off
+
+TDJG-WWWW-WW3J-7VL7
+Battle 2837 vs. Garçon Darcy [Spiritomb-4, Trevenant-4, Armaldo-4, Weezing-4, Ludicolo-4, Jynx-4]
+
+QR9G-WWWW-WW3J-7VLN
+Battle 2804 vs. Chef Cobb [Samurott-2, Cryogonal-3, Beartic-2, Abomasnow-3, Vanilluxe-1, Mamoswine-1]
+
+Aromatisse @ Lum Berry
+Ability: Aroma Veil
+EVs: 252 HP / 252 Def / 4 SpD
+IVs: 0 Spe
+Sassy Nature
+- Dazzling Gleam
+- Trick Room
+- Heal Bell
+- Helping Hand
+
+Taillow @ Focus Sash
+Ability: Scrappy
+Level: 1
+EVs: 252 HP / 252 Atk / 4 SpD
+Brave Nature
+- Fly
+- Endeavor
+- Quick Attack
+- Protect
+
+Aegislash @ Leftovers
+Ability: Stance Change
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 0 Spe
+Quiet Nature
+- Wide Guard
+- King's Shield
+- Shadow Ball
+- Flash Cannon
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 0 Spe
+Brave Nature
+- Fake Out
+- Double-Edge
+- Drain Punch
+- Sucker Punch
+
+Clawitzer @ Life Orb
+Ability: Mega Launcher
+EVs: 252 HP / 4 Def / 252 SpA
+IVs: 0 Spe
+Quiet Nature
+- Dragon Pulse
+- Water Pulse
+- Dark Pulse
+- Aura Sphere
+
+Conkeldurr @ Assault Vest
+Ability: Iron Fist
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 0 Spe
+Brave Nature
+- Drain Punch
+- Mach Punch
+- Ice Punch
+- Knock Off
+
+446W-WWWW-WW3J-7VM6
+Battle 2460 vs. Artist Rose [Dusknoir-4, Muk-4, Walrein-4, Roserade-4, Bastiodon-4, Krookodile-4]
+
+Greninja @ Focus Sash
+Ability: Protean
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 16 Def
+Timid Nature
+- Mat Block
+- Dark Pulse
+- Ice Beam
+- Grass Knot
+
+Thundurus @ Sitrus Berry
+Ability: Prankster
+EVs: 244 HP / 108 Def / 100 SpA / 56 SpD
+IVs: 30 SpA / 30 SpD
+Calm Nature
+- Thunderbolt
+- Thunder Wave
+- Grass Knot
+- Taunt
+
+Salamence @ Salamencite
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Dragon Dance
+- Return
+- Protect
+- Dragon Claw
+
+Talonflame @ Sharp Beak
+Ability: Gale Wings
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Fly
+- Protect
+- Brave Bird
+- Flare Blitz
+
+Aegislash @ Weakness Policy
+Ability: Stance Change
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 30 SpA / 0 Spe
+Brave Nature
+- Shadow Sneak
+- Sacred Sword
+- Wide Guard
+- King's Shield
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Dragon Claw
+- Iron Head
+- Earthquake
+- Protect
+
+QNXW-WWWW-WW3J-7VN4
+Battle 2385 vs. Worker Ivan [Swampert-4, Empoleon-4, Magnezone-4, Archeops-4, Tyrantrum-4, Scizor-4]
+
+M59W-WWWW-WW3J-7VZU
+Battle 2311 vs. Madame Arabella [Lilligant-4, Hariyama-4, Aromatisse-4, Druddigon-4, Ambipom-4, Unfezant-4]
+
+B5CW-WWWW-WW3J-7VQM
+Battle 2296 vs. Chef Cobb [Greninja-4, Porygon2-1, Abomasnow-3, Avalugg-4, Glaceon-4, Walrein-2]
+
+FJ2W-WWWW-WW35-C595
+Battle 2192 vs. Scientist Candela [Raichu-4, Roserade-4, Manectric-4, Tyrantrum-4, Weezing-4, Crobat-4]
+
+Greninja @ Focus Sash
+Ability: Protean
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 16 Def
+Timid Nature
+- Mat Block
+- Dark Pulse
+- Ice Beam
+- Grass Knot
+
+Thundurus @ Sitrus Berry
+Ability: Prankster
+EVs: 244 HP / 108 Def / 100 SpA / 56 SpD
+IVs: 30 SpA / 30 SpD
+Calm Nature
+- Thunderbolt
+- Thunder Wave
+- Hidden Power
+- Taunt
+
+Salamence @ Salamencite
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Dragon Dance
+- Return
+- Protect
+- Dragon Claw
+
+Talonflame @ Choice Band
+Ability: Gale Wings
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Tailwind
+- U-turn
+- Brave Bird
+- Flare Blitz
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Dragon Claw
+- Iron Head
+- Earthquake
+- Protect
+
+Aegislash @ Weakness Policy
+Ability: Stance Change
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 30 SpA / 0 Spe
+Brave Nature
+- Shadow Sneak
+- Sacred Sword
+- Wide Guard
+- King's Shield
+
+SCEW-WWWW-WW2B-PYST
+Battle 1600 vs. Veteran Jake [Virizion-2, Heatran-1, Landorus-1, Terrakion-2, Regigigas-2, Moltres-2]
+
+BZQG-WWWW-WW2A-T3VB
+Battle 1525 vs. Veteran Jake [Terrakion-2, Latios-1, Zapdos-2, Tornadus-2, Articuno-2, Regice-2]
+
+TFJG-WWWW-WW2A-T43Z
+Battle 1446 vs. Tourist Geneva [Starmie-4, Honchkrow-4, Zoroark-4, Flygon-4, Claydol-4, Aerodactyl-4]
+
+3CAG-WWWW-WW2A-T44U
+Battle 1418 vs. Veteran Sibyl [Regigigas-1, Landorus-1, Moltres-1, Regirock-2, Registeel-1, Raikou-1]
+
+CCDW-WWWW-WW2B-32VJ
+Battle 1361 vs. Artist Wenge [Blissey-4, Vanilluxe-4, Accelgor-4, Tentacruel-4, Salamence-4, Carracosta-4]
+
+9PGW-WWWW-WW2A-T46W
+Battle 1329 vs. Veteran Eleanor [Thundurus-4, Cresselia-3, Articuno-4, Virizion-3, Regirock-4, Heatran-3]
+
+WK5W-WWWW-WW2B-33WN
+Battle 1139 vs. Beauty Lana [Greninja-2, Ludicolo-1, Aurorus-4, Weezing-3, Floatzel-1, Seismitoad-2]

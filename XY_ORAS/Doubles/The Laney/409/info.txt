@@ -1,0 +1,53 @@
+Laney
+Omega Ruby Doubles
+
+Politoed @ Choice Scarf
+Ability: Drizzle
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 30 SpA
+Timid Nature
+- Hidden Power
+- Scald
+- Ice Beam
+- Rain Dance
+
+Swampert @ Swampertite
+Ability: Torrent
+EVs: 252 Atk / 252 Spe
+Adamant Nature
+- Earthquake
+- Ice Punch
+- Waterfall
+- Protect
+
+Thundurus-Therian @ Focus Sash
+Ability: Volt Absorb
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 30 Def
+Timid Nature
+- Grass Knot
+- Dark Pulse
+- Thunder
+- Protect
+
+Scizor @ Lum Berry
+Ability: Technician
+EVs: 244 HP / 252 Atk / 12 Spe
+Adamant Nature
+- Protect
+- Swords Dance
+- Bullet Punch
+- Bug Bite
+
+
+AC3G-WWWW-WWWM-A7KS
+Battle 410 vs. Psychic Uberto [Slowking-4, Slowbro-4, Gourgeist-4, Trevenant-4]
+
+J98W-WWWW-WWWM-A7QD
+Battle 366 vs. Pokémon Ranger Hunter [Kingdra-4, Tangrowth-4, Meganium-4, Leafeon-4]
+
+AJVG-WWWW-WWWM-A8WM
+Battle 355 vs. Black Belt Sebastian [Aggron-4, Mienshao-4, Ninetales-4, Charizard-4]
+
+ZPLW-WWWW-WWWM-A7TH
+Battle 308 vs. Veteran Hera [Heatran-2, Latios-1, Regigigas-2, Regirock-1]

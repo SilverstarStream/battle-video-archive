@@ -1,0 +1,45 @@
+Maxi
+X Multi (with Human partner)
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Return
+- Power-Up Punch
+- Sucker Punch
+- Fake Out
+
+Dragonite @ Weakness Policy
+Ability: Multiscale
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Dragon Dance
+- Dragon Claw
+- Brick Break
+- Extreme Speed
+
+Paul
+Y
+
+Alakazam @ Alakazite
+Ability: Magic Guard
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Psychic
+- Focus Blast
+- Dazzling Gleam
+- Shadow Ball
+
+Clawitzer @ Choice Specs
+Ability: Mega Launcher
+EVs: 252 HP / 4 Def / 252 SpA
+Modest Nature
+- Water Pulse
+- Dragon Pulse
+- Aura Sphere
+- Dark Pulse
+
+
+6QAW-WWWW-WWW6-HPKC
+Battle 104 vs. Ace Trainer Nikita [Blaziken-4, Haxorus-4] & Veteran Isabella [Registeel-2, Landorus-1]

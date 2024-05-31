@@ -1,0 +1,42 @@
+Torqan
+Ultra Sun v1.2 Doubles
+
+Tapu Koko @ Choice Specs
+Ability: Electric Surge
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+- Thunder
+- Dazzling Gleam
+- Hidden Power
+- Volt Switch
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+EVs: 4 Def / 252 SpA / 252 Spe
+Modest Nature
+- Tailwind
+- Hurricane
+- Brine
+- Protect
+
+Celesteela @ Leftovers
+Ability: Beast Boost
+EVs: 244 HP / 28 Atk / 108 Def / 124 SpD / 4 Spe
+Careful Nature
+- Heavy Slam
+- Leech Seed
+- Wide Guard
+- Protect
+
+Swampert @ Swampertite
+Ability: Damp
+EVs: 252 Atk / 4 Def / 252 Spe
+Adamant Nature
+- Earthquake
+- Waterfall
+- Ice Punch
+- Protect
+
+
+BU5G-WWWW-WWWL-RK5G
+Battle 202 (Loss) vs. Pokémon Breeder Lori [Cofagrigus-3, Steelix-4, Ferrothorn-4, Musharna-4]

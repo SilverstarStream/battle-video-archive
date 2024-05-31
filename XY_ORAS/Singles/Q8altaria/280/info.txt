@@ -1,0 +1,33 @@
+Alysrazor
+Omega Ruby Singles
+
+Durant @ Choice Scarf
+Ability: Truant
+EVs: 252 HP / 28 SpD / 228 Spe
+Jolly Nature
+- Entrainment
+- Protect
+- Iron Head
+- Dig
+
+Drapion @ Black Sludge
+Ability: Battle Armor
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+- Protect
+- Acupressure
+- Substitute
+- Knock Off
+
+Skarmory @ Red Card
+Ability: Sturdy
+EVs: 252 HP / 12 SpD / 244 Spe
+Timid Nature
+- Taunt
+- Thief
+- Whirlwind
+- Flash
+
+
+AGCW-WWWW-WW5T-4SEA
+Battle 281 vs. Tourist Aire [Nidoking-4, Talonflame-4, Clawitzer-4]

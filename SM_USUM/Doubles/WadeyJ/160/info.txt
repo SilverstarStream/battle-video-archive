@@ -1,0 +1,123 @@
+Jay
+Ultra Sun v1.2 Doubles
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Protect
+- Return
+- Crunch
+- Fake Out
+
+Kartana @ Focus Sash
+Ability: Beast Boost
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Leaf Blade
+- Sacred Sword
+- Smart Strike
+- Protect
+
+Marowak-Alola @ Thick Club
+Ability: Lightning Rod
+EVs: 252 HP / 180 Atk / 4 Def / 68 SpD / 4 Spe
+Adamant Nature
+- Earthquake
+- Shadow Bone
+- Flare Blitz
+- Protect
+
+Tapu Fini @ Leftovers
+Ability: Misty Surge
+EVs: 244 HP / 12 Def / 188 SpA / 52 SpD / 12 Spe
+Modest Nature
+- Moonblast
+- Scald
+- Ice Beam
+- Protect
+
+
+SR7W-WWWW-WWWE-MUBM
+Battle 160 vs. Captain Kiawe [Talonflame-3, Kangaskhan-3, Marowak-Alola-2, Salazzle-4]
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Protect
+- Return
+- Crunch
+- Fake Out
+
+Kartana @ Focus Sash
+Ability: Beast Boost
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Leaf Blade
+- Sacred Sword
+- Smart Strike
+- Protect
+
+Marowak-Alola @ Thick Club
+Ability: Lightning Rod
+EVs: 252 HP / 180 Atk / 4 Def / 68 SpD / 4 Spe
+Adamant Nature
+- Earthquake
+- Shadow Bone
+- Flare Blitz
+- Protect
+
+Tapu Fini @ Leftovers
+Ability: Misty Surge
+EVs: 244 HP / 12 Def / 188 SpA / 52 SpD / 12 Spe
+Modest Nature
+- Moonblast
+- Scald
+- Protect
+- Ice Beam
+
+WPJW-WWWW-WWWD-96VK
+Battle 150 vs. Pokémon Trainer Wally [Altaria-3, Magnezone-3, Garchomp-3, Gallade-4]
+
+KLQW-WWWW-WWWD-99PA
+Battle 96 vs. Scientist Robyn [Aggron-3, Slowking-4, Lickilicky-4, Reuniclus-4]
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Protect
+- Return
+- Crunch
+- Fake Out
+
+Kartana @ Focus Sash
+Ability: Beast Boost
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Leaf Blade
+- Sacred Sword
+- Smart Strike
+- Protect
+
+Marowak-Alola @ Thick Club
+Ability: Lightning Rod
+EVs: 252 HP / 180 Atk / 4 Def / 68 SpD / 4 Spe
+Adamant Nature
+- Earthquake
+- Shadow Bone
+- Flare Blitz
+- Protect
+
+Tapu Fini @ Leftovers
+Ability: Misty Surge
+EVs: 244 HP / 12 Def / 188 SpA / 52 SpD / 12 Spe
+Modest Nature
+- Moonblast
+- Scald
+- Protect
+- Taunt
+
+U3LG-WWWW-WWWD-9M2X
+Battle 64 vs. Lass Samantha [Zapdos-3, Regice-4, Regigigas-3, Cobalion-3]

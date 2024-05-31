@@ -1,0 +1,62 @@
+Django
+Y Triples
+
+Talonflame @ Sharp Beak
+Ability: Gale Wings
+EVs: 48 HP / 252 Atk / 208 Spe
+Adamant Nature
+- Tailwind
+- Protect
+- Brave Bird
+- Taunt
+
+Kangaskhan @ Kangaskhanite
+Ability: Inner Focus
+EVs: 108 HP / 252 Atk / 48 Def / 48 SpD / 52 Spe
+IVs: 19 Def
+Adamant Nature
+- Return
+- Sucker Punch
+- Fake Out
+- Power-Up Punch
+
+Greninja @ Life Orb
+Ability: Protean
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Mat Block
+- Scald
+- Ice Beam
+- Grass Knot
+
+Excadrill @ Focus Sash
+Ability: Mold Breaker
+EVs: 252 Atk / 4 SpA / 252 Spe
+Adamant Nature
+- Earthquake
+- Rock Slide
+- Iron Head
+- Protect
+
+Zapdos @ Wide Lens
+Ability: Pressure
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 30 Atk / 30 SpA
+Modest Nature
+- Thunderbolt
+- Hidden Power
+- Heat Wave
+- Detect
+
+Dragonite @ Lum Berry
+Ability: Multiscale
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Dragon Dance
+- Dragon Claw
+- Extreme Speed
+- Waterfall
+
+
+BMFG-WWWW-WWW7-UTHY
+Battle 1041 vs. Veteran Zenobia [Cresselia-2, Cobalion-1, Regigigas-1, Articuno-2, Entei-1, Landorus-1]

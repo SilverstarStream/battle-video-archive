@@ -1,0 +1,33 @@
+Phil
+Y Singles
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+EVs: 44 HP / 244 Def / 220 Spe
+Timid Nature
+- Taunt
+- Encore
+- Switcheroo
+- Memento
+
+Durant @ Choice Scarf
+Ability: Truant
+EVs: 172 HP / 108 Def / 228 Spe
+Jolly Nature
+- Entrainment
+- Iron Head
+- X-Scissor
+- Aerial Ace
+
+Drapion @ Black Sludge
+Ability: Battle Armor
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+- Substitute
+- Protect
+- Acupressure
+- Knock Off
+
+
+HGDG-WWWW-WWW9-639S
+Battle 1175 vs. Pokémon Breeder Josiane [Volcarona-4, Tangrowth-4, Vanilluxe-4]

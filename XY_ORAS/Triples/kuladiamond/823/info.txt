@@ -1,0 +1,64 @@
+Green
+Alpha Sapphire Triples
+
+Greninja @ Focus Sash
+Ability: Protean
+EVs: 12 HP / 252 SpA / 244 Spe
+IVs: 23 Def
+Timid Nature
+- Mat Block
+- Dark Pulse
+- Ice Beam
+- Grass Knot
+
+Typhlosion @ Charcoal
+Ability: Blaze
+EVs: 12 HP / 252 SpA / 244 Spe
+IVs: 31 HP / 8 Atk / 31 Def / 30 SpA / 30 SpD / 31 Spe
+Modest Nature
+- Eruption
+- Flamethrower
+- Hidden Power
+- Protect
+
+Talonflame @ Sharp Beak
+Ability: Gale Wings
+EVs: 208 HP / 252 Atk / 48 Spe
+IVs: 30 SpA / 24 SpD
+Adamant Nature
+- Tailwind
+- Flare Blitz
+- Brave Bird
+- Sunny Day
+
+Gardevoir @ Gardevoirite
+Ability: Trace
+EVs: 4 HP / 4 Def / 248 SpA / 252 Spe
+IVs: 31 HP / 28 Atk / 31 Def / 30 SpA / 30 SpD / 31 Spe
+Timid Nature
+- Hyper Voice
+- Psyshock
+- Hidden Power
+- Protect
+
+Scizor @ Metal Coat
+Ability: Technician
+EVs: 252 HP / 164 Atk / 4 Def / 44 SpD / 44 Spe
+Adamant Nature
+- Bullet Punch
+- Quick Attack
+- U-turn
+- Brick Break
+
+Conkeldurr @ Assault Vest
+Ability: Guts
+EVs: 108 HP / 252 Atk / 4 Def / 144 SpD
+Adamant Nature
+- Drain Punch
+- Knock Off
+- Ice Punch
+- Mach Punch
+
+
+NAVG-WWWW-WWX2-43P6
+Battle 824 vs. Psychic Magus [Gothitelle-4, Chandelure-4, Drifblim-4, Gengar-4, Jynx-4, Medicham-4]

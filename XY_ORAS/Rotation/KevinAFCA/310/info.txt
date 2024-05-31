@@ -1,0 +1,45 @@
+AJ
+X Rotation
+
+Klefki @ Leftovers
+Ability: Prankster
+EVs: 228 HP / 252 Def / 28 SpD
+Bold Nature
+- Dazzling Gleam
+- Calm Mind
+- Substitute
+- Protect
+
+Dragonite @ Lum Berry
+Ability: Multiscale
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Substitute
+- Roost
+- Outrage
+- Dragon Dance
+
+Gengar @ Focus Sash
+Ability: Levitate
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Sludge Bomb
+- Destiny Bond
+- Protect
+- Shadow Ball
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Earthquake
+- Sucker Punch
+- Double-Edge
+- Fake Out
+
+
+7YAG-WWWW-WWW9-FMPH
+Battle 311 vs. Veteran Zenobia [Terrakion-1, Heatran-1, Articuno-1, Regice-1]
+
+8JAG-WWWW-WWW9-CE5H
+Battle 125 vs. Ace Trainer Victoria [Unfezant-4, Trevenant-4, Spiritomb-4, Hariyama-4]

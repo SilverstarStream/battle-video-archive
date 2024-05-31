@@ -1,0 +1,33 @@
+アティラ
+Ultra Moon v1.2 Singles
+
+Durant @ Choice Scarf
+Ability: Truant
+EVs: 172 HP / 108 Atk / 228 Spe
+Jolly Nature
+- Entrainment
+- Iron Head
+- X-Scissor
+- Superpower
+
+Cloyster @ Life Orb
+Ability: Skill Link
+EVs: 252 Atk / 4 Def / 252 Spe
+Adamant Nature
+- Protect
+- Shell Smash
+- Substitute
+- Icicle Spear
+
+Chansey @ Eviolite
+Ability: Natural Cure
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Minimize
+- Substitute
+- Soft-Boiled
+- Seismic Toss
+
+
+AQYW-WWWW-WWWZ-FR7R
+Battle 337 (Loss) vs. Veteran Ignacio [Raikou-3, Terrakion-4, Cobalion-3]

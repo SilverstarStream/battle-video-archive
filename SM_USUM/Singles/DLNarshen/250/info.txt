@@ -1,0 +1,43 @@
+Alex
+Sun v1.0 Singles
+
+Gyarados @ Gyaradosite
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Crunch
+- Dragon Dance
+- Waterfall
+- Substitute
+
+Aegislash @ Leftovers
+Ability: Stance Change
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 27 Spe
+Brave Nature
+- Iron Head
+- Swords Dance
+- Shadow Sneak
+- King's Shield
+
+Garchomp @ Choice Scarf
+Ability: Rough Skin
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature
+- Flamethrower
+- Poison Jab
+- Outrage
+- Earthquake
+
+
+ZUKW-WWWW-WWW4-3FRS
+Battle 230 vs. Pokémon Trainer Sina [Drampa-3, Glaceon-3, Mandibuzz-3]
+
+F4MW-WWWW-WWW4-3GWC
+Battle 206 vs. Veteran Xio [Gardevoir-4, Togekiss-3, Florges-4]
+
+P8ZG-WWWW-WWW4-3GXF
+Battle 200 vs. Pokémon Trainer Plumeria [Toxapex-3, Lurantis-3, Salazzle-4]
+
+CRSG-WWWW-WWW4-3GXL
+Battle 197 vs. Black Belt Bryson [Thundurus-2, Magmortar-3, Aggron-3]

@@ -1,0 +1,33 @@
+TSwift4Life
+Omega Ruby Singles
+
+Durant @ Choice Scarf
+Ability: Truant
+EVs: 252 HP / 252 Spe
+Jolly Nature
+- Entrainment
+- Thunder Wave
+- Toxic
+- Iron Head
+
+Salamence @ Salamencite
+Ability: Intimidate
+EVs: 252 Atk / 252 Spe
+Jolly Nature
+- Return
+- Dragon Dance
+- Protect
+- Earthquake
+
+Suicune @ Leftovers
+Ability: Pressure
+EVs: 252 HP / 252 Def / 4 Spe
+Bold Nature
+- Rest
+- Calm Mind
+- Scald
+- Substitute
+
+
+L4RG-WWWW-WWX3-VX7S
+Battle 284 vs. Garçon Porter [Gengar-4, Krookodile-4, Magnezone-4]

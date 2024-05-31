@@ -1,0 +1,43 @@
+Wanderer
+Moon v1.2 Doubles
+
+Tapu Koko @ Choice Specs
+Ability: Electric Surge
+EVs: 252 SpA / 4 SpD / 252 Spe
+IVs: 30 Atk / 30 Def
+Timid Nature
+- Thunderbolt
+- Dazzling Gleam
+- Volt Switch
+- Grass Knot
+
+Salamence @ Salamencite
+Ability: Intimidate
+EVs: 248 HP / 132 Atk / 56 SpD / 68 Spe
+Adamant Nature
+- Return
+- Dragon Dance
+- Roost
+- Protect
+
+Landorus-Therian @ Groundium Z
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Earthquake
+- U-turn
+- Rock Slide
+- Protect
+
+Milotic @ Electric Seed
+Ability: Competitive
+EVs: 176 HP / 4 Def / 156 SpA / 172 Spe
+Modest Nature
+- Icy Wind
+- Protect
+- Recover
+- Scald
+
+
+CUFW-WWWW-WWXF-DW5Z
+Battle 565 (Loss) vs. Lass Samantha [Regigigas-3, Latios-3, Cresselia-4, Suicune-4]

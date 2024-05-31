@@ -1,0 +1,66 @@
+Yang
+Ultra Sun v1.2 Doubles
+
+Kartana @ Focus Sash
+Ability: Beast Boost
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Leaf Blade
+- Sacred Sword
+- Tailwind
+- Detect
+
+Tapu Koko @ Choice Specs
+Ability: Electric Surge
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Thunderbolt
+- Dazzling Gleam
+- Electroweb
+- Volt Switch
+
+Kommo-o @ Kommonium Z
+Ability: Bulletproof
+EVs: 20 Atk / 236 SpA / 252 Spe
+Modest Nature
+- Clanging Scales
+- Close Combat
+- Flamethrower
+- Protect
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 244 HP / 44 Atk / 28 Def / 52 SpD / 140 Spe
+Adamant Nature
+- Fake Out
+- Double-Edge
+- Seismic Toss
+- Sucker Punch
+
+
+9P3G-WWWW-WWX8-5UN3
+Battle 1000 vs. Pokémon Trainer Colress [Porygon2-4, Porygon-Z-3, Klinklang-4, Metagross-4]
+
+S28G-WWWW-WWX8-5UKR
+Battle 936 vs. Dancer Tasanee [Garchomp-4, Cresselia-1, Raikou-1, Porygon-Z-4]
+
+ZFVG-WWWW-WWX8-5UK3
+Battle 809 vs. Cook Larry [Vanilluxe-3, Clawitzer-3, Ninetales-Alola-2, Glaceon-4]
+
+AXHW-WWWW-WWX7-DQQ5
+Battle 755 vs. Veteran Dooley [Entei-3, Cresselia-3, Raikou-4, Articuno-3]
+
+UZ5G-WWWW-WWX8-5UGW
+Battle 704 vs. Veteran Dooley [Charizard-3, Entei-3, Articuno-4, Zapdos-3]
+
+J6KW-WWWW-WWX8-5UF7
+Battle 701 vs. Preschooler Reina [Torterra-4, Chesnaught-3, Charizard-3, Typhlosion-4]
+
+7CXW-WWWW-WWX8-5UE8
+Battle 566 vs. Ace Trainer Tamah [Rhyperior-3, Torterra-3, Primarina-4, Rotom-Fan-4]
+
+AU7W-WWWW-WWX2-VF42
+Battle 422 vs. Ace Trainer Horace [Azelf-4, Mesprit-4, Kommo-o-1, Regice-2]
+
+9PCG-WWWW-WWX8-5TU9
+Battle 371 vs. Dancer Carrie [Sylveon-4, Rotom-Mow-4, Volcarona-4, Absol-4]

@@ -1,0 +1,46 @@
+DP
+X Rotation
+
+Meowstic @ Light Clay
+Ability: Prankster
+EVs: 252 HP / 196 Def / 60 SpD
+Bold Nature
+- Reflect
+- Light Screen
+- Safeguard
+- Thunder Wave
+
+Dragonite @ Lum Berry
+Ability: Multiscale
+EVs: 24 HP / 252 Atk / 232 Spe
+Adamant Nature
+- Dragon Claw
+- Earthquake
+- Extreme Speed
+- Dragon Dance
+
+Lucario @ Lucarionite
+Ability: Inner Focus
+EVs: 252 SpA / 4 SpD / 252 Spe
+IVs: 15 HP / 13 Atk / 31 Def / 31 SpA / 23 SpD / 31 Spe
+Timid Nature
+- Aura Sphere
+- Flash Cannon
+- Dark Pulse
+- Nasty Plot
+
+Clefable @ Leftovers
+Ability: Unaware
+EVs: 252 HP / 244 Def / 12 Spe
+Bold Nature
+- Moonblast
+- Flamethrower
+- Calm Mind
+- Moonlight
+
+
+YCFW-WWWW-WWW8-ZCBC
+Battle 189 vs. Veteran Sibyl [Virizion-1, Regice-1, Heatran-2, Cresselia-2]
+
+Z9PG-WWWW-WWW7-HNG3
+Battle 50 vs. Battle Chatelaine Morgan [Latias-1, Terrakion-3, Virizion-3, Cobalion-2]

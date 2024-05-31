@@ -1,0 +1,45 @@
+Colton      
+Y Multi (with AI partner)
+
+Gardevoir @ Gardevoirite
+Ability: Telepathy
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 16 SpD
+Timid Nature
+- Psychic
+- Dazzling Gleam
+- Energy Ball
+- Protect
+
+Talonflame @ Choice Band
+Ability: Gale Wings
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Brave Bird
+- Tailwind
+- U-turn
+- Flare Blitz
+
+Friends List AI Partner
+
+Garchomp-3 @ Choice Scarf
+Ability: Rough Skin
+EVs: 252 Atk / 252 Spe
+Adamant Nature
+- Outrage
+- Earthquake
+- Fire Fang
+- Crunch
+
+Eelektross-3 @ Assault Vest
+Ability: Levitate
+EVs: 252 HP / 252 Atk
+Brave Nature
+- Brick Break
+- U-turn
+- Grass Knot
+- Wild Charge
+
+
+7TRG-WWWW-WW36-XVHN
+Battle 87 vs. Veteran Zenobia [Regice-1, Landorus-1] & Hex Maniac Anastasia [Gourgeist-3, Starmie-3]

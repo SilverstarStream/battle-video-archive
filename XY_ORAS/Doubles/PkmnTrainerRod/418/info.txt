@@ -1,0 +1,64 @@
+Rod
+X Doubles
+
+Charizard @ Charizardite X
+Ability: Blaze
+EVs: 108 HP / 140 Atk / 4 Def / 4 SpD / 252 Spe
+Adamant Nature
+- Flare Blitz
+- Dragon Claw
+- Dragon Dance
+- Protect
+
+Greninja @ Focus Sash
+Ability: Protean
+EVs: 12 HP / 252 SpA / 244 Spe
+Timid Nature
+- Ice Beam
+- Dark Pulse
+- Mat Block
+- Grass Knot
+
+Scizor @ Life Orb
+Ability: Technician
+EVs: 204 HP / 252 Atk / 4 Def / 4 SpD / 44 Spe
+Adamant Nature
+- Bullet Punch
+- Bug Bite
+- Protect
+- Superpower
+
+Gliscor @ Toxic Orb
+Ability: Poison Heal
+EVs: 244 HP / 4 Atk / 12 Def / 220 SpD / 28 Spe
+IVs: 31 HP / 27 Atk / 31 Def / 11 SpA / 31 SpD / 28 Spe
+Careful Nature
+- Earthquake
+- Toxic
+- Protect
+- Substitute
+
+
+W57G-WWWW-WW67-RAQ3
+Battle 419 vs. Veteran Alfie [Latios-4, Latias-3, Registeel-4, Moltres-4]
+
+MYQG-WWWW-WW67-QM5N
+Battle 407 vs. Veteran Zenobia [Thundurus-1, Regigigas-1, Heatran-2, Suicune-2]
+
+DLRG-WWWW-WW67-QM5Z
+Battle 400 vs. Psychic Haskell [Medicham-4, Reuniclus-4, Gothitelle-4, Bronzong-4]
+
+SB8G-WWWW-WW67-QM5Q
+Battle 300 vs. Hiker Rand [Chesnaught-4, Throh-4, Seismitoad-4, Nidoking-4]
+
+4N4G-WWWW-WW67-QM5T
+Battle 251 vs. Ace Trainer Gwen [Carracosta-4, Hippowdon-4, Hydreigon-4, Honchkrow-4]
+
+9G3G-WWWW-WW67-QM62
+Battle 205 vs. Veteran Eleanor [Regigigas-4, Heatran-4, Tornadus-3, Articuno-3]
+
+L9NG-WWWW-WW67-QM5V
+Battle 100 vs. Beauty Orla [Beartic-4, Slowking-4, Walrein-4, Starmie-4]
+
+XFAW-WWWW-WW67-QM63
+Battle 79 vs. Pokémon Breeder Josiane [Umbreon-4, Accelgor-4, Aerodactyl-4, Vanilluxe-4]

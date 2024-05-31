@@ -1,0 +1,192 @@
+Pat
+Omega Ruby Triples
+
+Greninja @ Focus Sash
+Ability: Protean
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Mat Block
+- Ice Beam
+- Grass Knot
+- Dark Pulse
+
+Aron @ Berry Juice
+Ability: Sturdy
+Level: 1
+Bold Nature
+- Endeavor
+- Protect
+- Toxic
+- Iron Head
+
+Talonflame @ Sky Plate
+Ability: Gale Wings
+EVs: 68 HP / 252 Atk / 188 Spe
+Adamant Nature
+- Brave Bird
+- Flare Blitz
+- Sunny Day
+- Tailwind
+
+Typhlosion @ Charcoal
+Ability: Flash Fire
+EVs: 252 SpA / 4 SpD / 252 Spe
+Modest Nature
+- Eruption
+- Solar Beam
+- Flamethrower
+- Protect
+
+Sylveon @ Choice Specs
+Ability: Pixilate
+EVs: 92 Def / 252 SpA / 164 Spe
+IVs: 30 Atk
+Modest Nature
+- Hyper Voice
+- Psyshock
+- Shadow Ball
+- Swift
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Dragon Claw
+- Earthquake
+- Iron Head
+- Protect
+
+
+XZ9G-WWWW-WW4E-E5TB
+Battle 774 vs. Roller Skater Raoul [Gyarados-3, Braviary-3, Dragonite-3, Lanturn-4, Jolteon-4, Honchkrow-4]
+
+3YQG-WWWW-WW4E-E5VK
+Battle 762 vs. Punk Girl Delaney [Honchkrow-4, Emboar-4, Spiritomb-4, Zoroark-4, Tentacruel-4, Charizard-4]
+
+Greninja @ Focus Sash
+Ability: Protean
+EVs: 40 Atk / 216 SpA / 252 Spe
+Naive Nature
+- Mat Block
+- Low Kick
+- Dark Pulse
+- Ice Beam
+
+Aron @ Berry Juice
+Ability: Sturdy
+Level: 1
+Bold Nature
+- Endeavor
+- Protect
+- Toxic
+- Iron Head
+
+Talonflame @ Sky Plate
+Ability: Gale Wings
+EVs: 68 HP / 252 Atk / 188 Spe
+Adamant Nature
+- Brave Bird
+- Flare Blitz
+- Sunny Day
+- Tailwind
+
+Typhlosion @ Charcoal
+Ability: Flash Fire
+EVs: 252 SpA / 4 SpD / 252 Spe
+Modest Nature
+- Eruption
+- Solar Beam
+- Flamethrower
+- Protect
+
+Sylveon @ Choice Specs
+Ability: Pixilate
+EVs: 92 Def / 252 SpA / 164 Spe
+IVs: 30 Atk
+Modest Nature
+- Hyper Voice
+- Psyshock
+- Shadow Ball
+- Swift
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Dragon Claw
+- Earthquake
+- Iron Head
+- Protect
+
+FXQW-WWWW-WW4E-E6WQ
+Battle 672 vs. Artist Redd [Raichu-4, Darmanitan-4, Dugtrio-4, Meganium-4, Barbaracle-4, Shiftry-4]
+
+M8FG-WWWW-WW4E-E63R
+Battle 530 vs. Hex Maniac Celia [Gardevoir-4, Espeon-4, Musharna-4, Exeggutor-4, Jynx-4, Chandelure-4]
+
+PL5G-WWWW-WW4E-E64V
+Battle 420 vs. Pokémon Ranger Hazel [Empoleon-4, Roserade-4, Floatzel-4, Steelix-4, Samurott-4, Walrein-4]
+
+3A4G-WWWW-WW4E-E6JZ
+Battle 327 vs. Pokémon Breeder Gudrun [Weavile-4, Slaking-4, Kingdra-4, Heracross-4, Mienshao-4, Volcarona-4]
+
+CA9W-WWWW-WW4E-E66M
+Battle 316 vs. Ace Trainer Gwen [Gardevoir-4, Slaking-4, Hippowdon-4, Steelix-4, Rapidash-4, Roserade-4]
+
+Greninja @ Focus Sash
+Ability: Protean
+EVs: 40 Atk / 216 SpA / 252 Spe
+Naive Nature
+- Mat Block
+- Low Kick
+- Dark Pulse
+- Ice Beam
+
+Aron @ Berry Juice
+Ability: Sturdy
+Level: 1
+Bold Nature
+- Endeavor
+- Protect
+- Toxic
+- Iron Head
+
+Talonflame @ Sky Plate
+Ability: Gale Wings
+EVs: 252 Atk / 4 Def / 252 Spe
+Adamant Nature
+- Brave Bird
+- Flare Blitz
+- Sunny Day
+- Tailwind
+
+Typhlosion @ Charcoal
+Ability: Flash Fire
+EVs: 252 SpA / 4 SpD / 252 Spe
+Modest Nature
+- Eruption
+- Solar Beam
+- Flamethrower
+- Protect
+
+Sylveon @ Choice Specs
+Ability: Pixilate
+EVs: 92 Def / 252 SpA / 164 Spe
+IVs: 30 Atk
+Modest Nature
+- Hyper Voice
+- Psyshock
+- Shadow Ball
+- Moonblast
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Dragon Claw
+- Earthquake
+- Iron Head
+- Protect
+
+PKKG-WWWW-WW4E-E6Y2
+Battle 209 vs. Hex Maniac Anastasia [Cofagrigus-4, Gardevoir-3, Spiritomb-4, Gallade-3, Alakazam-3, Mismagius-3]

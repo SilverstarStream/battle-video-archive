@@ -1,0 +1,54 @@
+Amber
+Sun v1.2 Doubles
+
+Tapu Koko @ Choice Specs
+Ability: Electric Surge
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Thunderbolt
+- Dazzling Gleam
+- Volt Switch
+- Grass Knot
+
+Raichu-Alola @ Focus Sash
+Ability: Surge Surfer
+EVs: 176 HP / 4 Def / 252 SpA / 76 Spe
+Modest Nature
+- Thunderbolt
+- Psychic
+- Electro Ball
+- Fake Out
+
+Kartana @ Electric Seed
+Ability: Beast Boost
+EVs: 180 HP / 4 Atk / 4 Def / 252 SpD / 68 Spe
+Careful Nature
+- Leaf Blade
+- Sacred Sword
+- Smart Strike
+- Detect
+
+Garchomp @ Groundium Z
+Ability: Rough Skin
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Dragon Claw
+- Earthquake
+- Poison Jab
+- Protect
+
+
+3VJG-WWWW-WWW8-629P
+Battle 222 (Loss) vs. Dancer Carrie [Passimian-4, Banette-4, Weezing-4, Abomasnow-4]
+
+5KVW-WWWW-WWW8-629D
+Battle 194 vs. Ace Trainer Lea [Whimsicott-4, Lilligant-4, Tangrowth-3, Lurantis-4]
+
+VE8G-WWWW-WWW8-6296
+Battle 187 vs. Veteran Kikujiro [Togedemaru-2, Ampharos-4, Thundurus-1, Zapdos-1]
+
+MCNG-WWWW-WWW8-6293
+Battle 172 vs. Punk Girl Zed [Crobat-3, Zoroark-4, Nidoking-3, Beedrill-4]
+
+LJTW-WWWW-WWW8-628Q
+Battle 112 vs. Punk Guy Dustin [Gyarados-3, Incineroar-3, Tauros-3, Salamence-4]

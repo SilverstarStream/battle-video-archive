@@ -1,0 +1,39 @@
+JumpXVI
+X Singles
+
+Haxorus @ Lum Berry
+Ability: Mold Breaker
+EVs: 108 HP / 252 Atk / 148 Spe
+Adamant Nature
+- Outrage
+- Earthquake
+- Substitute
+- Dragon Dance
+
+Scizor @ Scizorite
+Ability: Technician
+EVs: 244 HP / 252 Atk / 12 Spe
+Adamant Nature
+- Bullet Punch
+- Bug Bite
+- Swords Dance
+- Roost
+
+Suicune @ Leftovers
+Ability: Pressure
+EVs: 196 HP / 252 Def / 60 Spe
+Bold Nature
+- Scald
+- Icy Wind
+- Calm Mind
+- Rest
+
+
+U9GG-WWWW-WWW5-4J84
+Battle 331 vs. Veteran Howell [Tornadus-1, Virizion-2, Latias-1]
+
+TYBW-WWWW-WWW5-4J7F
+Battle 208 vs. Veteran Zenobia [Registeel-1, Zapdos-2, Terrakion-2]
+
+MMFG-WWWW-WWW5-4J76
+Battle 176 vs. Pokémon Ranger Cerese [Garchomp-4, Claydol-4, Exeggutor-4]

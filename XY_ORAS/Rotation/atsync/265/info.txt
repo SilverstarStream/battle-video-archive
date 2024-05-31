@@ -1,0 +1,42 @@
+Chris
+Y Rotation
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Double-Edge
+- Earthquake
+- Sucker Punch
+- Power-Up Punch
+
+Sylveon @ Leftovers
+Ability: Pixilate
+EVs: 244 HP / 252 Def / 12 Spe
+Bold Nature
+- Hyper Voice
+- Heal Bell
+- Wish
+- Protect
+
+Gengar @ Focus Sash
+Ability: Levitate
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Shadow Ball
+- Thunderbolt
+- Psychic
+- Destiny Bond
+
+Aegislash @ Sitrus Berry
+Ability: Stance Change
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+- Iron Head
+- Shadow Sneak
+- King's Shield
+- Swords Dance
+
+
+FUEW-WWWW-WWW6-QNKH
+Battle 266 vs. Ace Trainer Claus [Volcarona-4, Rhyperior-4, Metagross-4, Gyarados-4]

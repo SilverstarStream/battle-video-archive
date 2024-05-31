@@ -1,0 +1,48 @@
+VGC~AZ
+Ultra Moon v1.2 Doubles
+
+Slowbro @ Slowbronite
+Ability: Oblivious
+EVs: 252 HP / 4 SpA / 252 SpD
+IVs: 30 Def / 0 Spe
+Sassy Nature
+- Scald
+- Psychic
+- Slack Off
+- Trick Room
+
+Togedemaru @ Berry Juice
+Ability: Sturdy
+Level: 1
+Mild Nature
+- Endeavor
+- Fake Out
+- Toxic
+- Spiky Shield
+
+Sylveon @ Choice Specs
+Ability: Pixilate
+EVs: 252 HP / 4 Def / 252 SpA
+IVs: 0 Spe
+Quiet Nature
+- Hyper Voice
+- Psyshock
+- Hidden Power
+- Swift
+
+Incineroar @ Incinium Z
+Ability: Intimidate
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 0 Spe
+Brave Nature
+- Fake Out
+- Flare Blitz
+- Darkest Lariat
+- Low Kick
+
+
+HCHW-WWWW-WWWJ-SMZ8
+Battle 216 (Loss) vs. Aether Foundation Haley [Bruxish-4, Empoleon-4, Probopass-4, Porygon2-4]
+
+FHFW-WWWW-WWWJ-PEEC
+Battle 88 vs. Youngster Napoleon [Thundurus-1, Zapdos-1, Articuno-1, Virizion-1]

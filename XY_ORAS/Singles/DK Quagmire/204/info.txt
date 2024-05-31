@@ -1,0 +1,40 @@
+Oliver
+Omega Ruby Singles
+
+Durant @ Choice Scarf
+Ability: Truant
+EVs: 172 HP / 108 Def / 228 Spe
+Jolly Nature
+- Entrainment
+- X-Scissor
+- Iron Head
+- Aerial Ace
+
+Cloyster @ Focus Sash
+Ability: Skill Link
+EVs: 4 HP / 252 Atk / 252 Spe
+IVs: 30 SpA
+Adamant Nature
+- Shell Smash
+- Icicle Spear
+- Protect
+- Rock Blast
+
+Altaria @ Altarianite
+Ability: Natural Cure
+EVs: 64 HP / 192 Atk / 252 Spe
+Adamant Nature
+- Dragon Dance
+- Return
+- Protect
+- Earthquake
+
+
+RTRG-WWWW-WWWS-462Z
+Battle 205 vs. Veteran Alfie [Thundurus-4, Cresselia-3, Cobalion-3]
+
+HYWW-WWWW-WWWS-3DAA
+Battle 200 vs. Pokémon Ranger Hunter [Roserade-4, Cradily-4, Seismitoad-4]
+
+JKDW-WWWW-WWWS-3D55
+Battle 188 vs. Veteran Saba [Regirock-4, Moltres-1, Suicune-3]

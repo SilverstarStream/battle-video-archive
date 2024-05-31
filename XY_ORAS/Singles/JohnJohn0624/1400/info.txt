@@ -1,0 +1,45 @@
+JOHN
+Y Singles
+
+Durant @ Choice Scarf
+Ability: Truant
+EVs: 172 HP / 108 Def / 228 Spe
+Jolly Nature
+- Entrainment
+- Iron Head
+- Protect
+- X-Scissor
+
+Garchomp @ Lum Berry
+Ability: Rough Skin
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Protect
+- Outrage
+- Swords Dance
+- Earthquake
+
+Cloyster @ Focus Sash
+Ability: Skill Link
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Protect
+- Shell Smash
+- Icicle Spear
+- Rock Blast
+
+
+PD9G-WWWW-WWWH-YBKU
+Battle 1400 vs. Butler Noah [Tyranitar-4, Hydreigon-4, Shuckle-4]
+
+Y28G-WWWW-WWWA-MNS8
+Battle 1280 vs. Veteran Dorian [Raikou-1, Landorus-2, Cobalion-1]
+
+AYEG-WWWW-WWWA-L9JR
+Battle 1275 vs. Black Belt Sebastian [Arcanine-4, Typhlosion-4, Flareon-4]
+
+2A7G-WWWW-WWWA-KU7Z
+Battle 1175 vs. Veteran Sibyl [Heatran-2, Tornadus-1, Registeel-1]
+
+6TYG-WWWW-WWWA-KNPH
+Battle 1060 vs. Ace Trainer Jai [Porygon-Z-3, Alakazam-2, Roserade-3]

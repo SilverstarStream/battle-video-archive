@@ -1,0 +1,69 @@
+Cat
+Ultra Sun v1.2 Singles
+
+Durant @ Choice Scarf
+Ability: Truant
+EVs: 172 HP / 108 Atk / 228 Spe
+Jolly Nature
+- Entrainment
+- Superpower
+- X-Scissor
+- Iron Head
+
+Drapion @ Black Sludge
+Ability: Battle Armor
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+- Protect
+- Acupressure
+- Substitute
+- Throat Chop
+
+Suicune @ Leftovers
+Ability: Pressure
+EVs: 240 HP / 252 Def / 4 SpD / 12 Spe
+Bold Nature
+- Substitute
+- Calm Mind
+- Rest
+- Scald
+
+
+MPRG-WWWW-WWWN-BF66
+Battle 812 (Loss) vs. Youth Athlete Buddy [Accelgor-3, Greninja-3, Jolteon-4]
+
+BLUW-WWWW-WWWM-RSL8
+Battle 485 vs. Black Belt Arnold [Breloom-4, Aurorus-4, Tyrantrum-4]
+
+JDLG-WWWW-WWWM-RSKU
+Battle 342 vs. Youth Athlete Thamina [Alakazam-4, Raikou-2, Greninja-3]
+
+Durant @ Choice Scarf
+Ability: Truant
+EVs: 172 HP / 108 Atk / 228 Spe
+Jolly Nature
+- Entrainment
+- Superpower
+- X-Scissor
+- Iron Head
+
+Suicune @ Leftovers
+Ability: Pressure
+EVs: 240 HP / 252 Def / 4 SpD / 12 Spe
+Bold Nature
+- Substitute
+- Calm Mind
+- Rest
+- Scald
+
+Drapion @ Black Sludge
+Ability: Battle Armor
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+- Protect
+- Acupressure
+- Substitute
+- Throat Chop
+
+RL4W-WWWW-WWWG-HPDQ
+Battle 114 vs. Gentleman Mechabob [Raikou-3, Regigigas-4, Virizion-2]

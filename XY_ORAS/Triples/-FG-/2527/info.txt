@@ -1,0 +1,141 @@
+FG
+Omega Ruby Triples
+
+Talonflame @ Sharp Beak
+Ability: Gale Wings
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+- Tailwind
+- Brave Bird
+- Taunt
+- Flare Blitz
+
+Altaria @ Altarianite
+Ability: Cloud Nine
+EVs: 132 HP / 252 SpA / 124 Spe
+Modest Nature
+- Protect
+- Heal Bell
+- Hyper Voice
+- Heat Wave
+
+Greninja @ Focus Sash
+Ability: Protean
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Mat Block
+- Scald
+- Grass Knot
+- Dark Pulse
+
+Typhlosion @ Choice Specs
+Ability: Blaze
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Eruption
+- Focus Blast
+- Protect
+- Flamethrower
+
+Azumarill @ Wide Lens
+Ability: Huge Power
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+- Play Rough
+- Superpower
+- Waterfall
+- Aqua Jet
+
+Bisharp @ Assault Vest
+Ability: Defiant
+EVs: 108 HP / 252 Atk / 64 SpD / 84 Spe
+Adamant Nature
+- Iron Head
+- Low Kick
+- Psycho Cut
+- Sucker Punch
+
+
+K43G-WWWW-WW2N-RKKP
+Battle 2527 vs. Pokémon Ranger Cerese [Cradily-4, Abomasnow-4, Vileplume-4, Carracosta-4, Tangrowth-4, Swampert-4]
+
+A9QW-WWWW-WW2N-FFAZ
+Battle 2500 vs. Madame Inga [Salamence-4, Flareon-4, Poliwrath-4, Drifblim-4, Braviary-4, Muk-4]
+
+76YW-WWWW-WW2N-FFA5
+Battle 2437 vs. Garçon Porter [Snorlax-4, Hippowdon-4, Bronzong-4, Ninetales-4, Lickilicky-4, Rampardos-4]
+
+4HNG-WWWW-WW2N-FF8U
+Battle 2432 vs. Artist Rose [Excadrill-4, Pinsir-4, Magnezone-4, Arcanine-4, Mienshao-4, Flareon-4]
+
+7ACW-WWWW-WW2N-FF7L
+Battle 2065 vs. Ace Trainer Claus [Mienshao-4, Dusknoir-4, Excadrill-4, Lapras-4, Krookodile-4, Garchomp-4]
+
+DNPG-WWWW-WW2N-FF69
+Battle 2003 vs. Roller Skater Raoul [Skarmory-3, Honchkrow-3, Jolteon-4, Eelektross-4, Vespiquen-4, Aerodactyl-4]
+
+SX5G-WWWW-WW2N-FF59
+Battle 1947 vs. Butler Noah [Dusknoir-4, Togekiss-4, Kingdra-4, Excadrill-4, Wailord-4, Machamp-4]
+
+SHRG-WWWW-WW2N-FF3D
+Battle 1810 vs. Veteran Alfie [Regice-4, Articuno-4, Tornadus-3, Raikou-3, Entei-4, Latias-3]
+
+ZZBW-WWWW-WW2N-FF24
+Battle 1579 vs. Artist Wenge [Dusknoir-4, Scizor-4, Houndoom-4, Gigalith-4, Rhyperior-4, Drifblim-4]
+
+Talonflame @ Sharp Beak
+Ability: Gale Wings
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+- Tailwind
+- Brave Bird
+- Taunt
+- Flare Blitz
+
+Altaria @ Altarianite
+Ability: Natural Cure
+EVs: 132 HP / 252 SpA / 124 Spe
+Modest Nature
+- Protect
+- Ice Beam
+- Hyper Voice
+- Heat Wave
+
+Greninja @ Focus Sash
+Ability: Protean
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Mat Block
+- Ice Beam
+- Grass Knot
+- Dark Pulse
+
+Typhlosion @ Choice Specs
+Ability: Blaze
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Eruption
+- Focus Blast
+- Protect
+- Flamethrower
+
+Bisharp @ Assault Vest
+Ability: Defiant
+EVs: 108 HP / 252 Atk / 64 SpD / 84 Spe
+Adamant Nature
+- Iron Head
+- Low Kick
+- Psycho Cut
+- Sucker Punch
+
+Azumarill @ Wide Lens
+Ability: Huge Power
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+- Play Rough
+- Superpower
+- Waterfall
+- Aqua Jet
+
+2ZKW-WWWW-WW2N-FERM
+Battle 738 vs. Pokémon Ranger Hazel [Blastoise-4, Floatzel-4, Tentacruel-4, Ludicolo-4, Kingdra-4, Feraligatr-4]

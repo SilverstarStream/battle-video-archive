@@ -1,0 +1,64 @@
+Smuckem
+Sun v1.2 Doubles
+
+Kangaskhan @ Kangaskhanite
+Ability: Scrappy
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 21 SpD
+Adamant Nature
+- Fake Out
+- Drain Punch
+- Sucker Punch
+- Double-Edge
+
+Tapu Koko @ Choice Specs
+Ability: Electric Surge
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Grass Knot
+- Dazzling Gleam
+- Volt Switch
+- Thunderbolt
+
+Suicune @ Electric Seed
+Ability: Pressure
+EVs: 212 HP / 4 Def / 148 SpA / 60 SpD / 84 Spe
+Modest Nature
+- Protect
+- Tailwind
+- Ice Beam
+- Scald
+
+Landorus-Therian @ Groundium Z
+Ability: Intimidate
+EVs: 100 HP / 228 Atk / 4 Def / 20 SpD / 156 Spe
+Adamant Nature
+- Protect
+- Rock Slide
+- Knock Off
+- Earthquake
+
+
+D6LG-WWWW-WWWU-MJBW
+Battle 510 (Loss) vs. Pokémon Trainer Colress [Porygon2-3, Metagross-4, Magnezone-4, Muk-Alola-2]
+
+R2KW-WWWW-WWWU-MJ9X
+Battle 464 vs. Office Worker Darrel [Mienshao-3, Pelipper-4, Froslass-3, Mimikyu-3]
+
+PS8W-WWWW-WWWU-MJ38
+Battle 438 vs. Veteran Kikujiro [Rotom-Heat-4, Raikou-1, Togedemaru-2, Manectric-3]
+
+MTKG-WWWW-WWWU-MJWR
+Battle 430 vs. Pokémon Trainer Sina [Lilligant-3, Glaceon-4, Abomasnow-3, Oranguru-4]
+
+YSTG-WWWW-WWWU-MJDJ
+Battle 321 vs. Preschooler Victor [Salamence-4, Garchomp-4, Dragonite-4, Kommo-o-2]
+
+GG6W-WWWW-WWWU-MYTX
+Battle 302 vs. Aether Foundation Harvey [Muk-2, Walrein-4, Braviary-4, Skarmory-4]
+
+R4SG-WWWW-WWWU-MYRC
+Battle 257 vs. Pokémon Center Lady Perri [Slowbro-3, Oricorio-Pa'u-1, Bewear-4, Sylveon-3]
+
+M7AG-WWWW-WWWU-MYMX
+Battle 100 vs. Captain Kiawe [Talonflame-4, Salazzle-3, Marowak-Alola-2, Arcanine-4]

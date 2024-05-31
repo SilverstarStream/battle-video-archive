@@ -1,0 +1,330 @@
+Steven
+Omega Ruby Triples
+
+Dusclops @ Eviolite
+Ability: Frisk
+EVs: 252 HP / 124 Def / 132 SpD
+IVs: 0 Spe
+Relaxed Nature
+- Trick Room
+- Night Shade
+- Foresight
+- Brick Break
+
+Aron @ Berry Juice
+Ability: Sturdy
+Level: 1
+EVs: 100 SpD
+Jolly Nature
+- Protect
+- Roar
+- Endeavor
+- Sunny Day
+
+Togekiss @ Leftovers
+Ability: Serene Grace
+EVs: 252 HP / 52 Def / 204 SpD
+IVs: 0 Spe
+Sassy Nature
+- Air Slash
+- Heal Bell
+- Follow Me
+- Safeguard
+
+Camerupt @ Cameruptite
+Ability: Solid Rock
+EVs: 252 HP / 4 Def / 252 SpA
+IVs: 0 Spe
+Quiet Nature
+- Eruption
+- Earth Power
+- Ancient Power
+- Protect
+
+Conkeldurr @ Assault Vest
+Ability: Iron Fist
+EVs: 108 HP / 252 Atk / 4 Def / 144 SpD
+IVs: 0 Spe
+Brave Nature
+- Drain Punch
+- Mach Punch
+- Knock Off
+- Ice Punch
+
+Clawitzer @ Life Orb
+Ability: Mega Launcher
+EVs: 252 HP / 4 Def / 252 SpA
+IVs: 0 Spe
+Quiet Nature
+- Water Pulse
+- Dark Pulse
+- Aura Sphere
+- Ice Beam
+
+
+EBNG-WWWW-WW4W-33TU
+Battle 1500 vs. Black Belt Wystan [Throh-4, Shuckle-4, Darmanitan-4, Arcanine-4, Heracross-4, Houndoom-4]
+
+HVGG-WWWW-WW4W-34NL
+Battle 1456 vs. Punk Guy Quinton [Arcanine-4, Venusaur-4, Mandibuzz-4, Ninetales-4, Typhlosion-4, Toxicroak-4]
+
+Dusclops @ Eviolite
+Ability: Frisk
+EVs: 252 HP / 124 Def / 132 SpD
+IVs: 0 Spe
+Relaxed Nature
+- Trick Room
+- Night Shade
+- Foresight
+- Brick Break
+
+Aron @ Berry Juice
+Ability: Sturdy
+Level: 1
+EVs: 100 SpD
+Jolly Nature
+- Protect
+- Roar
+- Endeavor
+- Sunny Day
+
+Togekiss @ Leftovers
+Ability: Serene Grace
+EVs: 252 HP / 132 Def / 124 SpD
+IVs: 0 Spe
+Relaxed Nature
+- Air Slash
+- Heal Bell
+- Follow Me
+- Safeguard
+
+Camerupt @ Cameruptite
+Ability: Solid Rock
+EVs: 252 HP / 4 Def / 252 SpA
+IVs: 0 Spe
+Quiet Nature
+- Eruption
+- Earth Power
+- Ancient Power
+- Protect
+
+Conkeldurr @ Assault Vest
+Ability: Iron Fist
+EVs: 108 HP / 252 Atk / 4 Def / 144 SpD
+IVs: 0 Spe
+Brave Nature
+- Drain Punch
+- Mach Punch
+- Knock Off
+- Ice Punch
+
+Clawitzer @ Life Orb
+Ability: Mega Launcher
+EVs: 252 HP / 4 Def / 252 SpA
+IVs: 0 Spe
+Quiet Nature
+- Water Pulse
+- Dark Pulse
+- Aura Sphere
+- Ice Beam
+
+H66W-WWWW-WW4W-34BD
+Battle 1426 vs. Chef Caesar [Lanturn-4, Glaceon-4, Walrein-4, Weavile-4, Tentacruel-4, Quagsire-4]
+
+Q65W-WWWW-WW4W-34AL
+Battle 1340 vs. Psychic Haskell [Gardevoir-4, Drifblim-4, Slowbro-4, Bronzong-4, Musharna-4, Medicham-4]
+
+67MG-WWWW-WW4W-343D
+Battle 1303 vs. Beauty Naveen [Aromatisse-4, Houndoom-4, Drapion-4, Honchkrow-4, Blissey-4, Sylveon-4]
+
+Dusclops @ Eviolite
+Ability: Frisk
+EVs: 252 HP / 124 Def / 132 SpD
+IVs: 0 Spe
+Relaxed Nature
+- Trick Room
+- Night Shade
+- Foresight
+- Brick Break
+
+Aron @ Berry Juice
+Ability: Sturdy
+Level: 1
+EVs: 100 SpD
+Jolly Nature
+- Protect
+- Magnet Rise
+- Endeavor
+- Swagger
+
+Togekiss @ Leftovers
+Ability: Serene Grace
+EVs: 252 HP / 132 Def / 124 SpD
+IVs: 0 Spe
+Relaxed Nature
+- Air Slash
+- Sunny Day
+- Follow Me
+- Heal Bell
+
+Camerupt @ Cameruptite
+Ability: Solid Rock
+EVs: 252 HP / 4 Def / 252 SpA
+IVs: 0 Spe
+Quiet Nature
+- Eruption
+- Earth Power
+- Ancient Power
+- Protect
+
+Clawitzer @ Life Orb
+Ability: Mega Launcher
+EVs: 252 HP / 4 Def / 252 SpA
+IVs: 0 Spe
+Quiet Nature
+- Water Pulse
+- Dark Pulse
+- Aura Sphere
+- Ice Beam
+
+Conkeldurr @ Assault Vest
+Ability: Iron Fist
+EVs: 108 HP / 252 Atk / 4 Def / 144 SpD
+IVs: 0 Spe
+Brave Nature
+- Drain Punch
+- Mach Punch
+- Knock Off
+- Ice Punch
+
+RXWG-WWWW-WW2C-EYZ6
+Battle 1000 vs. Scientist Sigmund [Electrode-4, Gengar-4, Armaldo-4, Nidoking-4, Luxray-4, Tentacruel-4]
+
+Dusclops @ Eviolite
+Ability: Frisk
+EVs: 252 HP / 124 Def / 132 SpD
+IVs: 0 Spe
+Relaxed Nature
+- Trick Room
+- Night Shade
+- Foresight
+- Brick Break
+
+Aron @ Berry Juice
+Ability: Sturdy
+Level: 1
+EVs: 100 SpD
+Jolly Nature
+- Protect
+- Magnet Rise
+- Endeavor
+- Swagger
+
+Togekiss @ Leftovers
+Ability: Serene Grace
+EVs: 252 HP / 132 Def / 124 SpD
+IVs: 0 Spe
+Relaxed Nature
+- Air Slash
+- Sunny Day
+- Follow Me
+- Heal Bell
+
+Camerupt @ Cameruptite
+Ability: Solid Rock
+EVs: 252 HP / 4 Def / 252 SpA
+IVs: 0 Spe
+Quiet Nature
+- Eruption
+- Earth Power
+- Ancient Power
+- Protect
+
+Aegislash @ Life Orb
+Ability: Stance Change
+EVs: 252 HP / 4 Atk / 252 SpA
+IVs: 0 Spe
+Quiet Nature
+- Flash Cannon
+- Shadow Ball
+- Sacred Sword
+- King's Shield
+
+Conkeldurr @ Assault Vest
+Ability: Iron Fist
+EVs: 108 HP / 252 Atk / 4 Def / 144 SpD
+IVs: 0 Spe
+Brave Nature
+- Drain Punch
+- Mach Punch
+- Knock Off
+- Ice Punch
+
+5THG-WWWW-WW2C-F68D
+Battle 876 vs. Waitress Remora [Slowking-4, Kangaskhan-4, Nidoking-4, Absol-4, Musharna-4, Trevenant-4]
+
+LHAG-WWWW-WW2C-EK4L
+Battle 828 vs. Hiker Choss [Marowak-4, Krookodile-4, Dugtrio-4, Nidoking-4, Gliscor-4, Flygon-4]
+
+Dusclops @ Eviolite
+Ability: Frisk
+EVs: 252 HP / 124 Def / 132 SpD
+IVs: 0 Spe
+Relaxed Nature
+- Trick Room
+- Night Shade
+- Foresight
+- Brick Break
+
+Aron @ Berry Juice
+Ability: Sturdy
+Level: 1
+EVs: 100 SpD
+Jolly Nature
+- Protect
+- Toxic
+- Endeavor
+- Swagger
+
+Togekiss @ Leftovers
+Ability: Serene Grace
+EVs: 252 HP / 132 Def / 124 SpD
+IVs: 0 Spe
+Relaxed Nature
+- Air Slash
+- Sunny Day
+- Follow Me
+- Heal Bell
+
+Camerupt @ Cameruptite
+Ability: Solid Rock
+EVs: 252 HP / 4 Def / 252 SpA
+IVs: 0 Spe
+Quiet Nature
+- Eruption
+- Earth Power
+- Ancient Power
+- Protect
+
+Aegislash @ Life Orb
+Ability: Stance Change
+EVs: 252 HP / 4 Atk / 252 SpA
+IVs: 0 Spe
+Quiet Nature
+- Flash Cannon
+- Shadow Ball
+- Sacred Sword
+- King's Shield
+
+Conkeldurr @ Assault Vest
+Ability: Iron Fist
+EVs: 108 HP / 252 Atk / 4 Def / 144 SpD
+IVs: 0 Spe
+Brave Nature
+- Drain Punch
+- Mach Punch
+- Knock Off
+- Ice Punch
+
+HWVG-WWWW-WW2A-TSVB
+Battle 681 vs. Psychic Magus [Gengar-4, Trevenant-4, Drifblim-4, Chandelure-4, Gardevoir-4, Medicham-4]
