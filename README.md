@@ -16,7 +16,7 @@ Most videos will NOT play without taking steps to ensure battle video compatabil
 
 ORAS v1.4 can natively play all XYORAS battle videos regardless of game or update version.
 
-USUM v1.2 will not play battle videos that are not USUM v1.2. However, all gen 7 battle videos in this repo have been changed to read as USUM v1.2 videos. This might mean that some of the changed battle videos will desync when played back, but testing shows that this seems to not be an issue. The original battle videos are available for download in the releases section to the right of this repo's main page.
+USUM v1.2 will not play battle videos that are not USUM v1.2. However, all gen 7 battle videos in this repo have been changed to read as USUM v1.2 videos. This means that some of the changed battle videos might desync when played back, but desyncs did not occur during testing. The original battle videos are available for download in the releases section to the right of this repo's main page.
 
 ### Citra Directions
 1. Download any number of battle videos to a location on your computer. Individual videos can be downloaded on GitHub by selecting/opening a video file, then using the download button found on the upper right.
