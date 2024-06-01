@@ -1,5 +1,5 @@
 # battle-video-archive
-This is a repository of some of the battle videos uploaded as part of Smogon's [Battle Maison]([https://pages.github.com/](https://www.smogon.com/forums/threads/battle-maison-discussion-records.3492706/)) and [Battle Tree](https://www.smogon.com/forums/threads/battle-tree-discussion-and-records.3587215/) streak submissions following the shutdown of the 3DS servers. These are the raw battle video files, only usable by the game.
+This is a repository of some of the battle videos uploaded as part of Smogon's [Battle Maison](https://www.smogon.com/forums/threads/battle-maison-discussion-records.3492706/) and [Battle Tree](https://www.smogon.com/forums/threads/battle-tree-discussion-and-records.3587215/) streak submissions following the shutdown of the 3DS servers. These are the raw battle video files, only usable by the game.
 
 The battle videos have been sorted into folders for each streak. Additionally, each streak includes a text file describing the teams used and some basic information about each video.
 
@@ -26,5 +26,5 @@ USUM v1.2 will not play battle videos that are not USUM v1.2. However, all gen 7
      - \* This path will not exist if the game has not been started previously.
    - Descend to `user\btvideo`.
    - Copy the battle videos to the `btvideo` folder.
-   - Rename the battle videos. They must be named with 3 numeric digits, and can only be in the range `000-099`. They must include leading zeroes to be 3 digits long. For example, `042` is a valid battle video filename, and `42` is not.
+   - Rename the battle videos. They must be named with 3 numeric digits, and can only be in the range `000-099`, and cannot have a file extension. They must include leading zeroes to be 3 digits long. For example, `042` is a valid battle video filename, and `42.bin` is not.
 3. Launch the game and use the Vs. Recorder to view the battle videos. Having a save file that has progressed past the introduction and has obtained the Vs. Recorder is highly recommended.
