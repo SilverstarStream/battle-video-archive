@@ -1,5 +1,5 @@
 # battle-video-archive
-This is a repository of some of the battle videos uploaded as part of Smogon Battle Maison and Battle Tree streak submissions following the shutdown of the 3DS servers. These are the raw battle video files, only usable by the game.
+This is a repository of some of the battle videos uploaded as part of Smogon's [Battle Maison]([https://pages.github.com/](https://www.smogon.com/forums/threads/battle-maison-discussion-records.3492706/)) and [Battle Tree](https://www.smogon.com/forums/threads/battle-tree-discussion-and-records.3587215/) streak submissions following the shutdown of the 3DS servers. These are the raw battle video files, only usable by the game.
 
 The battle videos have been sorted into folders for each streak. Additionally, each streak includes a text file describing the teams used and some basic information about each video.
 
@@ -12,11 +12,11 @@ Any future emulator frontrunners are likely to be either be a fork of Citra, or 
 ### Pre-requisites
 Most videos will NOT play without taking steps to ensure battle video compatability.
 1. Use the later games in each gen (Omega Ruby, Alpha Sapphire, Ultra Sun, or Ultra Moon) for viewing battle videos.
-2. Install the game's updates. From Citra's File menu, select "Install CIA..." and select the latest update in .cia for the game. For ORAS this is v1.4, and for USUM this is v1.2.
+2. Install the game's updates. From Citra's File menu, select "Install CIA..." and select the latest update in CIA format for the game. For ORAS this is v1.4, and for USUM this is v1.2.
 
 ORAS v1.4 can natively play all XYORAS battle videos regardless of game or update version.
 
-USUM v1.2 will not play battle videos that are not USUM v1.2 videos. However, all gen 7 battle videos in this repo have been changed to read as USUM v1.2 videos. This might mean that some of the changed battle videos will desync when played back, but testing shows that this seems to not be an issue. The original battle videos are available for download in the releases section to the right of this repo's main page.
+USUM v1.2 will not play battle videos that are not USUM v1.2. However, all gen 7 battle videos in this repo have been changed to read as USUM v1.2 videos. This might mean that some of the changed battle videos will desync when played back, but testing shows that this seems to not be an issue. The original battle videos are available for download in the releases section to the right of this repo's main page.
 
 ### Citra Directions
 1. Download any number of battle videos to a location on your computer. Individual videos can be downloaded on GitHub by selecting/opening a video file, then using the download button found on the upper right.
