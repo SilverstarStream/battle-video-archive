@@ -22,7 +22,8 @@ USUM v1.2 will not play battle videos that are not USUM v1.2. However, all gen 7
 1. Download any number of battle videos to a location on your computer. Individual videos can be downloaded on GitHub by selecting/opening a video file, then using the download button found on the upper right.
 2. The downloaded videos will need to be copied to the game's extdata folder.
    - The easiest way to find the extdata folder is by right-clicking the game from Citra's game menu and selecting "Open Extra Data Location".
-      Alternatively, select File then "Open Citra Folder". From your Citra folder, descend to `sdmc\Nintendo 3DS\00000000000000000000000000000000\00000000000000000000000000000000\extdata\00000000\<titleid>`, where `<titleid>` is the titleid of the particular game *. For example, `00001B50` is Ultra Sun's titleid. The titleid of each game can be Googled.
+
+     Alternatively, select File then "Open Citra Folder". From your Citra folder, descend to `sdmc\Nintendo 3DS\00000000000000000000000000000000\00000000000000000000000000000000\extdata\00000000\<titleid>`, where `<titleid>` is the titleid of the particular game *. For example, `00001B50` is Ultra Sun's titleid. The titleid of each game can be Googled.
      - \* This path will not exist if the game has not been started previously.
    - Descend to `user\btvideo`.
    - Copy the battle videos to the `btvideo` folder.
